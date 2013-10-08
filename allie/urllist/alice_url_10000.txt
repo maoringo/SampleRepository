@@ -1,5 +1,182 @@
 | Abbreviation | Allie URL |
 |:----------:|:------------:|
+|KM-A|[http://allie.dbcls.jp/short/exact/Any/KM-A.html](http://allie.dbcls.jp/short/exact/Any/KM-A.html)|
+|VCTA|[http://allie.dbcls.jp/short/exact/Any/VCTA.html](http://allie.dbcls.jp/short/exact/Any/VCTA.html)|
+|ata|[http://allie.dbcls.jp/short/exact/Any/ata.html](http://allie.dbcls.jp/short/exact/Any/ata.html)|
+|MEED|[http://allie.dbcls.jp/short/exact/Any/MEED.html](http://allie.dbcls.jp/short/exact/Any/MEED.html)|
+|T-2 acetate|[http://allie.dbcls.jp/short/exact/Any/T-2 acetate.html](http://allie.dbcls.jp/short/exact/Any/T-2 acetate.html)|
+|dqs|[http://allie.dbcls.jp/short/exact/Any/dqs.html](http://allie.dbcls.jp/short/exact/Any/dqs.html)|
+|cfi|[http://allie.dbcls.jp/short/exact/Any/cfi.html](http://allie.dbcls.jp/short/exact/Any/cfi.html)|
+|ECW|[http://allie.dbcls.jp/short/exact/Any/ECW.html](http://allie.dbcls.jp/short/exact/Any/ECW.html)|
+|ICW|[http://allie.dbcls.jp/short/exact/Any/ICW.html](http://allie.dbcls.jp/short/exact/Any/ICW.html)|
+|pre-illness|[http://allie.dbcls.jp/short/exact/Any/pre-illness.html](http://allie.dbcls.jp/short/exact/Any/pre-illness.html)|
+|MFCA|[http://allie.dbcls.jp/short/exact/Any/MFCA.html](http://allie.dbcls.jp/short/exact/Any/MFCA.html)|
+|F-6-P|[http://allie.dbcls.jp/short/exact/Any/F-6-P.html](http://allie.dbcls.jp/short/exact/Any/F-6-P.html)|
+|EtOH|[http://allie.dbcls.jp/short/exact/Any/EtOH.html](http://allie.dbcls.jp/short/exact/Any/EtOH.html)|
+|MTR|[http://allie.dbcls.jp/short/exact/Any/MTR.html](http://allie.dbcls.jp/short/exact/Any/MTR.html)|
+|TBIN|[http://allie.dbcls.jp/short/exact/Any/TBIN.html](http://allie.dbcls.jp/short/exact/Any/TBIN.html)|
+|NJ|[http://allie.dbcls.jp/short/exact/Any/NJ.html](http://allie.dbcls.jp/short/exact/Any/NJ.html)|
+|common-Ag|[http://allie.dbcls.jp/short/exact/Any/common-Ag.html](http://allie.dbcls.jp/short/exact/Any/common-Ag.html)|
+|STAT|[http://allie.dbcls.jp/short/exact/Any/STAT.html](http://allie.dbcls.jp/short/exact/Any/STAT.html)|
+|STNR|[http://allie.dbcls.jp/short/exact/Any/STNR.html](http://allie.dbcls.jp/short/exact/Any/STNR.html)|
+|DLI|[http://allie.dbcls.jp/short/exact/Any/DLI.html](http://allie.dbcls.jp/short/exact/Any/DLI.html)|
+|A-c|[http://allie.dbcls.jp/short/exact/Any/A-c.html](http://allie.dbcls.jp/short/exact/Any/A-c.html)|
+|HAPE|[http://allie.dbcls.jp/short/exact/Any/HAPE.html](http://allie.dbcls.jp/short/exact/Any/HAPE.html)|
+|P-ca|[http://allie.dbcls.jp/short/exact/Any/P-ca.html](http://allie.dbcls.jp/short/exact/Any/P-ca.html)|
+|GPEC|[http://allie.dbcls.jp/short/exact/Any/GPEC.html](http://allie.dbcls.jp/short/exact/Any/GPEC.html)|
+|FGAR|[http://allie.dbcls.jp/short/exact/Any/FGAR.html](http://allie.dbcls.jp/short/exact/Any/FGAR.html)|
+|EF2|[http://allie.dbcls.jp/short/exact/Any/EF2.html](http://allie.dbcls.jp/short/exact/Any/EF2.html)|
+|PGA1|[http://allie.dbcls.jp/short/exact/Any/PGA1.html](http://allie.dbcls.jp/short/exact/Any/PGA1.html)|
+|RSTB|[http://allie.dbcls.jp/short/exact/Any/RSTB.html](http://allie.dbcls.jp/short/exact/Any/RSTB.html)|
+|LPB|[http://allie.dbcls.jp/short/exact/Any/LPB.html](http://allie.dbcls.jp/short/exact/Any/LPB.html)|
+|SKAT|[http://allie.dbcls.jp/short/exact/Any/SKAT.html](http://allie.dbcls.jp/short/exact/Any/SKAT.html)|
+|LH and FSH|[http://allie.dbcls.jp/short/exact/Any/LH and FSH.html](http://allie.dbcls.jp/short/exact/Any/LH and FSH.html)|
+|Eco RI|[http://allie.dbcls.jp/short/exact/Any/Eco RI.html](http://allie.dbcls.jp/short/exact/Any/Eco RI.html)|
+|Sma|[http://allie.dbcls.jp/short/exact/Any/Sma.html](http://allie.dbcls.jp/short/exact/Any/Sma.html)|
+|GIT|[http://allie.dbcls.jp/short/exact/Any/GIT.html](http://allie.dbcls.jp/short/exact/Any/GIT.html)|
+|DML|[http://allie.dbcls.jp/short/exact/Any/DML.html](http://allie.dbcls.jp/short/exact/Any/DML.html)|
+|3'-CMP|[http://allie.dbcls.jp/short/exact/Any/3'-CMP.html](http://allie.dbcls.jp/short/exact/Any/3'-CMP.html)|
+|alpha-Me-Phe|[http://allie.dbcls.jp/short/exact/Any/alpha-Me-Phe.html](http://allie.dbcls.jp/short/exact/Any/alpha-Me-Phe.html)|
+|7S NGF|[http://allie.dbcls.jp/short/exact/Any/7S NGF.html](http://allie.dbcls.jp/short/exact/Any/7S NGF.html)|
+|13C NMR|[http://allie.dbcls.jp/short/exact/Any/13C NMR.html](http://allie.dbcls.jp/short/exact/Any/13C NMR.html)|
+|IND|[http://allie.dbcls.jp/short/exact/Any/IND.html](http://allie.dbcls.jp/short/exact/Any/IND.html)|
+|IGP|[http://allie.dbcls.jp/short/exact/Any/IGP.html](http://allie.dbcls.jp/short/exact/Any/IGP.html)|
+|D-GAP|[http://allie.dbcls.jp/short/exact/Any/D-GAP.html](http://allie.dbcls.jp/short/exact/Any/D-GAP.html)|
+|mt-6A|[http://allie.dbcls.jp/short/exact/Any/mt-6A.html](http://allie.dbcls.jp/short/exact/Any/mt-6A.html)|
+|mt6A|[http://allie.dbcls.jp/short/exact/Any/mt6A.html](http://allie.dbcls.jp/short/exact/Any/mt6A.html)|
+|t6A|[http://allie.dbcls.jp/short/exact/Any/t6A.html](http://allie.dbcls.jp/short/exact/Any/t6A.html)|
+|t4C|[http://allie.dbcls.jp/short/exact/Any/t4C.html](http://allie.dbcls.jp/short/exact/Any/t4C.html)|
+|2'-deoxy-t6A|[http://allie.dbcls.jp/short/exact/Any/2'-deoxy-t6A.html](http://allie.dbcls.jp/short/exact/Any/2'-deoxy-t6A.html)|
+|t6AraA|[http://allie.dbcls.jp/short/exact/Any/t6AraA.html](http://allie.dbcls.jp/short/exact/Any/t6AraA.html)|
+|ddT|[http://allie.dbcls.jp/short/exact/Any/ddT.html](http://allie.dbcls.jp/short/exact/Any/ddT.html)|
+|NMNH|[http://allie.dbcls.jp/short/exact/Any/NMNH.html](http://allie.dbcls.jp/short/exact/Any/NMNH.html)|
+|BIC|[http://allie.dbcls.jp/short/exact/Any/BIC.html](http://allie.dbcls.jp/short/exact/Any/BIC.html)|
+|PRibPP|[http://allie.dbcls.jp/short/exact/Any/PRibPP.html](http://allie.dbcls.jp/short/exact/Any/PRibPP.html)|
+|Ado-PP-Rib|[http://allie.dbcls.jp/short/exact/Any/Ado-PP-Rib.html](http://allie.dbcls.jp/short/exact/Any/Ado-PP-Rib.html)|
+|Apo-HOL-I|[http://allie.dbcls.jp/short/exact/Any/Apo-HOL-I.html](http://allie.dbcls.jp/short/exact/Any/Apo-HOL-I.html)|
+|A-protein|[http://allie.dbcls.jp/short/exact/Any/A-protein.html](http://allie.dbcls.jp/short/exact/Any/A-protein.html)|
+|Isc|[http://allie.dbcls.jp/short/exact/Any/Isc.html](http://allie.dbcls.jp/short/exact/Any/Isc.html)|
+|AM virus|[http://allie.dbcls.jp/short/exact/Any/AM virus.html](http://allie.dbcls.jp/short/exact/Any/AM virus.html)|
+|RATR|[http://allie.dbcls.jp/short/exact/Any/RATR.html](http://allie.dbcls.jp/short/exact/Any/RATR.html)|
+|mcm5U|[http://allie.dbcls.jp/short/exact/Any/mcm5U.html](http://allie.dbcls.jp/short/exact/Any/mcm5U.html)|
+|cm5U|[http://allie.dbcls.jp/short/exact/Any/cm5U.html](http://allie.dbcls.jp/short/exact/Any/cm5U.html)|
+|UIRs|[http://allie.dbcls.jp/short/exact/Any/UIRs.html](http://allie.dbcls.jp/short/exact/Any/UIRs.html)|
+|ISG|[http://allie.dbcls.jp/short/exact/Any/ISG.html](http://allie.dbcls.jp/short/exact/Any/ISG.html)|
+|PW|[http://allie.dbcls.jp/short/exact/Any/PW.html](http://allie.dbcls.jp/short/exact/Any/PW.html)|
+|SGTX|[http://allie.dbcls.jp/short/exact/Any/SGTX.html](http://allie.dbcls.jp/short/exact/Any/SGTX.html)|
+|ta|[http://allie.dbcls.jp/short/exact/Any/ta.html](http://allie.dbcls.jp/short/exact/Any/ta.html)|
+|min. e.p.ps|[http://allie.dbcls.jp/short/exact/Any/min. e.p.ps.html](http://allie.dbcls.jp/short/exact/Any/min. e.p.ps.html)|
+|3H-5-HT|[http://allie.dbcls.jp/short/exact/Any/3H-5-HT.html](http://allie.dbcls.jp/short/exact/Any/3H-5-HT.html)|
+|nC|[http://allie.dbcls.jp/short/exact/Any/nC.html](http://allie.dbcls.jp/short/exact/Any/nC.html)|
+|NS-2|[http://allie.dbcls.jp/short/exact/Any/NS-2.html](http://allie.dbcls.jp/short/exact/Any/NS-2.html)|
+|GLUT|[http://allie.dbcls.jp/short/exact/Any/GLUT.html](http://allie.dbcls.jp/short/exact/Any/GLUT.html)|
+|LHA|[http://allie.dbcls.jp/short/exact/Any/LHA.html](http://allie.dbcls.jp/short/exact/Any/LHA.html)|
+|D-LSD|[http://allie.dbcls.jp/short/exact/Any/D-LSD.html](http://allie.dbcls.jp/short/exact/Any/D-LSD.html)|
+|MFA|[http://allie.dbcls.jp/short/exact/Any/MFA.html](http://allie.dbcls.jp/short/exact/Any/MFA.html)|
+|RDF|[http://allie.dbcls.jp/short/exact/Any/RDF.html](http://allie.dbcls.jp/short/exact/Any/RDF.html)|
+|F.V.F.A|[http://allie.dbcls.jp/short/exact/Any/F.V.F.A.html](http://allie.dbcls.jp/short/exact/Any/F.V.F.A.html)|
+|ATii|[http://allie.dbcls.jp/short/exact/Any/ATii.html](http://allie.dbcls.jp/short/exact/Any/ATii.html)|
+|sP|[http://allie.dbcls.jp/short/exact/Any/sP.html](http://allie.dbcls.jp/short/exact/Any/sP.html)|
+|L.I.S|[http://allie.dbcls.jp/short/exact/Any/L.I.S.html](http://allie.dbcls.jp/short/exact/Any/L.I.S.html)|
+|SCCGA|[http://allie.dbcls.jp/short/exact/Any/SCCGA.html](http://allie.dbcls.jp/short/exact/Any/SCCGA.html)|
+|TPases|[http://allie.dbcls.jp/short/exact/Any/TPases.html](http://allie.dbcls.jp/short/exact/Any/TPases.html)|
+|Nut|[http://allie.dbcls.jp/short/exact/Any/Nut.html](http://allie.dbcls.jp/short/exact/Any/Nut.html)|
+|RGS|[http://allie.dbcls.jp/short/exact/Any/RGS.html](http://allie.dbcls.jp/short/exact/Any/RGS.html)|
+|LHN|[http://allie.dbcls.jp/short/exact/Any/LHN.html](http://allie.dbcls.jp/short/exact/Any/LHN.html)|
+|UDE|[http://allie.dbcls.jp/short/exact/Any/UDE.html](http://allie.dbcls.jp/short/exact/Any/UDE.html)|
+|CFU-C|[http://allie.dbcls.jp/short/exact/Any/CFU-C.html](http://allie.dbcls.jp/short/exact/Any/CFU-C.html)|
+|UCSF|[http://allie.dbcls.jp/short/exact/Any/UCSF.html](http://allie.dbcls.jp/short/exact/Any/UCSF.html)|
+|VASAG|[http://allie.dbcls.jp/short/exact/Any/VASAG.html](http://allie.dbcls.jp/short/exact/Any/VASAG.html)|
+|CCL|[http://allie.dbcls.jp/short/exact/Any/CCL.html](http://allie.dbcls.jp/short/exact/Any/CCL.html)|
+|S.M.T.s|[http://allie.dbcls.jp/short/exact/Any/S.M.T.s.html](http://allie.dbcls.jp/short/exact/Any/S.M.T.s.html)|
+|A-A|[http://allie.dbcls.jp/short/exact/Any/A-A.html](http://allie.dbcls.jp/short/exact/Any/A-A.html)|
+|NCFU|[http://allie.dbcls.jp/short/exact/Any/NCFU.html](http://allie.dbcls.jp/short/exact/Any/NCFU.html)|
+|LCFU|[http://allie.dbcls.jp/short/exact/Any/LCFU.html](http://allie.dbcls.jp/short/exact/Any/LCFU.html)|
+|N-OH-AAF|[http://allie.dbcls.jp/short/exact/Any/N-OH-AAF.html](http://allie.dbcls.jp/short/exact/Any/N-OH-AAF.html)|
+|PHMA|[http://allie.dbcls.jp/short/exact/Any/PHMA.html](http://allie.dbcls.jp/short/exact/Any/PHMA.html)|
+|ara-ATP|[http://allie.dbcls.jp/short/exact/Any/ara-ATP.html](http://allie.dbcls.jp/short/exact/Any/ara-ATP.html)|
+|CPFA|[http://allie.dbcls.jp/short/exact/Any/CPFA.html](http://allie.dbcls.jp/short/exact/Any/CPFA.html)|
+|5'-NPDase-V|[http://allie.dbcls.jp/short/exact/Any/5'-NPDase-V.html](http://allie.dbcls.jp/short/exact/Any/5'-NPDase-V.html)|
+|AFU|[http://allie.dbcls.jp/short/exact/Any/AFU.html](http://allie.dbcls.jp/short/exact/Any/AFU.html)|
+|IVA|[http://allie.dbcls.jp/short/exact/Any/IVA.html](http://allie.dbcls.jp/short/exact/Any/IVA.html)|
+|5-aza-C|[http://allie.dbcls.jp/short/exact/Any/5-aza-C.html](http://allie.dbcls.jp/short/exact/Any/5-aza-C.html)|
+|Compound I|[http://allie.dbcls.jp/short/exact/Any/Compound I.html](http://allie.dbcls.jp/short/exact/Any/Compound I.html)|
+|PRILAT inhibition|[http://allie.dbcls.jp/short/exact/Any/PRILAT inhibition.html](http://allie.dbcls.jp/short/exact/Any/PRILAT inhibition.html)|
+|aspartyl-tRNA|[http://allie.dbcls.jp/short/exact/Any/aspartyl-tRNA.html](http://allie.dbcls.jp/short/exact/Any/aspartyl-tRNA.html)|
+|ELME|[http://allie.dbcls.jp/short/exact/Any/ELME.html](http://allie.dbcls.jp/short/exact/Any/ELME.html)|
+|category a|[http://allie.dbcls.jp/short/exact/Any/category a.html](http://allie.dbcls.jp/short/exact/Any/category a.html)|
+|e-c|[http://allie.dbcls.jp/short/exact/Any/e-c.html](http://allie.dbcls.jp/short/exact/Any/e-c.html)|
+|ICPC|[http://allie.dbcls.jp/short/exact/Any/ICPC.html](http://allie.dbcls.jp/short/exact/Any/ICPC.html)|
+|NRL|[http://allie.dbcls.jp/short/exact/Any/NRL.html](http://allie.dbcls.jp/short/exact/Any/NRL.html)|
+|NRP|[http://allie.dbcls.jp/short/exact/Any/NRP.html](http://allie.dbcls.jp/short/exact/Any/NRP.html)|
+|NRPO|[http://allie.dbcls.jp/short/exact/Any/NRPO.html](http://allie.dbcls.jp/short/exact/Any/NRPO.html)|
+|NPO|[http://allie.dbcls.jp/short/exact/Any/NPO.html](http://allie.dbcls.jp/short/exact/Any/NPO.html)|
+|LGC|[http://allie.dbcls.jp/short/exact/Any/LGC.html](http://allie.dbcls.jp/short/exact/Any/LGC.html)|
+|LPT cells|[http://allie.dbcls.jp/short/exact/Any/LPT cells.html](http://allie.dbcls.jp/short/exact/Any/LPT cells.html)|
+|alphaCT|[http://allie.dbcls.jp/short/exact/Any/alphaCT.html](http://allie.dbcls.jp/short/exact/Any/alphaCT.html)|
+|CLB|[http://allie.dbcls.jp/short/exact/Any/CLB.html](http://allie.dbcls.jp/short/exact/Any/CLB.html)|
+|MNUS|[http://allie.dbcls.jp/short/exact/Any/MNUS.html](http://allie.dbcls.jp/short/exact/Any/MNUS.html)|
+|delta5-3 beta-HSDH|[http://allie.dbcls.jp/short/exact/Any/delta5-3 beta-HSDH.html](http://allie.dbcls.jp/short/exact/Any/delta5-3 beta-HSDH.html)|
+|beta LPH47-53|[http://allie.dbcls.jp/short/exact/Any/beta LPH47-53.html](http://allie.dbcls.jp/short/exact/Any/beta LPH47-53.html)|
+|Sh-O|[http://allie.dbcls.jp/short/exact/Any/Sh-O.html](http://allie.dbcls.jp/short/exact/Any/Sh-O.html)|
+|Tet|[http://allie.dbcls.jp/short/exact/Any/Tet.html](http://allie.dbcls.jp/short/exact/Any/Tet.html)|
+|Ero|[http://allie.dbcls.jp/short/exact/Any/Ero.html](http://allie.dbcls.jp/short/exact/Any/Ero.html)|
+|Cli|[http://allie.dbcls.jp/short/exact/Any/Cli.html](http://allie.dbcls.jp/short/exact/Any/Cli.html)|
+|PEWV|[http://allie.dbcls.jp/short/exact/Any/PEWV.html](http://allie.dbcls.jp/short/exact/Any/PEWV.html)|
+|pts|[http://allie.dbcls.jp/short/exact/Any/pts.html](http://allie.dbcls.jp/short/exact/Any/pts.html)|
+|EZ|[http://allie.dbcls.jp/short/exact/Any/EZ.html](http://allie.dbcls.jp/short/exact/Any/EZ.html)|
+|PLMV|[http://allie.dbcls.jp/short/exact/Any/PLMV.html](http://allie.dbcls.jp/short/exact/Any/PLMV.html)|
+|RAO|[http://allie.dbcls.jp/short/exact/Any/RAO.html](http://allie.dbcls.jp/short/exact/Any/RAO.html)|
+|PMCS|[http://allie.dbcls.jp/short/exact/Any/PMCS.html](http://allie.dbcls.jp/short/exact/Any/PMCS.html)|
+|ALCS|[http://allie.dbcls.jp/short/exact/Any/ALCS.html](http://allie.dbcls.jp/short/exact/Any/ALCS.html)|
+|RVA/LVA|[http://allie.dbcls.jp/short/exact/Any/RVA/LVA.html](http://allie.dbcls.jp/short/exact/Any/RVA/LVA.html)|
+|SNA|[http://allie.dbcls.jp/short/exact/Any/SNA.html](http://allie.dbcls.jp/short/exact/Any/SNA.html)|
+|SART|[http://allie.dbcls.jp/short/exact/Any/SART.html](http://allie.dbcls.jp/short/exact/Any/SART.html)|
+|IMVP|[http://allie.dbcls.jp/short/exact/Any/IMVP.html](http://allie.dbcls.jp/short/exact/Any/IMVP.html)|
+|SLP|[http://allie.dbcls.jp/short/exact/Any/SLP.html](http://allie.dbcls.jp/short/exact/Any/SLP.html)|
+|HBS-Ag|[http://allie.dbcls.jp/short/exact/Any/HBS-Ag.html](http://allie.dbcls.jp/short/exact/Any/HBS-Ag.html)|
+|G.U|[http://allie.dbcls.jp/short/exact/Any/G.U.html](http://allie.dbcls.jp/short/exact/Any/G.U.html)|
+|Gal-PUT|[http://allie.dbcls.jp/short/exact/Any/Gal-PUT.html](http://allie.dbcls.jp/short/exact/Any/Gal-PUT.html)|
+|C3-PA|[http://allie.dbcls.jp/short/exact/Any/C3-PA.html](http://allie.dbcls.jp/short/exact/Any/C3-PA.html)|
+|SUN|[http://allie.dbcls.jp/short/exact/Any/SUN.html](http://allie.dbcls.jp/short/exact/Any/SUN.html)|
+|DES-DP|[http://allie.dbcls.jp/short/exact/Any/DES-DP.html](http://allie.dbcls.jp/short/exact/Any/DES-DP.html)|
+|Alb|[http://allie.dbcls.jp/short/exact/Any/Alb.html](http://allie.dbcls.jp/short/exact/Any/Alb.html)|
+|Cl-CR|[http://allie.dbcls.jp/short/exact/Any/Cl-CR.html](http://allie.dbcls.jp/short/exact/Any/Cl-CR.html)|
+|S-group|[http://allie.dbcls.jp/short/exact/Any/S-group.html](http://allie.dbcls.jp/short/exact/Any/S-group.html)|
+|R-group|[http://allie.dbcls.jp/short/exact/Any/R-group.html](http://allie.dbcls.jp/short/exact/Any/R-group.html)|
+|VHF|[http://allie.dbcls.jp/short/exact/Any/VHF.html](http://allie.dbcls.jp/short/exact/Any/VHF.html)|
+|TBB|[http://allie.dbcls.jp/short/exact/Any/TBB.html](http://allie.dbcls.jp/short/exact/Any/TBB.html)|
+|IVRT|[http://allie.dbcls.jp/short/exact/Any/IVRT.html](http://allie.dbcls.jp/short/exact/Any/IVRT.html)|
+|RFT|[http://allie.dbcls.jp/short/exact/Any/RFT.html](http://allie.dbcls.jp/short/exact/Any/RFT.html)|
+|LVETI|[http://allie.dbcls.jp/short/exact/Any/LVETI.html](http://allie.dbcls.jp/short/exact/Any/LVETI.html)|
+|PEPI|[http://allie.dbcls.jp/short/exact/Any/PEPI.html](http://allie.dbcls.jp/short/exact/Any/PEPI.html)|
+|STIs|[http://allie.dbcls.jp/short/exact/Any/STIs.html](http://allie.dbcls.jp/short/exact/Any/STIs.html)|
+|PAVC|[http://allie.dbcls.jp/short/exact/Any/PAVC.html](http://allie.dbcls.jp/short/exact/Any/PAVC.html)|
+|CAVC|[http://allie.dbcls.jp/short/exact/Any/CAVC.html](http://allie.dbcls.jp/short/exact/Any/CAVC.html)|
+|CAHD|[http://allie.dbcls.jp/short/exact/Any/CAHD.html](http://allie.dbcls.jp/short/exact/Any/CAHD.html)|
+|A-H|[http://allie.dbcls.jp/short/exact/Any/A-H.html](http://allie.dbcls.jp/short/exact/Any/A-H.html)|
+|LVOTO|[http://allie.dbcls.jp/short/exact/Any/LVOTO.html](http://allie.dbcls.jp/short/exact/Any/LVOTO.html)|
+|MMMT|[http://allie.dbcls.jp/short/exact/Any/MMMT.html](http://allie.dbcls.jp/short/exact/Any/MMMT.html)|
+|SCE|[http://allie.dbcls.jp/short/exact/Any/SCE.html](http://allie.dbcls.jp/short/exact/Any/SCE.html)|
+|Ng|[http://allie.dbcls.jp/short/exact/Any/Ng.html](http://allie.dbcls.jp/short/exact/Any/Ng.html)|
+|VPT|[http://allie.dbcls.jp/short/exact/Any/VPT.html](http://allie.dbcls.jp/short/exact/Any/VPT.html)|
+|MUs|[http://allie.dbcls.jp/short/exact/Any/MUs.html](http://allie.dbcls.jp/short/exact/Any/MUs.html)|
+|AEPs|[http://allie.dbcls.jp/short/exact/Any/AEPs.html](http://allie.dbcls.jp/short/exact/Any/AEPs.html)|
+|SEPs|[http://allie.dbcls.jp/short/exact/Any/SEPs.html](http://allie.dbcls.jp/short/exact/Any/SEPs.html)|
+|tfm|[http://allie.dbcls.jp/short/exact/Any/tfm.html](http://allie.dbcls.jp/short/exact/Any/tfm.html)|
+|PG F2alpha|[http://allie.dbcls.jp/short/exact/Any/PG F2alpha.html](http://allie.dbcls.jp/short/exact/Any/PG F2alpha.html)|
+|S.E.S|[http://allie.dbcls.jp/short/exact/Any/S.E.S.html](http://allie.dbcls.jp/short/exact/Any/S.E.S.html)|
+|N.K.N.P|[http://allie.dbcls.jp/short/exact/Any/N.K.N.P.html](http://allie.dbcls.jp/short/exact/Any/N.K.N.P.html)|
+|Cd-BP|[http://allie.dbcls.jp/short/exact/Any/Cd-BP.html](http://allie.dbcls.jp/short/exact/Any/Cd-BP.html)|
+|fruA|[http://allie.dbcls.jp/short/exact/Any/fruA.html](http://allie.dbcls.jp/short/exact/Any/fruA.html)|
+|RNase-A|[http://allie.dbcls.jp/short/exact/Any/RNase-A.html](http://allie.dbcls.jp/short/exact/Any/RNase-A.html)|
+|NPH|[http://allie.dbcls.jp/short/exact/Any/NPH.html](http://allie.dbcls.jp/short/exact/Any/NPH.html)|
+|AIMs|[http://allie.dbcls.jp/short/exact/Any/AIMs.html](http://allie.dbcls.jp/short/exact/Any/AIMs.html)|
+|CSF-SPE|[http://allie.dbcls.jp/short/exact/Any/CSF-SPE.html](http://allie.dbcls.jp/short/exact/Any/CSF-SPE.html)|
+|CTAT|[http://allie.dbcls.jp/short/exact/Any/CTAT.html](http://allie.dbcls.jp/short/exact/Any/CTAT.html)|
+|HZ|[http://allie.dbcls.jp/short/exact/Any/HZ.html](http://allie.dbcls.jp/short/exact/Any/HZ.html)|
+|MCAA|[http://allie.dbcls.jp/short/exact/Any/MCAA.html](http://allie.dbcls.jp/short/exact/Any/MCAA.html)|
+|GEM|[http://allie.dbcls.jp/short/exact/Any/GEM.html](http://allie.dbcls.jp/short/exact/Any/GEM.html)|
 |GFRP|[http://allie.dbcls.jp/short/exact/Any/GFRP.html](http://allie.dbcls.jp/short/exact/Any/GFRP.html)|
 |MSE|[http://allie.dbcls.jp/short/exact/Any/MSE.html](http://allie.dbcls.jp/short/exact/Any/MSE.html)|
 |VERP|[http://allie.dbcls.jp/short/exact/Any/VERP.html](http://allie.dbcls.jp/short/exact/Any/VERP.html)|
@@ -107,7 +284,6 @@
 |DMA|[http://allie.dbcls.jp/short/exact/Any/DMA.html](http://allie.dbcls.jp/short/exact/Any/DMA.html)|
 |CCD|[http://allie.dbcls.jp/short/exact/Any/CCD.html](http://allie.dbcls.jp/short/exact/Any/CCD.html)|
 |sIgA|[http://allie.dbcls.jp/short/exact/Any/sIgA.html](http://allie.dbcls.jp/short/exact/Any/sIgA.html)|
-|ex|[http://allie.dbcls.jp/short/exact/Any/ex.html](http://allie.dbcls.jp/short/exact/Any/ex.html)|
 |alha|[http://allie.dbcls.jp/short/exact/Any/alha.html](http://allie.dbcls.jp/short/exact/Any/alha.html)|
 |mRF|[http://allie.dbcls.jp/short/exact/Any/mRF.html](http://allie.dbcls.jp/short/exact/Any/mRF.html)|
 |agg IgG|[http://allie.dbcls.jp/short/exact/Any/agg IgG.html](http://allie.dbcls.jp/short/exact/Any/agg IgG.html)|
@@ -121,7 +297,6 @@
 |sgc|[http://allie.dbcls.jp/short/exact/Any/sgc.html](http://allie.dbcls.jp/short/exact/Any/sgc.html)|
 |F terminals|[http://allie.dbcls.jp/short/exact/Any/F terminals.html](http://allie.dbcls.jp/short/exact/Any/F terminals.html)|
 |RS terminals|[http://allie.dbcls.jp/short/exact/Any/RS terminals.html](http://allie.dbcls.jp/short/exact/Any/RS terminals.html)|
-|SG|[http://allie.dbcls.jp/short/exact/Any/SG.html](http://allie.dbcls.jp/short/exact/Any/SG.html)|
 |LLDA|[http://allie.dbcls.jp/short/exact/Any/LLDA.html](http://allie.dbcls.jp/short/exact/Any/LLDA.html)|
 |FHVD|[http://allie.dbcls.jp/short/exact/Any/FHVD.html](http://allie.dbcls.jp/short/exact/Any/FHVD.html)|
 |US-CS|[http://allie.dbcls.jp/short/exact/Any/US-CS.html](http://allie.dbcls.jp/short/exact/Any/US-CS.html)|
@@ -161,6 +336,7 @@
 |anti-nDNA|[http://allie.dbcls.jp/short/exact/Any/anti-nDNA.html](http://allie.dbcls.jp/short/exact/Any/anti-nDNA.html)|
 |EBD-R|[http://allie.dbcls.jp/short/exact/Any/EBD-R.html](http://allie.dbcls.jp/short/exact/Any/EBD-R.html)|
 |vb|[http://allie.dbcls.jp/short/exact/Any/vb.html](http://allie.dbcls.jp/short/exact/Any/vb.html)|
+|Dex|[http://allie.dbcls.jp/short/exact/Any/Dex.html](http://allie.dbcls.jp/short/exact/Any/Dex.html)|
 |SHG I|[http://allie.dbcls.jp/short/exact/Any/SHG I.html](http://allie.dbcls.jp/short/exact/Any/SHG I.html)|
 |ECO|[http://allie.dbcls.jp/short/exact/Any/ECO.html](http://allie.dbcls.jp/short/exact/Any/ECO.html)|
 |FLM|[http://allie.dbcls.jp/short/exact/Any/FLM.html](http://allie.dbcls.jp/short/exact/Any/FLM.html)|
@@ -213,7 +389,6 @@
 |FOM|[http://allie.dbcls.jp/short/exact/Any/FOM.html](http://allie.dbcls.jp/short/exact/Any/FOM.html)|
 |poly I-poly C|[http://allie.dbcls.jp/short/exact/Any/poly I-poly C.html](http://allie.dbcls.jp/short/exact/Any/poly I-poly C.html)|
 |IR curves|[http://allie.dbcls.jp/short/exact/Any/IR curves.html](http://allie.dbcls.jp/short/exact/Any/IR curves.html)|
-|RHR|[http://allie.dbcls.jp/short/exact/Any/RHR.html](http://allie.dbcls.jp/short/exact/Any/RHR.html)|
 |SpV|[http://allie.dbcls.jp/short/exact/Any/SpV.html](http://allie.dbcls.jp/short/exact/Any/SpV.html)|
 |CFGA|[http://allie.dbcls.jp/short/exact/Any/CFGA.html](http://allie.dbcls.jp/short/exact/Any/CFGA.html)|
 |D-myeloma|[http://allie.dbcls.jp/short/exact/Any/D-myeloma.html](http://allie.dbcls.jp/short/exact/Any/D-myeloma.html)|
@@ -254,7 +429,6 @@
 |Ms|[http://allie.dbcls.jp/short/exact/Any/Ms.html](http://allie.dbcls.jp/short/exact/Any/Ms.html)|
 |DSMP|[http://allie.dbcls.jp/short/exact/Any/DSMP.html](http://allie.dbcls.jp/short/exact/Any/DSMP.html)|
 |T-DHT|[http://allie.dbcls.jp/short/exact/Any/T-DHT.html](http://allie.dbcls.jp/short/exact/Any/T-DHT.html)|
-|DDTC|[http://allie.dbcls.jp/short/exact/Any/DDTC.html](http://allie.dbcls.jp/short/exact/Any/DDTC.html)|
 |P-barb|[http://allie.dbcls.jp/short/exact/Any/P-barb.html](http://allie.dbcls.jp/short/exact/Any/P-barb.html)|
 |MTQ|[http://allie.dbcls.jp/short/exact/Any/MTQ.html](http://allie.dbcls.jp/short/exact/Any/MTQ.html)|
 |SDL|[http://allie.dbcls.jp/short/exact/Any/SDL.html](http://allie.dbcls.jp/short/exact/Any/SDL.html)|
@@ -377,6 +551,8 @@
 |mC|[http://allie.dbcls.jp/short/exact/Any/mC.html](http://allie.dbcls.jp/short/exact/Any/mC.html)|
 |ds RNA|[http://allie.dbcls.jp/short/exact/Any/ds RNA.html](http://allie.dbcls.jp/short/exact/Any/ds RNA.html)|
 |HGPRTase|[http://allie.dbcls.jp/short/exact/Any/HGPRTase.html](http://allie.dbcls.jp/short/exact/Any/HGPRTase.html)|
+|VI 60|[http://allie.dbcls.jp/short/exact/Any/VI 60.html](http://allie.dbcls.jp/short/exact/Any/VI 60.html)|
+|AAER|[http://allie.dbcls.jp/short/exact/Any/AAER.html](http://allie.dbcls.jp/short/exact/Any/AAER.html)|
 |two patients|[http://allie.dbcls.jp/short/exact/Any/two patients.html](http://allie.dbcls.jp/short/exact/Any/two patients.html)|
 |RL|[http://allie.dbcls.jp/short/exact/Any/RL.html](http://allie.dbcls.jp/short/exact/Any/RL.html)|
 |RuDPCase|[http://allie.dbcls.jp/short/exact/Any/RuDPCase.html](http://allie.dbcls.jp/short/exact/Any/RuDPCase.html)|
@@ -479,7 +655,6 @@
 |DESC|[http://allie.dbcls.jp/short/exact/Any/DESC.html](http://allie.dbcls.jp/short/exact/Any/DESC.html)|
 |HRH|[http://allie.dbcls.jp/short/exact/Any/HRH.html](http://allie.dbcls.jp/short/exact/Any/HRH.html)|
 |zep|[http://allie.dbcls.jp/short/exact/Any/zep.html](http://allie.dbcls.jp/short/exact/Any/zep.html)|
-|MND|[http://allie.dbcls.jp/short/exact/Any/MND.html](http://allie.dbcls.jp/short/exact/Any/MND.html)|
 |RCI|[http://allie.dbcls.jp/short/exact/Any/RCI.html](http://allie.dbcls.jp/short/exact/Any/RCI.html)|
 |Lo|[http://allie.dbcls.jp/short/exact/Any/Lo.html](http://allie.dbcls.jp/short/exact/Any/Lo.html)|
 |19-ND|[http://allie.dbcls.jp/short/exact/Any/19-ND.html](http://allie.dbcls.jp/short/exact/Any/19-ND.html)|
@@ -516,7 +691,6 @@
 |ARCAS|[http://allie.dbcls.jp/short/exact/Any/ARCAS.html](http://allie.dbcls.jp/short/exact/Any/ARCAS.html)|
 |MCPP|[http://allie.dbcls.jp/short/exact/Any/MCPP.html](http://allie.dbcls.jp/short/exact/Any/MCPP.html)|
 |PBBs|[http://allie.dbcls.jp/short/exact/Any/PBBs.html](http://allie.dbcls.jp/short/exact/Any/PBBs.html)|
-|DCL|[http://allie.dbcls.jp/short/exact/Any/DCL.html](http://allie.dbcls.jp/short/exact/Any/DCL.html)|
 |CEEG|[http://allie.dbcls.jp/short/exact/Any/CEEG.html](http://allie.dbcls.jp/short/exact/Any/CEEG.html)|
 |dNTP's|[http://allie.dbcls.jp/short/exact/Any/dNTP's.html](http://allie.dbcls.jp/short/exact/Any/dNTP's.html)|
 |HDH|[http://allie.dbcls.jp/short/exact/Any/HDH.html](http://allie.dbcls.jp/short/exact/Any/HDH.html)|
@@ -529,7 +703,6 @@
 |OAH|[http://allie.dbcls.jp/short/exact/Any/OAH.html](http://allie.dbcls.jp/short/exact/Any/OAH.html)|
 |TN C, I, T|[http://allie.dbcls.jp/short/exact/Any/TN C, I, T.html](http://allie.dbcls.jp/short/exact/Any/TN C, I, T.html)|
 |beta-methyl-GlcNAc|[http://allie.dbcls.jp/short/exact/Any/beta-methyl-GlcNAc.html](http://allie.dbcls.jp/short/exact/Any/beta-methyl-GlcNAc.html)|
-|Pro-Leu-Arg|[http://allie.dbcls.jp/short/exact/Any/Pro-Leu-Arg.html](http://allie.dbcls.jp/short/exact/Any/Pro-Leu-Arg.html)|
 |PIIA|[http://allie.dbcls.jp/short/exact/Any/PIIA.html](http://allie.dbcls.jp/short/exact/Any/PIIA.html)|
 |BBE2M|[http://allie.dbcls.jp/short/exact/Any/BBE2M.html](http://allie.dbcls.jp/short/exact/Any/BBE2M.html)|
 |CI globulin|[http://allie.dbcls.jp/short/exact/Any/CI globulin.html](http://allie.dbcls.jp/short/exact/Any/CI globulin.html)|
@@ -693,7 +866,6 @@
 |P-FDP|[http://allie.dbcls.jp/short/exact/Any/P-FDP.html](http://allie.dbcls.jp/short/exact/Any/P-FDP.html)|
 |ASFI|[http://allie.dbcls.jp/short/exact/Any/ASFI.html](http://allie.dbcls.jp/short/exact/Any/ASFI.html)|
 |Lynx|[http://allie.dbcls.jp/short/exact/Any/Lynx.html](http://allie.dbcls.jp/short/exact/Any/Lynx.html)|
-|SNR|[http://allie.dbcls.jp/short/exact/Any/SNR.html](http://allie.dbcls.jp/short/exact/Any/SNR.html)|
 |PGOT|[http://allie.dbcls.jp/short/exact/Any/PGOT.html](http://allie.dbcls.jp/short/exact/Any/PGOT.html)|
 |EGOT|[http://allie.dbcls.jp/short/exact/Any/EGOT.html](http://allie.dbcls.jp/short/exact/Any/EGOT.html)|
 |alpha1-AT|[http://allie.dbcls.jp/short/exact/Any/alpha1-AT.html](http://allie.dbcls.jp/short/exact/Any/alpha1-AT.html)|
@@ -708,9 +880,9 @@
 |MCRDS|[http://allie.dbcls.jp/short/exact/Any/MCRDS.html](http://allie.dbcls.jp/short/exact/Any/MCRDS.html)|
 |MAPI|[http://allie.dbcls.jp/short/exact/Any/MAPI.html](http://allie.dbcls.jp/short/exact/Any/MAPI.html)|
 |M-K|[http://allie.dbcls.jp/short/exact/Any/M-K.html](http://allie.dbcls.jp/short/exact/Any/M-K.html)|
+|ATNR|[http://allie.dbcls.jp/short/exact/Any/ATNR.html](http://allie.dbcls.jp/short/exact/Any/ATNR.html)|
 |AtT|[http://allie.dbcls.jp/short/exact/Any/AtT.html](http://allie.dbcls.jp/short/exact/Any/AtT.html)|
 |GAGIP|[http://allie.dbcls.jp/short/exact/Any/GAGIP.html](http://allie.dbcls.jp/short/exact/Any/GAGIP.html)|
-|Ra|[http://allie.dbcls.jp/short/exact/Any/Ra.html](http://allie.dbcls.jp/short/exact/Any/Ra.html)|
 |Rd|[http://allie.dbcls.jp/short/exact/Any/Rd.html](http://allie.dbcls.jp/short/exact/Any/Rd.html)|
 |BGT|[http://allie.dbcls.jp/short/exact/Any/BGT.html](http://allie.dbcls.jp/short/exact/Any/BGT.html)|
 |SHS|[http://allie.dbcls.jp/short/exact/Any/SHS.html](http://allie.dbcls.jp/short/exact/Any/SHS.html)|
@@ -721,9 +893,14 @@
 |XA|[http://allie.dbcls.jp/short/exact/Any/XA.html](http://allie.dbcls.jp/short/exact/Any/XA.html)|
 |3MI|[http://allie.dbcls.jp/short/exact/Any/3MI.html](http://allie.dbcls.jp/short/exact/Any/3MI.html)|
 |Cx|[http://allie.dbcls.jp/short/exact/Any/Cx.html](http://allie.dbcls.jp/short/exact/Any/Cx.html)|
+|AHGG|[http://allie.dbcls.jp/short/exact/Any/AHGG.html](http://allie.dbcls.jp/short/exact/Any/AHGG.html)|
 |A.B.P|[http://allie.dbcls.jp/short/exact/Any/A.B.P.html](http://allie.dbcls.jp/short/exact/Any/A.B.P.html)|
 |car|[http://allie.dbcls.jp/short/exact/Any/car.html](http://allie.dbcls.jp/short/exact/Any/car.html)|
 |NOHb|[http://allie.dbcls.jp/short/exact/Any/NOHb.html](http://allie.dbcls.jp/short/exact/Any/NOHb.html)|
+|TFP|[http://allie.dbcls.jp/short/exact/Any/TFP.html](http://allie.dbcls.jp/short/exact/Any/TFP.html)|
+|TFP-SO|[http://allie.dbcls.jp/short/exact/Any/TFP-SO.html](http://allie.dbcls.jp/short/exact/Any/TFP-SO.html)|
+|Tham|[http://allie.dbcls.jp/short/exact/Any/Tham.html](http://allie.dbcls.jp/short/exact/Any/Tham.html)|
+|dbcAPM|[http://allie.dbcls.jp/short/exact/Any/dbcAPM.html](http://allie.dbcls.jp/short/exact/Any/dbcAPM.html)|
 |MEN-type 2|[http://allie.dbcls.jp/short/exact/Any/MEN-type 2.html](http://allie.dbcls.jp/short/exact/Any/MEN-type 2.html)|
 |BANA|[http://allie.dbcls.jp/short/exact/Any/BANA.html](http://allie.dbcls.jp/short/exact/Any/BANA.html)|
 |Pht|[http://allie.dbcls.jp/short/exact/Any/Pht.html](http://allie.dbcls.jp/short/exact/Any/Pht.html)|
@@ -734,7 +911,6 @@
 |spur|[http://allie.dbcls.jp/short/exact/Any/spur.html](http://allie.dbcls.jp/short/exact/Any/spur.html)|
 |RBT|[http://allie.dbcls.jp/short/exact/Any/RBT.html](http://allie.dbcls.jp/short/exact/Any/RBT.html)|
 |BEF|[http://allie.dbcls.jp/short/exact/Any/BEF.html](http://allie.dbcls.jp/short/exact/Any/BEF.html)|
-|AEV|[http://allie.dbcls.jp/short/exact/Any/AEV.html](http://allie.dbcls.jp/short/exact/Any/AEV.html)|
 |FZ|[http://allie.dbcls.jp/short/exact/Any/FZ.html](http://allie.dbcls.jp/short/exact/Any/FZ.html)|
 |NQN|[http://allie.dbcls.jp/short/exact/Any/NQN.html](http://allie.dbcls.jp/short/exact/Any/NQN.html)|
 |HVGR|[http://allie.dbcls.jp/short/exact/Any/HVGR.html](http://allie.dbcls.jp/short/exact/Any/HVGR.html)|
@@ -856,8 +1032,6 @@
 |MGr|[http://allie.dbcls.jp/short/exact/Any/MGr.html](http://allie.dbcls.jp/short/exact/Any/MGr.html)|
 |IMCD|[http://allie.dbcls.jp/short/exact/Any/IMCD.html](http://allie.dbcls.jp/short/exact/Any/IMCD.html)|
 |DNTB|[http://allie.dbcls.jp/short/exact/Any/DNTB.html](http://allie.dbcls.jp/short/exact/Any/DNTB.html)|
-|Abt|[http://allie.dbcls.jp/short/exact/Any/Abt.html](http://allie.dbcls.jp/short/exact/Any/Abt.html)|
-|ACR|[http://allie.dbcls.jp/short/exact/Any/ACR.html](http://allie.dbcls.jp/short/exact/Any/ACR.html)|
 |Ag-1|[http://allie.dbcls.jp/short/exact/Any/Ag-1.html](http://allie.dbcls.jp/short/exact/Any/Ag-1.html)|
 |AKP|[http://allie.dbcls.jp/short/exact/Any/AKP.html](http://allie.dbcls.jp/short/exact/Any/AKP.html)|
 |SFEMG|[http://allie.dbcls.jp/short/exact/Any/SFEMG.html](http://allie.dbcls.jp/short/exact/Any/SFEMG.html)|
@@ -866,7 +1040,6 @@
 |GaLV|[http://allie.dbcls.jp/short/exact/Any/GaLV.html](http://allie.dbcls.jp/short/exact/Any/GaLV.html)|
 |OCC|[http://allie.dbcls.jp/short/exact/Any/OCC.html](http://allie.dbcls.jp/short/exact/Any/OCC.html)|
 |MLTI|[http://allie.dbcls.jp/short/exact/Any/MLTI.html](http://allie.dbcls.jp/short/exact/Any/MLTI.html)|
-|TCC|[http://allie.dbcls.jp/short/exact/Any/TCC.html](http://allie.dbcls.jp/short/exact/Any/TCC.html)|
 |MC-D|[http://allie.dbcls.jp/short/exact/Any/MC-D.html](http://allie.dbcls.jp/short/exact/Any/MC-D.html)|
 |LHM|[http://allie.dbcls.jp/short/exact/Any/LHM.html](http://allie.dbcls.jp/short/exact/Any/LHM.html)|
 |DDD-131I|[http://allie.dbcls.jp/short/exact/Any/DDD-131I.html](http://allie.dbcls.jp/short/exact/Any/DDD-131I.html)|
@@ -897,7 +1070,7 @@
 |ES2|[http://allie.dbcls.jp/short/exact/Any/ES2.html](http://allie.dbcls.jp/short/exact/Any/ES2.html)|
 |TEW|[http://allie.dbcls.jp/short/exact/Any/TEW.html](http://allie.dbcls.jp/short/exact/Any/TEW.html)|
 |UHMWPE|[http://allie.dbcls.jp/short/exact/Any/UHMWPE.html](http://allie.dbcls.jp/short/exact/Any/UHMWPE.html)|
-|TDA|[http://allie.dbcls.jp/short/exact/Any/TDA.html](http://allie.dbcls.jp/short/exact/Any/TDA.html)|
+|HEMA|[http://allie.dbcls.jp/short/exact/Any/HEMA.html](http://allie.dbcls.jp/short/exact/Any/HEMA.html)|
 |cap|[http://allie.dbcls.jp/short/exact/Any/cap.html](http://allie.dbcls.jp/short/exact/Any/cap.html)|
 |2-dGlc|[http://allie.dbcls.jp/short/exact/Any/2-dGlc.html](http://allie.dbcls.jp/short/exact/Any/2-dGlc.html)|
 |20alpha-HSD|[http://allie.dbcls.jp/short/exact/Any/20alpha-HSD.html](http://allie.dbcls.jp/short/exact/Any/20alpha-HSD.html)|
@@ -998,6 +1171,7 @@
 |IMAG|[http://allie.dbcls.jp/short/exact/Any/IMAG.html](http://allie.dbcls.jp/short/exact/Any/IMAG.html)|
 |VSD's|[http://allie.dbcls.jp/short/exact/Any/VSD's.html](http://allie.dbcls.jp/short/exact/Any/VSD's.html)|
 |LVAR|[http://allie.dbcls.jp/short/exact/Any/LVAR.html](http://allie.dbcls.jp/short/exact/Any/LVAR.html)|
+|PFE|[http://allie.dbcls.jp/short/exact/Any/PFE.html](http://allie.dbcls.jp/short/exact/Any/PFE.html)|
 |LTIC|[http://allie.dbcls.jp/short/exact/Any/LTIC.html](http://allie.dbcls.jp/short/exact/Any/LTIC.html)|
 |LLP|[http://allie.dbcls.jp/short/exact/Any/LLP.html](http://allie.dbcls.jp/short/exact/Any/LLP.html)|
 |1-Me-5-VIm|[http://allie.dbcls.jp/short/exact/Any/1-Me-5-VIm.html](http://allie.dbcls.jp/short/exact/Any/1-Me-5-VIm.html)|
@@ -1041,6 +1215,9 @@
 |HOADH|[http://allie.dbcls.jp/short/exact/Any/HOADH.html](http://allie.dbcls.jp/short/exact/Any/HOADH.html)|
 |EBI|[http://allie.dbcls.jp/short/exact/Any/EBI.html](http://allie.dbcls.jp/short/exact/Any/EBI.html)|
 |NRI|[http://allie.dbcls.jp/short/exact/Any/NRI.html](http://allie.dbcls.jp/short/exact/Any/NRI.html)|
+|DOT-16,17-14C|[http://allie.dbcls.jp/short/exact/Any/DOT-16,17-14C.html](http://allie.dbcls.jp/short/exact/Any/DOT-16,17-14C.html)|
+|CNMCS|[http://allie.dbcls.jp/short/exact/Any/CNMCS.html](http://allie.dbcls.jp/short/exact/Any/CNMCS.html)|
+|Poly-P|[http://allie.dbcls.jp/short/exact/Any/Poly-P.html](http://allie.dbcls.jp/short/exact/Any/Poly-P.html)|
 |AspI|[http://allie.dbcls.jp/short/exact/Any/AspI.html](http://allie.dbcls.jp/short/exact/Any/AspI.html)|
 |NLN|[http://allie.dbcls.jp/short/exact/Any/NLN.html](http://allie.dbcls.jp/short/exact/Any/NLN.html)|
 |PChE|[http://allie.dbcls.jp/short/exact/Any/PChE.html](http://allie.dbcls.jp/short/exact/Any/PChE.html)|
@@ -1178,12 +1355,11 @@
 |PPVR|[http://allie.dbcls.jp/short/exact/Any/PPVR.html](http://allie.dbcls.jp/short/exact/Any/PPVR.html)|
 |RVDE|[http://allie.dbcls.jp/short/exact/Any/RVDE.html](http://allie.dbcls.jp/short/exact/Any/RVDE.html)|
 |CMT|[http://allie.dbcls.jp/short/exact/Any/CMT.html](http://allie.dbcls.jp/short/exact/Any/CMT.html)|
+|IMPS|[http://allie.dbcls.jp/short/exact/Any/IMPS.html](http://allie.dbcls.jp/short/exact/Any/IMPS.html)|
 |IBR-PI-3|[http://allie.dbcls.jp/short/exact/Any/IBR-PI-3.html](http://allie.dbcls.jp/short/exact/Any/IBR-PI-3.html)|
 |thioTEP|[http://allie.dbcls.jp/short/exact/Any/thioTEP.html](http://allie.dbcls.jp/short/exact/Any/thioTEP.html)|
 |rCBV|[http://allie.dbcls.jp/short/exact/Any/rCBV.html](http://allie.dbcls.jp/short/exact/Any/rCBV.html)|
-|CSFP|[http://allie.dbcls.jp/short/exact/Any/CSFP.html](http://allie.dbcls.jp/short/exact/Any/CSFP.html)|
 |KHD|[http://allie.dbcls.jp/short/exact/Any/KHD.html](http://allie.dbcls.jp/short/exact/Any/KHD.html)|
-|SBR|[http://allie.dbcls.jp/short/exact/Any/SBR.html](http://allie.dbcls.jp/short/exact/Any/SBR.html)|
 |VBS|[http://allie.dbcls.jp/short/exact/Any/VBS.html](http://allie.dbcls.jp/short/exact/Any/VBS.html)|
 |expt 1|[http://allie.dbcls.jp/short/exact/Any/expt 1.html](http://allie.dbcls.jp/short/exact/Any/expt 1.html)|
 |con|[http://allie.dbcls.jp/short/exact/Any/con.html](http://allie.dbcls.jp/short/exact/Any/con.html)|
@@ -1262,7 +1438,6 @@
 |SSNS|[http://allie.dbcls.jp/short/exact/Any/SSNS.html](http://allie.dbcls.jp/short/exact/Any/SSNS.html)|
 |EAC-RFC|[http://allie.dbcls.jp/short/exact/Any/EAC-RFC.html](http://allie.dbcls.jp/short/exact/Any/EAC-RFC.html)|
 |PWN|[http://allie.dbcls.jp/short/exact/Any/PWN.html](http://allie.dbcls.jp/short/exact/Any/PWN.html)|
-|NW|[http://allie.dbcls.jp/short/exact/Any/NW.html](http://allie.dbcls.jp/short/exact/Any/NW.html)|
 |GADS|[http://allie.dbcls.jp/short/exact/Any/GADS.html](http://allie.dbcls.jp/short/exact/Any/GADS.html)|
 |COPES|[http://allie.dbcls.jp/short/exact/Any/COPES.html](http://allie.dbcls.jp/short/exact/Any/COPES.html)|
 |alpha-GP|[http://allie.dbcls.jp/short/exact/Any/alpha-GP.html](http://allie.dbcls.jp/short/exact/Any/alpha-GP.html)|
@@ -1302,6 +1477,7 @@
 |LVSWI|[http://allie.dbcls.jp/short/exact/Any/LVSWI.html](http://allie.dbcls.jp/short/exact/Any/LVSWI.html)|
 |NFN|[http://allie.dbcls.jp/short/exact/Any/NFN.html](http://allie.dbcls.jp/short/exact/Any/NFN.html)|
 |BCG-CWS|[http://allie.dbcls.jp/short/exact/Any/BCG-CWS.html](http://allie.dbcls.jp/short/exact/Any/BCG-CWS.html)|
+|RNC|[http://allie.dbcls.jp/short/exact/Any/RNC.html](http://allie.dbcls.jp/short/exact/Any/RNC.html)|
 |HPU|[http://allie.dbcls.jp/short/exact/Any/HPU.html](http://allie.dbcls.jp/short/exact/Any/HPU.html)|
 |SHb|[http://allie.dbcls.jp/short/exact/Any/SHb.html](http://allie.dbcls.jp/short/exact/Any/SHb.html)|
 |MHb|[http://allie.dbcls.jp/short/exact/Any/MHb.html](http://allie.dbcls.jp/short/exact/Any/MHb.html)|
@@ -1327,6 +1503,7 @@
 |CSAs|[http://allie.dbcls.jp/short/exact/Any/CSAs.html](http://allie.dbcls.jp/short/exact/Any/CSAs.html)|
 |VCI|[http://allie.dbcls.jp/short/exact/Any/VCI.html](http://allie.dbcls.jp/short/exact/Any/VCI.html)|
 |CrPV|[http://allie.dbcls.jp/short/exact/Any/CrPV.html](http://allie.dbcls.jp/short/exact/Any/CrPV.html)|
+|Adh|[http://allie.dbcls.jp/short/exact/Any/Adh.html](http://allie.dbcls.jp/short/exact/Any/Adh.html)|
 |ABT|[http://allie.dbcls.jp/short/exact/Any/ABT.html](http://allie.dbcls.jp/short/exact/Any/ABT.html)|
 |sd-cells|[http://allie.dbcls.jp/short/exact/Any/sd-cells.html](http://allie.dbcls.jp/short/exact/Any/sd-cells.html)|
 |Mc|[http://allie.dbcls.jp/short/exact/Any/Mc.html](http://allie.dbcls.jp/short/exact/Any/Mc.html)|
@@ -1487,7 +1664,6 @@
 |beta-hydroxylating|[http://allie.dbcls.jp/short/exact/Any/beta-hydroxylating.html](http://allie.dbcls.jp/short/exact/Any/beta-hydroxylating.html)|
 |P'Na|[http://allie.dbcls.jp/short/exact/Any/P'Na.html](http://allie.dbcls.jp/short/exact/Any/P'Na.html)|
 |FVPT|[http://allie.dbcls.jp/short/exact/Any/FVPT.html](http://allie.dbcls.jp/short/exact/Any/FVPT.html)|
-|TCB|[http://allie.dbcls.jp/short/exact/Any/TCB.html](http://allie.dbcls.jp/short/exact/Any/TCB.html)|
 |Cosm|[http://allie.dbcls.jp/short/exact/Any/Cosm.html](http://allie.dbcls.jp/short/exact/Any/Cosm.html)|
 |H.R|[http://allie.dbcls.jp/short/exact/Any/H.R.html](http://allie.dbcls.jp/short/exact/Any/H.R.html)|
 |R.R|[http://allie.dbcls.jp/short/exact/Any/R.R.html](http://allie.dbcls.jp/short/exact/Any/R.R.html)|
@@ -1499,8 +1675,6 @@
 |UCA|[http://allie.dbcls.jp/short/exact/Any/UCA.html](http://allie.dbcls.jp/short/exact/Any/UCA.html)|
 |19HTP|[http://allie.dbcls.jp/short/exact/Any/19HTP.html](http://allie.dbcls.jp/short/exact/Any/19HTP.html)|
 |Ru|[http://allie.dbcls.jp/short/exact/Any/Ru.html](http://allie.dbcls.jp/short/exact/Any/Ru.html)|
-|DET|[http://allie.dbcls.jp/short/exact/Any/DET.html](http://allie.dbcls.jp/short/exact/Any/DET.html)|
-|NEA|[http://allie.dbcls.jp/short/exact/Any/NEA.html](http://allie.dbcls.jp/short/exact/Any/NEA.html)|
 |VE, FICO2|[http://allie.dbcls.jp/short/exact/Any/VE, FICO2.html](http://allie.dbcls.jp/short/exact/Any/VE, FICO2.html)|
 |VE, FIO2|[http://allie.dbcls.jp/short/exact/Any/VE, FIO2.html](http://allie.dbcls.jp/short/exact/Any/VE, FIO2.html)|
 |Dmax|[http://allie.dbcls.jp/short/exact/Any/Dmax.html](http://allie.dbcls.jp/short/exact/Any/Dmax.html)|
@@ -1523,6 +1697,7 @@
 |three patients|[http://allie.dbcls.jp/short/exact/Any/three patients.html](http://allie.dbcls.jp/short/exact/Any/three patients.html)|
 |OSHA|[http://allie.dbcls.jp/short/exact/Any/OSHA.html](http://allie.dbcls.jp/short/exact/Any/OSHA.html)|
 |plasminogen-proactivator|[http://allie.dbcls.jp/short/exact/Any/plasminogen-proactivator.html](http://allie.dbcls.jp/short/exact/Any/plasminogen-proactivator.html)|
+|C.A|[http://allie.dbcls.jp/short/exact/Any/C.A.html](http://allie.dbcls.jp/short/exact/Any/C.A.html)|
 |DCML|[http://allie.dbcls.jp/short/exact/Any/DCML.html](http://allie.dbcls.jp/short/exact/Any/DCML.html)|
 |Fm|[http://allie.dbcls.jp/short/exact/Any/Fm.html](http://allie.dbcls.jp/short/exact/Any/Fm.html)|
 |L-IPNA|[http://allie.dbcls.jp/short/exact/Any/L-IPNA.html](http://allie.dbcls.jp/short/exact/Any/L-IPNA.html)|
@@ -1565,6 +1740,7 @@
 |ZT-AP|[http://allie.dbcls.jp/short/exact/Any/ZT-AP.html](http://allie.dbcls.jp/short/exact/Any/ZT-AP.html)|
 |I-D|[http://allie.dbcls.jp/short/exact/Any/I-D.html](http://allie.dbcls.jp/short/exact/Any/I-D.html)|
 |OLV|[http://allie.dbcls.jp/short/exact/Any/OLV.html](http://allie.dbcls.jp/short/exact/Any/OLV.html)|
+|CBZ|[http://allie.dbcls.jp/short/exact/Any/CBZ.html](http://allie.dbcls.jp/short/exact/Any/CBZ.html)|
 |O.K.N|[http://allie.dbcls.jp/short/exact/Any/O.K.N.html](http://allie.dbcls.jp/short/exact/Any/O.K.N.html)|
 |F.I.N|[http://allie.dbcls.jp/short/exact/Any/F.I.N.html](http://allie.dbcls.jp/short/exact/Any/F.I.N.html)|
 |RIS|[http://allie.dbcls.jp/short/exact/Any/RIS.html](http://allie.dbcls.jp/short/exact/Any/RIS.html)|
@@ -1593,6 +1769,7 @@
 |Cali|[http://allie.dbcls.jp/short/exact/Any/Cali.html](http://allie.dbcls.jp/short/exact/Any/Cali.html)|
 |TVT|[http://allie.dbcls.jp/short/exact/Any/TVT.html](http://allie.dbcls.jp/short/exact/Any/TVT.html)|
 |F.P.E|[http://allie.dbcls.jp/short/exact/Any/F.P.E.html](http://allie.dbcls.jp/short/exact/Any/F.P.E.html)|
+|HPV|[http://allie.dbcls.jp/short/exact/Any/HPV.html](http://allie.dbcls.jp/short/exact/Any/HPV.html)|
 |PCWP|[http://allie.dbcls.jp/short/exact/Any/PCWP.html](http://allie.dbcls.jp/short/exact/Any/PCWP.html)|
 |HVD|[http://allie.dbcls.jp/short/exact/Any/HVD.html](http://allie.dbcls.jp/short/exact/Any/HVD.html)|
 |HCVD|[http://allie.dbcls.jp/short/exact/Any/HCVD.html](http://allie.dbcls.jp/short/exact/Any/HCVD.html)|
@@ -1604,15 +1781,18 @@
 |PCD, X|[http://allie.dbcls.jp/short/exact/Any/PCD, X.html](http://allie.dbcls.jp/short/exact/Any/PCD, X.html)|
 |EMSbeta|[http://allie.dbcls.jp/short/exact/Any/EMSbeta.html](http://allie.dbcls.jp/short/exact/Any/EMSbeta.html)|
 |EMSe|[http://allie.dbcls.jp/short/exact/Any/EMSe.html](http://allie.dbcls.jp/short/exact/Any/EMSe.html)|
+|VFR|[http://allie.dbcls.jp/short/exact/Any/VFR.html](http://allie.dbcls.jp/short/exact/Any/VFR.html)|
+|VDR|[http://allie.dbcls.jp/short/exact/Any/VDR.html](http://allie.dbcls.jp/short/exact/Any/VDR.html)|
 |ara-HxMP|[http://allie.dbcls.jp/short/exact/Any/ara-HxMP.html](http://allie.dbcls.jp/short/exact/Any/ara-HxMP.html)|
 |ara-AMP|[http://allie.dbcls.jp/short/exact/Any/ara-AMP.html](http://allie.dbcls.jp/short/exact/Any/ara-AMP.html)|
 |HGMF|[http://allie.dbcls.jp/short/exact/Any/HGMF.html](http://allie.dbcls.jp/short/exact/Any/HGMF.html)|
-|LBS|[http://allie.dbcls.jp/short/exact/Any/LBS.html](http://allie.dbcls.jp/short/exact/Any/LBS.html)|
 |PAMs|[http://allie.dbcls.jp/short/exact/Any/PAMs.html](http://allie.dbcls.jp/short/exact/Any/PAMs.html)|
 |JCP|[http://allie.dbcls.jp/short/exact/Any/JCP.html](http://allie.dbcls.jp/short/exact/Any/JCP.html)|
 |GS-ANA|[http://allie.dbcls.jp/short/exact/Any/GS-ANA.html](http://allie.dbcls.jp/short/exact/Any/GS-ANA.html)|
 |hELate|[http://allie.dbcls.jp/short/exact/Any/hELate.html](http://allie.dbcls.jp/short/exact/Any/hELate.html)|
 |VCP|[http://allie.dbcls.jp/short/exact/Any/VCP.html](http://allie.dbcls.jp/short/exact/Any/VCP.html)|
+|i.a|[http://allie.dbcls.jp/short/exact/Any/i.a.html](http://allie.dbcls.jp/short/exact/Any/i.a.html)|
+|TY-3H|[http://allie.dbcls.jp/short/exact/Any/TY-3H.html](http://allie.dbcls.jp/short/exact/Any/TY-3H.html)|
 |B-cAMP|[http://allie.dbcls.jp/short/exact/Any/B-cAMP.html](http://allie.dbcls.jp/short/exact/Any/B-cAMP.html)|
 |FPTS|[http://allie.dbcls.jp/short/exact/Any/FPTS.html](http://allie.dbcls.jp/short/exact/Any/FPTS.html)|
 |F-1-P|[http://allie.dbcls.jp/short/exact/Any/F-1-P.html](http://allie.dbcls.jp/short/exact/Any/F-1-P.html)|
@@ -1627,7 +1807,6 @@
 |IEI|[http://allie.dbcls.jp/short/exact/Any/IEI.html](http://allie.dbcls.jp/short/exact/Any/IEI.html)|
 |CMTD|[http://allie.dbcls.jp/short/exact/Any/CMTD.html](http://allie.dbcls.jp/short/exact/Any/CMTD.html)|
 |NNE|[http://allie.dbcls.jp/short/exact/Any/NNE.html](http://allie.dbcls.jp/short/exact/Any/NNE.html)|
-|Adh|[http://allie.dbcls.jp/short/exact/Any/Adh.html](http://allie.dbcls.jp/short/exact/Any/Adh.html)|
 |Odh|[http://allie.dbcls.jp/short/exact/Any/Odh.html](http://allie.dbcls.jp/short/exact/Any/Odh.html)|
 |EAO|[http://allie.dbcls.jp/short/exact/Any/EAO.html](http://allie.dbcls.jp/short/exact/Any/EAO.html)|
 |Pol I|[http://allie.dbcls.jp/short/exact/Any/Pol I.html](http://allie.dbcls.jp/short/exact/Any/Pol I.html)|
@@ -1639,7 +1818,6 @@
 |FgD|[http://allie.dbcls.jp/short/exact/Any/FgD.html](http://allie.dbcls.jp/short/exact/Any/FgD.html)|
 |FgE|[http://allie.dbcls.jp/short/exact/Any/FgE.html](http://allie.dbcls.jp/short/exact/Any/FgE.html)|
 |DCPC|[http://allie.dbcls.jp/short/exact/Any/DCPC.html](http://allie.dbcls.jp/short/exact/Any/DCPC.html)|
-|WF|[http://allie.dbcls.jp/short/exact/Any/WF.html](http://allie.dbcls.jp/short/exact/Any/WF.html)|
 |ChRBC|[http://allie.dbcls.jp/short/exact/Any/ChRBC.html](http://allie.dbcls.jp/short/exact/Any/ChRBC.html)|
 |Hb E|[http://allie.dbcls.jp/short/exact/Any/Hb E.html](http://allie.dbcls.jp/short/exact/Any/Hb E.html)|
 |MCHCs|[http://allie.dbcls.jp/short/exact/Any/MCHCs.html](http://allie.dbcls.jp/short/exact/Any/MCHCs.html)|
@@ -1713,7 +1891,6 @@
 |AcO-dihyd-stg|[http://allie.dbcls.jp/short/exact/Any/AcO-dihyd-stg.html](http://allie.dbcls.jp/short/exact/Any/AcO-dihyd-stg.html)|
 |N-hydroxy-AAF|[http://allie.dbcls.jp/short/exact/Any/N-hydroxy-AAF.html](http://allie.dbcls.jp/short/exact/Any/N-hydroxy-AAF.html)|
 |N-hydroxy-AABP|[http://allie.dbcls.jp/short/exact/Any/N-hydroxy-AABP.html](http://allie.dbcls.jp/short/exact/Any/N-hydroxy-AABP.html)|
-|I. F|[http://allie.dbcls.jp/short/exact/Any/I. F.html](http://allie.dbcls.jp/short/exact/Any/I. F.html)|
 |M-BSA|[http://allie.dbcls.jp/short/exact/Any/M-BSA.html](http://allie.dbcls.jp/short/exact/Any/M-BSA.html)|
 |Az|[http://allie.dbcls.jp/short/exact/Any/Az.html](http://allie.dbcls.jp/short/exact/Any/Az.html)|
 |Pa|[http://allie.dbcls.jp/short/exact/Any/Pa.html](http://allie.dbcls.jp/short/exact/Any/Pa.html)|
@@ -1743,7 +1920,6 @@
 |W max|[http://allie.dbcls.jp/short/exact/Any/W max.html](http://allie.dbcls.jp/short/exact/Any/W max.html)|
 |SACT|[http://allie.dbcls.jp/short/exact/Any/SACT.html](http://allie.dbcls.jp/short/exact/Any/SACT.html)|
 |PCh|[http://allie.dbcls.jp/short/exact/Any/PCh.html](http://allie.dbcls.jp/short/exact/Any/PCh.html)|
-|Sph|[http://allie.dbcls.jp/short/exact/Any/Sph.html](http://allie.dbcls.jp/short/exact/Any/Sph.html)|
 |p.m.d|[http://allie.dbcls.jp/short/exact/Any/p.m.d.html](http://allie.dbcls.jp/short/exact/Any/p.m.d.html)|
 |la|[http://allie.dbcls.jp/short/exact/Any/la.html](http://allie.dbcls.jp/short/exact/Any/la.html)|
 |HLR|[http://allie.dbcls.jp/short/exact/Any/HLR.html](http://allie.dbcls.jp/short/exact/Any/HLR.html)|
@@ -1763,6 +1939,7 @@
 |6-dgcl|[http://allie.dbcls.jp/short/exact/Any/6-dgcl.html](http://allie.dbcls.jp/short/exact/Any/6-dgcl.html)|
 |P-Rib-PP|[http://allie.dbcls.jp/short/exact/Any/P-Rib-PP.html](http://allie.dbcls.jp/short/exact/Any/P-Rib-PP.html)|
 |cy|[http://allie.dbcls.jp/short/exact/Any/cy.html](http://allie.dbcls.jp/short/exact/Any/cy.html)|
+|GARIG|[http://allie.dbcls.jp/short/exact/Any/GARIG.html](http://allie.dbcls.jp/short/exact/Any/GARIG.html)|
 |CM-RNase|[http://allie.dbcls.jp/short/exact/Any/CM-RNase.html](http://allie.dbcls.jp/short/exact/Any/CM-RNase.html)|
 |DNP-ABG|[http://allie.dbcls.jp/short/exact/Any/DNP-ABG.html](http://allie.dbcls.jp/short/exact/Any/DNP-ABG.html)|
 |GPDD|[http://allie.dbcls.jp/short/exact/Any/GPDD.html](http://allie.dbcls.jp/short/exact/Any/GPDD.html)|
@@ -1943,6 +2120,7 @@
 |di|[http://allie.dbcls.jp/short/exact/Any/di.html](http://allie.dbcls.jp/short/exact/Any/di.html)|
 |15-me-PGF2alpha|[http://allie.dbcls.jp/short/exact/Any/15-me-PGF2alpha.html](http://allie.dbcls.jp/short/exact/Any/15-me-PGF2alpha.html)|
 |PG--LS|[http://allie.dbcls.jp/short/exact/Any/PG--LS.html](http://allie.dbcls.jp/short/exact/Any/PG--LS.html)|
+|t.l.c|[http://allie.dbcls.jp/short/exact/Any/t.l.c.html](http://allie.dbcls.jp/short/exact/Any/t.l.c.html)|
 |UOV|[http://allie.dbcls.jp/short/exact/Any/UOV.html](http://allie.dbcls.jp/short/exact/Any/UOV.html)|
 |PGF2beta|[http://allie.dbcls.jp/short/exact/Any/PGF2beta.html](http://allie.dbcls.jp/short/exact/Any/PGF2beta.html)|
 |TGS|[http://allie.dbcls.jp/short/exact/Any/TGS.html](http://allie.dbcls.jp/short/exact/Any/TGS.html)|
@@ -2005,9 +2183,7 @@
 |CTG|[http://allie.dbcls.jp/short/exact/Any/CTG.html](http://allie.dbcls.jp/short/exact/Any/CTG.html)|
 |STB|[http://allie.dbcls.jp/short/exact/Any/STB.html](http://allie.dbcls.jp/short/exact/Any/STB.html)|
 |NVL|[http://allie.dbcls.jp/short/exact/Any/NVL.html](http://allie.dbcls.jp/short/exact/Any/NVL.html)|
-|IO|[http://allie.dbcls.jp/short/exact/Any/IO.html](http://allie.dbcls.jp/short/exact/Any/IO.html)|
 |SOCT|[http://allie.dbcls.jp/short/exact/Any/SOCT.html](http://allie.dbcls.jp/short/exact/Any/SOCT.html)|
-|SCL|[http://allie.dbcls.jp/short/exact/Any/SCL.html](http://allie.dbcls.jp/short/exact/Any/SCL.html)|
 |SET|[http://allie.dbcls.jp/short/exact/Any/SET.html](http://allie.dbcls.jp/short/exact/Any/SET.html)|
 |A-Cs|[http://allie.dbcls.jp/short/exact/Any/A-Cs.html](http://allie.dbcls.jp/short/exact/Any/A-Cs.html)|
 |H-HT|[http://allie.dbcls.jp/short/exact/Any/H-HT.html](http://allie.dbcls.jp/short/exact/Any/H-HT.html)|
@@ -2070,6 +2246,7 @@
 |H.B.V|[http://allie.dbcls.jp/short/exact/Any/H.B.V.html](http://allie.dbcls.jp/short/exact/Any/H.B.V.html)|
 |DHET|[http://allie.dbcls.jp/short/exact/Any/DHET.html](http://allie.dbcls.jp/short/exact/Any/DHET.html)|
 |SIR|[http://allie.dbcls.jp/short/exact/Any/SIR.html](http://allie.dbcls.jp/short/exact/Any/SIR.html)|
+|BrUdR|[http://allie.dbcls.jp/short/exact/Any/BrUdR.html](http://allie.dbcls.jp/short/exact/Any/BrUdR.html)|
 |MCQ's|[http://allie.dbcls.jp/short/exact/Any/MCQ's.html](http://allie.dbcls.jp/short/exact/Any/MCQ's.html)|
 |PMP's|[http://allie.dbcls.jp/short/exact/Any/PMP's.html](http://allie.dbcls.jp/short/exact/Any/PMP's.html)|
 |FCI|[http://allie.dbcls.jp/short/exact/Any/FCI.html](http://allie.dbcls.jp/short/exact/Any/FCI.html)|
@@ -2105,7 +2282,6 @@
 |ACN|[http://allie.dbcls.jp/short/exact/Any/ACN.html](http://allie.dbcls.jp/short/exact/Any/ACN.html)|
 |20alpha-P|[http://allie.dbcls.jp/short/exact/Any/20alpha-P.html](http://allie.dbcls.jp/short/exact/Any/20alpha-P.html)|
 |16alpha-P|[http://allie.dbcls.jp/short/exact/Any/16alpha-P.html](http://allie.dbcls.jp/short/exact/Any/16alpha-P.html)|
-|AHD|[http://allie.dbcls.jp/short/exact/Any/AHD.html](http://allie.dbcls.jp/short/exact/Any/AHD.html)|
 |125I-BP|[http://allie.dbcls.jp/short/exact/Any/125I-BP.html](http://allie.dbcls.jp/short/exact/Any/125I-BP.html)|
 |anti-Ig|[http://allie.dbcls.jp/short/exact/Any/anti-Ig.html](http://allie.dbcls.jp/short/exact/Any/anti-Ig.html)|
 |IBD|[http://allie.dbcls.jp/short/exact/Any/IBD.html](http://allie.dbcls.jp/short/exact/Any/IBD.html)|
@@ -2116,7 +2292,6 @@
 |SFTSRC|[http://allie.dbcls.jp/short/exact/Any/SFTSRC.html](http://allie.dbcls.jp/short/exact/Any/SFTSRC.html)|
 |p.hpt|[http://allie.dbcls.jp/short/exact/Any/p.hpt.html](http://allie.dbcls.jp/short/exact/Any/p.hpt.html)|
 |SSAM|[http://allie.dbcls.jp/short/exact/Any/SSAM.html](http://allie.dbcls.jp/short/exact/Any/SSAM.html)|
-|BPM|[http://allie.dbcls.jp/short/exact/Any/BPM.html](http://allie.dbcls.jp/short/exact/Any/BPM.html)|
 |SRA|[http://allie.dbcls.jp/short/exact/Any/SRA.html](http://allie.dbcls.jp/short/exact/Any/SRA.html)|
 |OVLT|[http://allie.dbcls.jp/short/exact/Any/OVLT.html](http://allie.dbcls.jp/short/exact/Any/OVLT.html)|
 |3'-dATP|[http://allie.dbcls.jp/short/exact/Any/3'-dATP.html](http://allie.dbcls.jp/short/exact/Any/3'-dATP.html)|
@@ -2271,7 +2446,6 @@
 |Zr|[http://allie.dbcls.jp/short/exact/Any/Zr.html](http://allie.dbcls.jp/short/exact/Any/Zr.html)|
 |CDTA|[http://allie.dbcls.jp/short/exact/Any/CDTA.html](http://allie.dbcls.jp/short/exact/Any/CDTA.html)|
 |DAPQ|[http://allie.dbcls.jp/short/exact/Any/DAPQ.html](http://allie.dbcls.jp/short/exact/Any/DAPQ.html)|
-|ESC|[http://allie.dbcls.jp/short/exact/Any/ESC.html](http://allie.dbcls.jp/short/exact/Any/ESC.html)|
 |simultaneous effect|[http://allie.dbcls.jp/short/exact/Any/simultaneous effect.html](http://allie.dbcls.jp/short/exact/Any/simultaneous effect.html)|
 |delta5-3beta HSDH|[http://allie.dbcls.jp/short/exact/Any/delta5-3beta HSDH.html](http://allie.dbcls.jp/short/exact/Any/delta5-3beta HSDH.html)|
 |18-OH-B|[http://allie.dbcls.jp/short/exact/Any/18-OH-B.html](http://allie.dbcls.jp/short/exact/Any/18-OH-B.html)|
@@ -2338,6 +2512,9 @@
 |mF|[http://allie.dbcls.jp/short/exact/Any/mF.html](http://allie.dbcls.jp/short/exact/Any/mF.html)|
 |RGT|[http://allie.dbcls.jp/short/exact/Any/RGT.html](http://allie.dbcls.jp/short/exact/Any/RGT.html)|
 |NICE|[http://allie.dbcls.jp/short/exact/Any/NICE.html](http://allie.dbcls.jp/short/exact/Any/NICE.html)|
+|5-HMC|[http://allie.dbcls.jp/short/exact/Any/5-HMC.html](http://allie.dbcls.jp/short/exact/Any/5-HMC.html)|
+|N6MBcAMP|[http://allie.dbcls.jp/short/exact/Any/N6MBcAMP.html](http://allie.dbcls.jp/short/exact/Any/N6MBcAMP.html)|
+|O2' MBcAMP|[http://allie.dbcls.jp/short/exact/Any/O2' MBcAMP.html](http://allie.dbcls.jp/short/exact/Any/O2' MBcAMP.html)|
 |AV N|[http://allie.dbcls.jp/short/exact/Any/AV N.html](http://allie.dbcls.jp/short/exact/Any/AV N.html)|
 |M.R.A|[http://allie.dbcls.jp/short/exact/Any/M.R.A.html](http://allie.dbcls.jp/short/exact/Any/M.R.A.html)|
 |CHK|[http://allie.dbcls.jp/short/exact/Any/CHK.html](http://allie.dbcls.jp/short/exact/Any/CHK.html)|
@@ -2402,14 +2579,12 @@
 |AcS|[http://allie.dbcls.jp/short/exact/Any/AcS.html](http://allie.dbcls.jp/short/exact/Any/AcS.html)|
 |min|[http://allie.dbcls.jp/short/exact/Any/min.html](http://allie.dbcls.jp/short/exact/Any/min.html)|
 |EMF's|[http://allie.dbcls.jp/short/exact/Any/EMF's.html](http://allie.dbcls.jp/short/exact/Any/EMF's.html)|
-|S-IgA|[http://allie.dbcls.jp/short/exact/Any/S-IgA.html](http://allie.dbcls.jp/short/exact/Any/S-IgA.html)|
 |SVCS|[http://allie.dbcls.jp/short/exact/Any/SVCS.html](http://allie.dbcls.jp/short/exact/Any/SVCS.html)|
 |m-BEN|[http://allie.dbcls.jp/short/exact/Any/m-BEN.html](http://allie.dbcls.jp/short/exact/Any/m-BEN.html)|
 |HUS|[http://allie.dbcls.jp/short/exact/Any/HUS.html](http://allie.dbcls.jp/short/exact/Any/HUS.html)|
 |ammonia, uric acid|[http://allie.dbcls.jp/short/exact/Any/ammonia, uric acid.html](http://allie.dbcls.jp/short/exact/Any/ammonia, uric acid.html)|
 |C-fibres|[http://allie.dbcls.jp/short/exact/Any/C-fibres.html](http://allie.dbcls.jp/short/exact/Any/C-fibres.html)|
 |SDD|[http://allie.dbcls.jp/short/exact/Any/SDD.html](http://allie.dbcls.jp/short/exact/Any/SDD.html)|
-|MCTD|[http://allie.dbcls.jp/short/exact/Any/MCTD.html](http://allie.dbcls.jp/short/exact/Any/MCTD.html)|
 |Berl|[http://allie.dbcls.jp/short/exact/Any/Berl.html](http://allie.dbcls.jp/short/exact/Any/Berl.html)|
 |gammah80 DNA|[http://allie.dbcls.jp/short/exact/Any/gammah80 DNA.html](http://allie.dbcls.jp/short/exact/Any/gammah80 DNA.html)|
 |Str-I|[http://allie.dbcls.jp/short/exact/Any/Str-I.html](http://allie.dbcls.jp/short/exact/Any/Str-I.html)|
@@ -2453,7 +2628,6 @@
 |G-6-PD, EC 1.1.1.49|[http://allie.dbcls.jp/short/exact/Any/G-6-PD, EC 1.1.1.49.html](http://allie.dbcls.jp/short/exact/Any/G-6-PD, EC 1.1.1.49.html)|
 |TEAA|[http://allie.dbcls.jp/short/exact/Any/TEAA.html](http://allie.dbcls.jp/short/exact/Any/TEAA.html)|
 |b.m|[http://allie.dbcls.jp/short/exact/Any/b.m.html](http://allie.dbcls.jp/short/exact/Any/b.m.html)|
-|HSV1|[http://allie.dbcls.jp/short/exact/Any/HSV1.html](http://allie.dbcls.jp/short/exact/Any/HSV1.html)|
 |S-7-P|[http://allie.dbcls.jp/short/exact/Any/S-7-P.html](http://allie.dbcls.jp/short/exact/Any/S-7-P.html)|
 |RPPPK|[http://allie.dbcls.jp/short/exact/Any/RPPPK.html](http://allie.dbcls.jp/short/exact/Any/RPPPK.html)|
 |Bf|[http://allie.dbcls.jp/short/exact/Any/Bf.html](http://allie.dbcls.jp/short/exact/Any/Bf.html)|
@@ -2558,6 +2732,9 @@
 |S-t|[http://allie.dbcls.jp/short/exact/Any/S-t.html](http://allie.dbcls.jp/short/exact/Any/S-t.html)|
 |q-t|[http://allie.dbcls.jp/short/exact/Any/q-t.html](http://allie.dbcls.jp/short/exact/Any/q-t.html)|
 |Td. IEP|[http://allie.dbcls.jp/short/exact/Any/Td. IEP.html](http://allie.dbcls.jp/short/exact/Any/Td. IEP.html)|
+|alpha1M|[http://allie.dbcls.jp/short/exact/Any/alpha1M.html](http://allie.dbcls.jp/short/exact/Any/alpha1M.html)|
+|alpha1AP globulin|[http://allie.dbcls.jp/short/exact/Any/alpha1AP globulin.html](http://allie.dbcls.jp/short/exact/Any/alpha1AP globulin.html)|
+|T.P.E|[http://allie.dbcls.jp/short/exact/Any/T.P.E.html](http://allie.dbcls.jp/short/exact/Any/T.P.E.html)|
 |5 HTP|[http://allie.dbcls.jp/short/exact/Any/5 HTP.html](http://allie.dbcls.jp/short/exact/Any/5 HTP.html)|
 |GvhR|[http://allie.dbcls.jp/short/exact/Any/GvhR.html](http://allie.dbcls.jp/short/exact/Any/GvhR.html)|
 |RKCG|[http://allie.dbcls.jp/short/exact/Any/RKCG.html](http://allie.dbcls.jp/short/exact/Any/RKCG.html)|
@@ -2602,7 +2779,6 @@
 |IRMA|[http://allie.dbcls.jp/short/exact/Any/IRMA.html](http://allie.dbcls.jp/short/exact/Any/IRMA.html)|
 |R.R.M|[http://allie.dbcls.jp/short/exact/Any/R.R.M.html](http://allie.dbcls.jp/short/exact/Any/R.R.M.html)|
 |EDHP|[http://allie.dbcls.jp/short/exact/Any/EDHP.html](http://allie.dbcls.jp/short/exact/Any/EDHP.html)|
-|MTB|[http://allie.dbcls.jp/short/exact/Any/MTB.html](http://allie.dbcls.jp/short/exact/Any/MTB.html)|
 |ADST|[http://allie.dbcls.jp/short/exact/Any/ADST.html](http://allie.dbcls.jp/short/exact/Any/ADST.html)|
 |NO-DHU|[http://allie.dbcls.jp/short/exact/Any/NO-DHU.html](http://allie.dbcls.jp/short/exact/Any/NO-DHU.html)|
 |IPAN|[http://allie.dbcls.jp/short/exact/Any/IPAN.html](http://allie.dbcls.jp/short/exact/Any/IPAN.html)|
@@ -2719,7 +2895,6 @@
 |HP-ALP|[http://allie.dbcls.jp/short/exact/Any/HP-ALP.html](http://allie.dbcls.jp/short/exact/Any/HP-ALP.html)|
 |n.i.a|[http://allie.dbcls.jp/short/exact/Any/n.i.a.html](http://allie.dbcls.jp/short/exact/Any/n.i.a.html)|
 |h.i.a|[http://allie.dbcls.jp/short/exact/Any/h.i.a.html](http://allie.dbcls.jp/short/exact/Any/h.i.a.html)|
-|GTO|[http://allie.dbcls.jp/short/exact/Any/GTO.html](http://allie.dbcls.jp/short/exact/Any/GTO.html)|
 |MD-BVD|[http://allie.dbcls.jp/short/exact/Any/MD-BVD.html](http://allie.dbcls.jp/short/exact/Any/MD-BVD.html)|
 |EHO|[http://allie.dbcls.jp/short/exact/Any/EHO.html](http://allie.dbcls.jp/short/exact/Any/EHO.html)|
 |IPPD|[http://allie.dbcls.jp/short/exact/Any/IPPD.html](http://allie.dbcls.jp/short/exact/Any/IPPD.html)|
@@ -2757,11 +2932,9 @@
 |FRPav|[http://allie.dbcls.jp/short/exact/Any/FRPav.html](http://allie.dbcls.jp/short/exact/Any/FRPav.html)|
 |ERPhp|[http://allie.dbcls.jp/short/exact/Any/ERPhp.html](http://allie.dbcls.jp/short/exact/Any/ERPhp.html)|
 |ERPAV|[http://allie.dbcls.jp/short/exact/Any/ERPAV.html](http://allie.dbcls.jp/short/exact/Any/ERPAV.html)|
-|BCL|[http://allie.dbcls.jp/short/exact/Any/BCL.html](http://allie.dbcls.jp/short/exact/Any/BCL.html)|
 |DEO|[http://allie.dbcls.jp/short/exact/Any/DEO.html](http://allie.dbcls.jp/short/exact/Any/DEO.html)|
 |CNC|[http://allie.dbcls.jp/short/exact/Any/CNC.html](http://allie.dbcls.jp/short/exact/Any/CNC.html)|
 |AECR|[http://allie.dbcls.jp/short/exact/Any/AECR.html](http://allie.dbcls.jp/short/exact/Any/AECR.html)|
-|EIC|[http://allie.dbcls.jp/short/exact/Any/EIC.html](http://allie.dbcls.jp/short/exact/Any/EIC.html)|
 |KGN|[http://allie.dbcls.jp/short/exact/Any/KGN.html](http://allie.dbcls.jp/short/exact/Any/KGN.html)|
 |PTAH|[http://allie.dbcls.jp/short/exact/Any/PTAH.html](http://allie.dbcls.jp/short/exact/Any/PTAH.html)|
 |APML|[http://allie.dbcls.jp/short/exact/Any/APML.html](http://allie.dbcls.jp/short/exact/Any/APML.html)|
@@ -2879,7 +3052,6 @@
 |M.E.A|[http://allie.dbcls.jp/short/exact/Any/M.E.A.html](http://allie.dbcls.jp/short/exact/Any/M.E.A.html)|
 |Poly A|[http://allie.dbcls.jp/short/exact/Any/Poly A.html](http://allie.dbcls.jp/short/exact/Any/Poly A.html)|
 |Sars|[http://allie.dbcls.jp/short/exact/Any/Sars.html](http://allie.dbcls.jp/short/exact/Any/Sars.html)|
-|NMF|[http://allie.dbcls.jp/short/exact/Any/NMF.html](http://allie.dbcls.jp/short/exact/Any/NMF.html)|
 |NYC|[http://allie.dbcls.jp/short/exact/Any/NYC.html](http://allie.dbcls.jp/short/exact/Any/NYC.html)|
 |UV-endo|[http://allie.dbcls.jp/short/exact/Any/UV-endo.html](http://allie.dbcls.jp/short/exact/Any/UV-endo.html)|
 |ms2I|[http://allie.dbcls.jp/short/exact/Any/ms2I.html](http://allie.dbcls.jp/short/exact/Any/ms2I.html)|
@@ -2908,36 +3080,16 @@
 |WISGE|[http://allie.dbcls.jp/short/exact/Any/WISGE.html](http://allie.dbcls.jp/short/exact/Any/WISGE.html)|
 |PVX|[http://allie.dbcls.jp/short/exact/Any/PVX.html](http://allie.dbcls.jp/short/exact/Any/PVX.html)|
 |PVYo|[http://allie.dbcls.jp/short/exact/Any/PVYo.html](http://allie.dbcls.jp/short/exact/Any/PVYo.html)|
+|RhB|[http://allie.dbcls.jp/short/exact/Any/RhB.html](http://allie.dbcls.jp/short/exact/Any/RhB.html)|
+|PATS|[http://allie.dbcls.jp/short/exact/Any/PATS.html](http://allie.dbcls.jp/short/exact/Any/PATS.html)|
+|CaCu|[http://allie.dbcls.jp/short/exact/Any/CaCu.html](http://allie.dbcls.jp/short/exact/Any/CaCu.html)|
+|PADAP|[http://allie.dbcls.jp/short/exact/Any/PADAP.html](http://allie.dbcls.jp/short/exact/Any/PADAP.html)|
 |D-2-EHPA|[http://allie.dbcls.jp/short/exact/Any/D-2-EHPA.html](http://allie.dbcls.jp/short/exact/Any/D-2-EHPA.html)|
 |GDO|[http://allie.dbcls.jp/short/exact/Any/GDO.html](http://allie.dbcls.jp/short/exact/Any/GDO.html)|
-|ERTS-1|[http://allie.dbcls.jp/short/exact/Any/ERTS-1.html](http://allie.dbcls.jp/short/exact/Any/ERTS-1.html)|
-|oil|[http://allie.dbcls.jp/short/exact/Any/oil.html](http://allie.dbcls.jp/short/exact/Any/oil.html)|
-|YAG|[http://allie.dbcls.jp/short/exact/Any/YAG.html](http://allie.dbcls.jp/short/exact/Any/YAG.html)|
-|HOL|[http://allie.dbcls.jp/short/exact/Any/HOL.html](http://allie.dbcls.jp/short/exact/Any/HOL.html)|
-|R.W|[http://allie.dbcls.jp/short/exact/Any/R.W.html](http://allie.dbcls.jp/short/exact/Any/R.W.html)|
-|el|[http://allie.dbcls.jp/short/exact/Any/el.html](http://allie.dbcls.jp/short/exact/Any/el.html)|
-|TAD|[http://allie.dbcls.jp/short/exact/Any/TAD.html](http://allie.dbcls.jp/short/exact/Any/TAD.html)|
-|AthetaS|[http://allie.dbcls.jp/short/exact/Any/AthetaS.html](http://allie.dbcls.jp/short/exact/Any/AthetaS.html)|
-|PIPA|[http://allie.dbcls.jp/short/exact/Any/PIPA.html](http://allie.dbcls.jp/short/exact/Any/PIPA.html)|
-|MuLV's|[http://allie.dbcls.jp/short/exact/Any/MuLV's.html](http://allie.dbcls.jp/short/exact/Any/MuLV's.html)|
-|st mutants|[http://allie.dbcls.jp/short/exact/Any/st mutants.html](http://allie.dbcls.jp/short/exact/Any/st mutants.html)|
-|DSPD|[http://allie.dbcls.jp/short/exact/Any/DSPD.html](http://allie.dbcls.jp/short/exact/Any/DSPD.html)|
-|SIRV|[http://allie.dbcls.jp/short/exact/Any/SIRV.html](http://allie.dbcls.jp/short/exact/Any/SIRV.html)|
-|SIHM|[http://allie.dbcls.jp/short/exact/Any/SIHM.html](http://allie.dbcls.jp/short/exact/Any/SIHM.html)|
-|6-PGluA|[http://allie.dbcls.jp/short/exact/Any/6-PGluA.html](http://allie.dbcls.jp/short/exact/Any/6-PGluA.html)|
-|mes|[http://allie.dbcls.jp/short/exact/Any/mes.html](http://allie.dbcls.jp/short/exact/Any/mes.html)|
-|CFM|[http://allie.dbcls.jp/short/exact/Any/CFM.html](http://allie.dbcls.jp/short/exact/Any/CFM.html)|
-|PChle|[http://allie.dbcls.jp/short/exact/Any/PChle.html](http://allie.dbcls.jp/short/exact/Any/PChle.html)|
-|Chle|[http://allie.dbcls.jp/short/exact/Any/Chle.html](http://allie.dbcls.jp/short/exact/Any/Chle.html)|
-|Tms|[http://allie.dbcls.jp/short/exact/Any/Tms.html](http://allie.dbcls.jp/short/exact/Any/Tms.html)|
-|RUDPcase|[http://allie.dbcls.jp/short/exact/Any/RUDPcase.html](http://allie.dbcls.jp/short/exact/Any/RUDPcase.html)|
-|malic enzyme|[http://allie.dbcls.jp/short/exact/Any/malic enzyme.html](http://allie.dbcls.jp/short/exact/Any/malic enzyme.html)|
-|kR|[http://allie.dbcls.jp/short/exact/Any/kR.html](http://allie.dbcls.jp/short/exact/Any/kR.html)|
-|3-MeOx|[http://allie.dbcls.jp/short/exact/Any/3-MeOx.html](http://allie.dbcls.jp/short/exact/Any/3-MeOx.html)|
-|Pfr|[http://allie.dbcls.jp/short/exact/Any/Pfr.html](http://allie.dbcls.jp/short/exact/Any/Pfr.html)|
-|unk|[http://allie.dbcls.jp/short/exact/Any/unk.html](http://allie.dbcls.jp/short/exact/Any/unk.html)|
+|GAH|[http://allie.dbcls.jp/short/exact/Any/GAH.html](http://allie.dbcls.jp/short/exact/Any/GAH.html)|
+|KTN|[http://allie.dbcls.jp/short/exact/Any/KTN.html](http://allie.dbcls.jp/short/exact/Any/KTN.html)|
+|MOPS|[http://allie.dbcls.jp/short/exact/Any/MOPS.html](http://allie.dbcls.jp/short/exact/Any/MOPS.html)|
 |GBD|[http://allie.dbcls.jp/short/exact/Any/GBD.html](http://allie.dbcls.jp/short/exact/Any/GBD.html)|
-|SPG|[http://allie.dbcls.jp/short/exact/Any/SPG.html](http://allie.dbcls.jp/short/exact/Any/SPG.html)|
 |EC 1.14.16.2|[http://allie.dbcls.jp/short/exact/Any/EC 1.14.16.2.html](http://allie.dbcls.jp/short/exact/Any/EC 1.14.16.2.html)|
 |Dd|[http://allie.dbcls.jp/short/exact/Any/Dd.html](http://allie.dbcls.jp/short/exact/Any/Dd.html)|
 |EDK|[http://allie.dbcls.jp/short/exact/Any/EDK.html](http://allie.dbcls.jp/short/exact/Any/EDK.html)|
@@ -3011,10 +3163,10 @@
 |RfmR|[http://allie.dbcls.jp/short/exact/Any/RfmR.html](http://allie.dbcls.jp/short/exact/Any/RfmR.html)|
 |Sucd-Spcr|[http://allie.dbcls.jp/short/exact/Any/Sucd-Spcr.html](http://allie.dbcls.jp/short/exact/Any/Sucd-Spcr.html)|
 |pcn|[http://allie.dbcls.jp/short/exact/Any/pcn.html](http://allie.dbcls.jp/short/exact/Any/pcn.html)|
-|rER|[http://allie.dbcls.jp/short/exact/Any/rER.html](http://allie.dbcls.jp/short/exact/Any/rER.html)|
 |LBP|[http://allie.dbcls.jp/short/exact/Any/LBP.html](http://allie.dbcls.jp/short/exact/Any/LBP.html)|
 |TMAH-d9|[http://allie.dbcls.jp/short/exact/Any/TMAH-d9.html](http://allie.dbcls.jp/short/exact/Any/TMAH-d9.html)|
 |OBZ|[http://allie.dbcls.jp/short/exact/Any/OBZ.html](http://allie.dbcls.jp/short/exact/Any/OBZ.html)|
+|DEJ|[http://allie.dbcls.jp/short/exact/Any/DEJ.html](http://allie.dbcls.jp/short/exact/Any/DEJ.html)|
 |TCII|[http://allie.dbcls.jp/short/exact/Any/TCII.html](http://allie.dbcls.jp/short/exact/Any/TCII.html)|
 |AL-OS|[http://allie.dbcls.jp/short/exact/Any/AL-OS.html](http://allie.dbcls.jp/short/exact/Any/AL-OS.html)|
 |SLB|[http://allie.dbcls.jp/short/exact/Any/SLB.html](http://allie.dbcls.jp/short/exact/Any/SLB.html)|
@@ -3028,7 +3180,6 @@
 |AbMC|[http://allie.dbcls.jp/short/exact/Any/AbMC.html](http://allie.dbcls.jp/short/exact/Any/AbMC.html)|
 |Alk-LPS|[http://allie.dbcls.jp/short/exact/Any/Alk-LPS.html](http://allie.dbcls.jp/short/exact/Any/Alk-LPS.html)|
 |MeTHFA|[http://allie.dbcls.jp/short/exact/Any/MeTHFA.html](http://allie.dbcls.jp/short/exact/Any/MeTHFA.html)|
-|NTR|[http://allie.dbcls.jp/short/exact/Any/NTR.html](http://allie.dbcls.jp/short/exact/Any/NTR.html)|
 |Rmsv|[http://allie.dbcls.jp/short/exact/Any/Rmsv.html](http://allie.dbcls.jp/short/exact/Any/Rmsv.html)|
 |3-O-M-G|[http://allie.dbcls.jp/short/exact/Any/3-O-M-G.html](http://allie.dbcls.jp/short/exact/Any/3-O-M-G.html)|
 |SiSV|[http://allie.dbcls.jp/short/exact/Any/SiSV.html](http://allie.dbcls.jp/short/exact/Any/SiSV.html)|
@@ -3078,6 +3229,7 @@
 |B/T|[http://allie.dbcls.jp/short/exact/Any/B/T.html](http://allie.dbcls.jp/short/exact/Any/B/T.html)|
 |AVDDS|[http://allie.dbcls.jp/short/exact/Any/AVDDS.html](http://allie.dbcls.jp/short/exact/Any/AVDDS.html)|
 |AF Osm|[http://allie.dbcls.jp/short/exact/Any/AF Osm.html](http://allie.dbcls.jp/short/exact/Any/AF Osm.html)|
+|ASHA|[http://allie.dbcls.jp/short/exact/Any/ASHA.html](http://allie.dbcls.jp/short/exact/Any/ASHA.html)|
 |U-T|[http://allie.dbcls.jp/short/exact/Any/U-T.html](http://allie.dbcls.jp/short/exact/Any/U-T.html)|
 |NPPase|[http://allie.dbcls.jp/short/exact/Any/NPPase.html](http://allie.dbcls.jp/short/exact/Any/NPPase.html)|
 |EIP|[http://allie.dbcls.jp/short/exact/Any/EIP.html](http://allie.dbcls.jp/short/exact/Any/EIP.html)|
@@ -3110,7 +3262,6 @@
 |Mg - Pi|[http://allie.dbcls.jp/short/exact/Any/Mg - Pi.html](http://allie.dbcls.jp/short/exact/Any/Mg - Pi.html)|
 |DBMIB|[http://allie.dbcls.jp/short/exact/Any/DBMIB.html](http://allie.dbcls.jp/short/exact/Any/DBMIB.html)|
 |Photosystem II|[http://allie.dbcls.jp/short/exact/Any/Photosystem II.html](http://allie.dbcls.jp/short/exact/Any/Photosystem II.html)|
-|Osm|[http://allie.dbcls.jp/short/exact/Any/Osm.html](http://allie.dbcls.jp/short/exact/Any/Osm.html)|
 |BuchE|[http://allie.dbcls.jp/short/exact/Any/BuchE.html](http://allie.dbcls.jp/short/exact/Any/BuchE.html)|
 |TMB|[http://allie.dbcls.jp/short/exact/Any/TMB.html](http://allie.dbcls.jp/short/exact/Any/TMB.html)|
 |TFB|[http://allie.dbcls.jp/short/exact/Any/TFB.html](http://allie.dbcls.jp/short/exact/Any/TFB.html)|
@@ -3194,6 +3345,7 @@
 |ESIH|[http://allie.dbcls.jp/short/exact/Any/ESIH.html](http://allie.dbcls.jp/short/exact/Any/ESIH.html)|
 |p-NPS|[http://allie.dbcls.jp/short/exact/Any/p-NPS.html](http://allie.dbcls.jp/short/exact/Any/p-NPS.html)|
 |p-NCS|[http://allie.dbcls.jp/short/exact/Any/p-NCS.html](http://allie.dbcls.jp/short/exact/Any/p-NCS.html)|
+|T lymphocytes|[http://allie.dbcls.jp/short/exact/Any/T lymphocytes.html](http://allie.dbcls.jp/short/exact/Any/T lymphocytes.html)|
 |fr|[http://allie.dbcls.jp/short/exact/Any/fr.html](http://allie.dbcls.jp/short/exact/Any/fr.html)|
 |D-SK-SD|[http://allie.dbcls.jp/short/exact/Any/D-SK-SD.html](http://allie.dbcls.jp/short/exact/Any/D-SK-SD.html)|
 |ND-SK-SD|[http://allie.dbcls.jp/short/exact/Any/ND-SK-SD.html](http://allie.dbcls.jp/short/exact/Any/ND-SK-SD.html)|
@@ -3260,7 +3412,6 @@
 |G.H.Q|[http://allie.dbcls.jp/short/exact/Any/G.H.Q.html](http://allie.dbcls.jp/short/exact/Any/G.H.Q.html)|
 |hPrl|[http://allie.dbcls.jp/short/exact/Any/hPrl.html](http://allie.dbcls.jp/short/exact/Any/hPrl.html)|
 |I-RNA|[http://allie.dbcls.jp/short/exact/Any/I-RNA.html](http://allie.dbcls.jp/short/exact/Any/I-RNA.html)|
-|I-DNA|[http://allie.dbcls.jp/short/exact/Any/I-DNA.html](http://allie.dbcls.jp/short/exact/Any/I-DNA.html)|
 |2AP|[http://allie.dbcls.jp/short/exact/Any/2AP.html](http://allie.dbcls.jp/short/exact/Any/2AP.html)|
 |8-14C-PAN|[http://allie.dbcls.jp/short/exact/Any/8-14C-PAN.html](http://allie.dbcls.jp/short/exact/Any/8-14C-PAN.html)|
 |betaPL|[http://allie.dbcls.jp/short/exact/Any/betaPL.html](http://allie.dbcls.jp/short/exact/Any/betaPL.html)|
@@ -3378,6 +3529,7 @@
 |N-HO-MAB|[http://allie.dbcls.jp/short/exact/Any/N-HO-MAB.html](http://allie.dbcls.jp/short/exact/Any/N-HO-MAB.html)|
 |AM fibrils|[http://allie.dbcls.jp/short/exact/Any/AM fibrils.html](http://allie.dbcls.jp/short/exact/Any/AM fibrils.html)|
 |MTGX|[http://allie.dbcls.jp/short/exact/Any/MTGX.html](http://allie.dbcls.jp/short/exact/Any/MTGX.html)|
+|rER|[http://allie.dbcls.jp/short/exact/Any/rER.html](http://allie.dbcls.jp/short/exact/Any/rER.html)|
 |MC-ms|[http://allie.dbcls.jp/short/exact/Any/MC-ms.html](http://allie.dbcls.jp/short/exact/Any/MC-ms.html)|
 |HKs|[http://allie.dbcls.jp/short/exact/Any/HKs.html](http://allie.dbcls.jp/short/exact/Any/HKs.html)|
 |AMI-CS|[http://allie.dbcls.jp/short/exact/Any/AMI-CS.html](http://allie.dbcls.jp/short/exact/Any/AMI-CS.html)|
@@ -3502,6 +3654,7 @@
 |pDNA|[http://allie.dbcls.jp/short/exact/Any/pDNA.html](http://allie.dbcls.jp/short/exact/Any/pDNA.html)|
 |r-VRNA|[http://allie.dbcls.jp/short/exact/Any/r-VRNA.html](http://allie.dbcls.jp/short/exact/Any/r-VRNA.html)|
 |RFII|[http://allie.dbcls.jp/short/exact/Any/RFII.html](http://allie.dbcls.jp/short/exact/Any/RFII.html)|
+|BPV|[http://allie.dbcls.jp/short/exact/Any/BPV.html](http://allie.dbcls.jp/short/exact/Any/BPV.html)|
 |GC/MS|[http://allie.dbcls.jp/short/exact/Any/GC/MS.html](http://allie.dbcls.jp/short/exact/Any/GC/MS.html)|
 |SVCO|[http://allie.dbcls.jp/short/exact/Any/SVCO.html](http://allie.dbcls.jp/short/exact/Any/SVCO.html)|
 |RLAs|[http://allie.dbcls.jp/short/exact/Any/RLAs.html](http://allie.dbcls.jp/short/exact/Any/RLAs.html)|
@@ -3512,6 +3665,7 @@
 |anti-G.B.M|[http://allie.dbcls.jp/short/exact/Any/anti-G.B.M.html](http://allie.dbcls.jp/short/exact/Any/anti-G.B.M.html)|
 |P.P.F|[http://allie.dbcls.jp/short/exact/Any/P.P.F.html](http://allie.dbcls.jp/short/exact/Any/P.P.F.html)|
 |V.C.M|[http://allie.dbcls.jp/short/exact/Any/V.C.M.html](http://allie.dbcls.jp/short/exact/Any/V.C.M.html)|
+|O.C|[http://allie.dbcls.jp/short/exact/Any/O.C.html](http://allie.dbcls.jp/short/exact/Any/O.C.html)|
 |X.A|[http://allie.dbcls.jp/short/exact/Any/X.A.html](http://allie.dbcls.jp/short/exact/Any/X.A.html)|
 |KIVA|[http://allie.dbcls.jp/short/exact/Any/KIVA.html](http://allie.dbcls.jp/short/exact/Any/KIVA.html)|
 |MEVA|[http://allie.dbcls.jp/short/exact/Any/MEVA.html](http://allie.dbcls.jp/short/exact/Any/MEVA.html)|
@@ -3526,6 +3680,45 @@
 |PCOD|[http://allie.dbcls.jp/short/exact/Any/PCOD.html](http://allie.dbcls.jp/short/exact/Any/PCOD.html)|
 |ABCC-JNIH|[http://allie.dbcls.jp/short/exact/Any/ABCC-JNIH.html](http://allie.dbcls.jp/short/exact/Any/ABCC-JNIH.html)|
 |FORM|[http://allie.dbcls.jp/short/exact/Any/FORM.html](http://allie.dbcls.jp/short/exact/Any/FORM.html)|
+|EBCM|[http://allie.dbcls.jp/short/exact/Any/EBCM.html](http://allie.dbcls.jp/short/exact/Any/EBCM.html)|
+|GASPEC|[http://allie.dbcls.jp/short/exact/Any/GASPEC.html](http://allie.dbcls.jp/short/exact/Any/GASPEC.html)|
+|NESR|[http://allie.dbcls.jp/short/exact/Any/NESR.html](http://allie.dbcls.jp/short/exact/Any/NESR.html)|
+|ecl|[http://allie.dbcls.jp/short/exact/Any/ecl.html](http://allie.dbcls.jp/short/exact/Any/ecl.html)|
+|SDF|[http://allie.dbcls.jp/short/exact/Any/SDF.html](http://allie.dbcls.jp/short/exact/Any/SDF.html)|
+|FECO|[http://allie.dbcls.jp/short/exact/Any/FECO.html](http://allie.dbcls.jp/short/exact/Any/FECO.html)|
+|WFIV|[http://allie.dbcls.jp/short/exact/Any/WFIV.html](http://allie.dbcls.jp/short/exact/Any/WFIV.html)|
+|TER|[http://allie.dbcls.jp/short/exact/Any/TER.html](http://allie.dbcls.jp/short/exact/Any/TER.html)|
+|ERTS-1|[http://allie.dbcls.jp/short/exact/Any/ERTS-1.html](http://allie.dbcls.jp/short/exact/Any/ERTS-1.html)|
+|oil|[http://allie.dbcls.jp/short/exact/Any/oil.html](http://allie.dbcls.jp/short/exact/Any/oil.html)|
+|YAG|[http://allie.dbcls.jp/short/exact/Any/YAG.html](http://allie.dbcls.jp/short/exact/Any/YAG.html)|
+|HOL|[http://allie.dbcls.jp/short/exact/Any/HOL.html](http://allie.dbcls.jp/short/exact/Any/HOL.html)|
+|R.W|[http://allie.dbcls.jp/short/exact/Any/R.W.html](http://allie.dbcls.jp/short/exact/Any/R.W.html)|
+|el|[http://allie.dbcls.jp/short/exact/Any/el.html](http://allie.dbcls.jp/short/exact/Any/el.html)|
+|TAD|[http://allie.dbcls.jp/short/exact/Any/TAD.html](http://allie.dbcls.jp/short/exact/Any/TAD.html)|
+|AthetaS|[http://allie.dbcls.jp/short/exact/Any/AthetaS.html](http://allie.dbcls.jp/short/exact/Any/AthetaS.html)|
+|PIPA|[http://allie.dbcls.jp/short/exact/Any/PIPA.html](http://allie.dbcls.jp/short/exact/Any/PIPA.html)|
+|MuLV's|[http://allie.dbcls.jp/short/exact/Any/MuLV's.html](http://allie.dbcls.jp/short/exact/Any/MuLV's.html)|
+|st mutants|[http://allie.dbcls.jp/short/exact/Any/st mutants.html](http://allie.dbcls.jp/short/exact/Any/st mutants.html)|
+|DSPD|[http://allie.dbcls.jp/short/exact/Any/DSPD.html](http://allie.dbcls.jp/short/exact/Any/DSPD.html)|
+|SIRV|[http://allie.dbcls.jp/short/exact/Any/SIRV.html](http://allie.dbcls.jp/short/exact/Any/SIRV.html)|
+|SIHM|[http://allie.dbcls.jp/short/exact/Any/SIHM.html](http://allie.dbcls.jp/short/exact/Any/SIHM.html)|
+|6-PGluA|[http://allie.dbcls.jp/short/exact/Any/6-PGluA.html](http://allie.dbcls.jp/short/exact/Any/6-PGluA.html)|
+|mes|[http://allie.dbcls.jp/short/exact/Any/mes.html](http://allie.dbcls.jp/short/exact/Any/mes.html)|
+|CFM|[http://allie.dbcls.jp/short/exact/Any/CFM.html](http://allie.dbcls.jp/short/exact/Any/CFM.html)|
+|PChle|[http://allie.dbcls.jp/short/exact/Any/PChle.html](http://allie.dbcls.jp/short/exact/Any/PChle.html)|
+|Chle|[http://allie.dbcls.jp/short/exact/Any/Chle.html](http://allie.dbcls.jp/short/exact/Any/Chle.html)|
+|Tms|[http://allie.dbcls.jp/short/exact/Any/Tms.html](http://allie.dbcls.jp/short/exact/Any/Tms.html)|
+|RUDPcase|[http://allie.dbcls.jp/short/exact/Any/RUDPcase.html](http://allie.dbcls.jp/short/exact/Any/RUDPcase.html)|
+|malic enzyme|[http://allie.dbcls.jp/short/exact/Any/malic enzyme.html](http://allie.dbcls.jp/short/exact/Any/malic enzyme.html)|
+|kR|[http://allie.dbcls.jp/short/exact/Any/kR.html](http://allie.dbcls.jp/short/exact/Any/kR.html)|
+|3-MeOx|[http://allie.dbcls.jp/short/exact/Any/3-MeOx.html](http://allie.dbcls.jp/short/exact/Any/3-MeOx.html)|
+|Pfr|[http://allie.dbcls.jp/short/exact/Any/Pfr.html](http://allie.dbcls.jp/short/exact/Any/Pfr.html)|
+|unk|[http://allie.dbcls.jp/short/exact/Any/unk.html](http://allie.dbcls.jp/short/exact/Any/unk.html)|
+|esp|[http://allie.dbcls.jp/short/exact/Any/esp.html](http://allie.dbcls.jp/short/exact/Any/esp.html)|
+|ZFS|[http://allie.dbcls.jp/short/exact/Any/ZFS.html](http://allie.dbcls.jp/short/exact/Any/ZFS.html)|
+|ICB|[http://allie.dbcls.jp/short/exact/Any/ICB.html](http://allie.dbcls.jp/short/exact/Any/ICB.html)|
+|IARs|[http://allie.dbcls.jp/short/exact/Any/IARs.html](http://allie.dbcls.jp/short/exact/Any/IARs.html)|
+|dB|[http://allie.dbcls.jp/short/exact/Any/dB.html](http://allie.dbcls.jp/short/exact/Any/dB.html)|
 |O.D.C|[http://allie.dbcls.jp/short/exact/Any/O.D.C.html](http://allie.dbcls.jp/short/exact/Any/O.D.C.html)|
 |FNC|[http://allie.dbcls.jp/short/exact/Any/FNC.html](http://allie.dbcls.jp/short/exact/Any/FNC.html)|
 |VCS|[http://allie.dbcls.jp/short/exact/Any/VCS.html](http://allie.dbcls.jp/short/exact/Any/VCS.html)|
@@ -3555,9 +3748,6 @@
 |Stage III|[http://allie.dbcls.jp/short/exact/Any/Stage III.html](http://allie.dbcls.jp/short/exact/Any/Stage III.html)|
 |IVGTT's|[http://allie.dbcls.jp/short/exact/Any/IVGTT's.html](http://allie.dbcls.jp/short/exact/Any/IVGTT's.html)|
 |ATDA|[http://allie.dbcls.jp/short/exact/Any/ATDA.html](http://allie.dbcls.jp/short/exact/Any/ATDA.html)|
-|esp|[http://allie.dbcls.jp/short/exact/Any/esp.html](http://allie.dbcls.jp/short/exact/Any/esp.html)|
-|ZFS|[http://allie.dbcls.jp/short/exact/Any/ZFS.html](http://allie.dbcls.jp/short/exact/Any/ZFS.html)|
-|ICB|[http://allie.dbcls.jp/short/exact/Any/ICB.html](http://allie.dbcls.jp/short/exact/Any/ICB.html)|
 |FFP|[http://allie.dbcls.jp/short/exact/Any/FFP.html](http://allie.dbcls.jp/short/exact/Any/FFP.html)|
 |PhAB|[http://allie.dbcls.jp/short/exact/Any/PhAB.html](http://allie.dbcls.jp/short/exact/Any/PhAB.html)|
 |ADAS|[http://allie.dbcls.jp/short/exact/Any/ADAS.html](http://allie.dbcls.jp/short/exact/Any/ADAS.html)|
@@ -3585,6 +3775,7 @@
 |EICT|[http://allie.dbcls.jp/short/exact/Any/EICT.html](http://allie.dbcls.jp/short/exact/Any/EICT.html)|
 |PEP/LVET|[http://allie.dbcls.jp/short/exact/Any/PEP/LVET.html](http://allie.dbcls.jp/short/exact/Any/PEP/LVET.html)|
 |RSDS|[http://allie.dbcls.jp/short/exact/Any/RSDS.html](http://allie.dbcls.jp/short/exact/Any/RSDS.html)|
+|COTE Scale|[http://allie.dbcls.jp/short/exact/Any/COTE Scale.html](http://allie.dbcls.jp/short/exact/Any/COTE Scale.html)|
 |pa|[http://allie.dbcls.jp/short/exact/Any/pa.html](http://allie.dbcls.jp/short/exact/Any/pa.html)|
 |JGC|[http://allie.dbcls.jp/short/exact/Any/JGC.html](http://allie.dbcls.jp/short/exact/Any/JGC.html)|
 |bgj|[http://allie.dbcls.jp/short/exact/Any/bgj.html](http://allie.dbcls.jp/short/exact/Any/bgj.html)|
@@ -3619,7 +3810,6 @@
 |LVBF|[http://allie.dbcls.jp/short/exact/Any/LVBF.html](http://allie.dbcls.jp/short/exact/Any/LVBF.html)|
 |S-esterase|[http://allie.dbcls.jp/short/exact/Any/S-esterase.html](http://allie.dbcls.jp/short/exact/Any/S-esterase.html)|
 |SS-RA|[http://allie.dbcls.jp/short/exact/Any/SS-RA.html](http://allie.dbcls.jp/short/exact/Any/SS-RA.html)|
-|LDAC|[http://allie.dbcls.jp/short/exact/Any/LDAC.html](http://allie.dbcls.jp/short/exact/Any/LDAC.html)|
 |14C-dmtc|[http://allie.dbcls.jp/short/exact/Any/14C-dmtc.html](http://allie.dbcls.jp/short/exact/Any/14C-dmtc.html)|
 |PteGlu|[http://allie.dbcls.jp/short/exact/Any/PteGlu.html](http://allie.dbcls.jp/short/exact/Any/PteGlu.html)|
 |HuMa|[http://allie.dbcls.jp/short/exact/Any/HuMa.html](http://allie.dbcls.jp/short/exact/Any/HuMa.html)|
@@ -3686,7 +3876,6 @@
 |Ic-Ig|[http://allie.dbcls.jp/short/exact/Any/Ic-Ig.html](http://allie.dbcls.jp/short/exact/Any/Ic-Ig.html)|
 |DPVS|[http://allie.dbcls.jp/short/exact/Any/DPVS.html](http://allie.dbcls.jp/short/exact/Any/DPVS.html)|
 |AUCs|[http://allie.dbcls.jp/short/exact/Any/AUCs.html](http://allie.dbcls.jp/short/exact/Any/AUCs.html)|
-|CBZ|[http://allie.dbcls.jp/short/exact/Any/CBZ.html](http://allie.dbcls.jp/short/exact/Any/CBZ.html)|
 |HDI|[http://allie.dbcls.jp/short/exact/Any/HDI.html](http://allie.dbcls.jp/short/exact/Any/HDI.html)|
 |AJC|[http://allie.dbcls.jp/short/exact/Any/AJC.html](http://allie.dbcls.jp/short/exact/Any/AJC.html)|
 |AIMS|[http://allie.dbcls.jp/short/exact/Any/AIMS.html](http://allie.dbcls.jp/short/exact/Any/AIMS.html)|
@@ -3713,7 +3902,6 @@
 |CMM|[http://allie.dbcls.jp/short/exact/Any/CMM.html](http://allie.dbcls.jp/short/exact/Any/CMM.html)|
 |GPW|[http://allie.dbcls.jp/short/exact/Any/GPW.html](http://allie.dbcls.jp/short/exact/Any/GPW.html)|
 |CCK-z|[http://allie.dbcls.jp/short/exact/Any/CCK-z.html](http://allie.dbcls.jp/short/exact/Any/CCK-z.html)|
-|mt|[http://allie.dbcls.jp/short/exact/Any/mt.html](http://allie.dbcls.jp/short/exact/Any/mt.html)|
 |CRG|[http://allie.dbcls.jp/short/exact/Any/CRG.html](http://allie.dbcls.jp/short/exact/Any/CRG.html)|
 |polyU|[http://allie.dbcls.jp/short/exact/Any/polyU.html](http://allie.dbcls.jp/short/exact/Any/polyU.html)|
 |Phar|[http://allie.dbcls.jp/short/exact/Any/Phar.html](http://allie.dbcls.jp/short/exact/Any/Phar.html)|
@@ -3872,7 +4060,6 @@
 |FTW|[http://allie.dbcls.jp/short/exact/Any/FTW.html](http://allie.dbcls.jp/short/exact/Any/FTW.html)|
 |PHHC|[http://allie.dbcls.jp/short/exact/Any/PHHC.html](http://allie.dbcls.jp/short/exact/Any/PHHC.html)|
 |IgG1|[http://allie.dbcls.jp/short/exact/Any/IgG1.html](http://allie.dbcls.jp/short/exact/Any/IgG1.html)|
-|T lymphocytes|[http://allie.dbcls.jp/short/exact/Any/T lymphocytes.html](http://allie.dbcls.jp/short/exact/Any/T lymphocytes.html)|
 |deltaV50He|[http://allie.dbcls.jp/short/exact/Any/deltaV50He.html](http://allie.dbcls.jp/short/exact/Any/deltaV50He.html)|
 |NHLI|[http://allie.dbcls.jp/short/exact/Any/NHLI.html](http://allie.dbcls.jp/short/exact/Any/NHLI.html)|
 |BMRC|[http://allie.dbcls.jp/short/exact/Any/BMRC.html](http://allie.dbcls.jp/short/exact/Any/BMRC.html)|
@@ -3893,6 +4080,8 @@
 |MCRs|[http://allie.dbcls.jp/short/exact/Any/MCRs.html](http://allie.dbcls.jp/short/exact/Any/MCRs.html)|
 |NaK|[http://allie.dbcls.jp/short/exact/Any/NaK.html](http://allie.dbcls.jp/short/exact/Any/NaK.html)|
 |TMU|[http://allie.dbcls.jp/short/exact/Any/TMU.html](http://allie.dbcls.jp/short/exact/Any/TMU.html)|
+|BAEe|[http://allie.dbcls.jp/short/exact/Any/BAEe.html](http://allie.dbcls.jp/short/exact/Any/BAEe.html)|
+|TTE|[http://allie.dbcls.jp/short/exact/Any/TTE.html](http://allie.dbcls.jp/short/exact/Any/TTE.html)|
 |GFD|[http://allie.dbcls.jp/short/exact/Any/GFD.html](http://allie.dbcls.jp/short/exact/Any/GFD.html)|
 |VIIIR|[http://allie.dbcls.jp/short/exact/Any/VIIIR.html](http://allie.dbcls.jp/short/exact/Any/VIIIR.html)|
 |Hb Koln|[http://allie.dbcls.jp/short/exact/Any/Hb Koln.html](http://allie.dbcls.jp/short/exact/Any/Hb Koln.html)|
@@ -3959,7 +4148,6 @@
 |BaP|[http://allie.dbcls.jp/short/exact/Any/BaP.html](http://allie.dbcls.jp/short/exact/Any/BaP.html)|
 |NSGP|[http://allie.dbcls.jp/short/exact/Any/NSGP.html](http://allie.dbcls.jp/short/exact/Any/NSGP.html)|
 |MAs|[http://allie.dbcls.jp/short/exact/Any/MAs.html](http://allie.dbcls.jp/short/exact/Any/MAs.html)|
-|TER|[http://allie.dbcls.jp/short/exact/Any/TER.html](http://allie.dbcls.jp/short/exact/Any/TER.html)|
 |SZO|[http://allie.dbcls.jp/short/exact/Any/SZO.html](http://allie.dbcls.jp/short/exact/Any/SZO.html)|
 |Grade I|[http://allie.dbcls.jp/short/exact/Any/Grade I.html](http://allie.dbcls.jp/short/exact/Any/Grade I.html)|
 |4-MH|[http://allie.dbcls.jp/short/exact/Any/4-MH.html](http://allie.dbcls.jp/short/exact/Any/4-MH.html)|
@@ -4036,6 +4224,7 @@
 |ATPi|[http://allie.dbcls.jp/short/exact/Any/ATPi.html](http://allie.dbcls.jp/short/exact/Any/ATPi.html)|
 |Cao|[http://allie.dbcls.jp/short/exact/Any/Cao.html](http://allie.dbcls.jp/short/exact/Any/Cao.html)|
 |PSIS|[http://allie.dbcls.jp/short/exact/Any/PSIS.html](http://allie.dbcls.jp/short/exact/Any/PSIS.html)|
+|HSV1|[http://allie.dbcls.jp/short/exact/Any/HSV1.html](http://allie.dbcls.jp/short/exact/Any/HSV1.html)|
 |MEK|[http://allie.dbcls.jp/short/exact/Any/MEK.html](http://allie.dbcls.jp/short/exact/Any/MEK.html)|
 |ZPS|[http://allie.dbcls.jp/short/exact/Any/ZPS.html](http://allie.dbcls.jp/short/exact/Any/ZPS.html)|
 |MIDA|[http://allie.dbcls.jp/short/exact/Any/MIDA.html](http://allie.dbcls.jp/short/exact/Any/MIDA.html)|
@@ -4437,7 +4626,6 @@
 |rota-viruses|[http://allie.dbcls.jp/short/exact/Any/rota-viruses.html](http://allie.dbcls.jp/short/exact/Any/rota-viruses.html)|
 |R'i|[http://allie.dbcls.jp/short/exact/Any/R'i.html](http://allie.dbcls.jp/short/exact/Any/R'i.html)|
 |MED's|[http://allie.dbcls.jp/short/exact/Any/MED's.html](http://allie.dbcls.jp/short/exact/Any/MED's.html)|
-|5-HMC|[http://allie.dbcls.jp/short/exact/Any/5-HMC.html](http://allie.dbcls.jp/short/exact/Any/5-HMC.html)|
 |alpha-msh|[http://allie.dbcls.jp/short/exact/Any/alpha-msh.html](http://allie.dbcls.jp/short/exact/Any/alpha-msh.html)|
 |HFFA|[http://allie.dbcls.jp/short/exact/Any/HFFA.html](http://allie.dbcls.jp/short/exact/Any/HFFA.html)|
 |GI solution|[http://allie.dbcls.jp/short/exact/Any/GI solution.html](http://allie.dbcls.jp/short/exact/Any/GI solution.html)|
@@ -4498,6 +4686,7 @@
 |BPHSI|[http://allie.dbcls.jp/short/exact/Any/BPHSI.html](http://allie.dbcls.jp/short/exact/Any/BPHSI.html)|
 |MFM|[http://allie.dbcls.jp/short/exact/Any/MFM.html](http://allie.dbcls.jp/short/exact/Any/MFM.html)|
 |PBPM|[http://allie.dbcls.jp/short/exact/Any/PBPM.html](http://allie.dbcls.jp/short/exact/Any/PBPM.html)|
+|T.M.E|[http://allie.dbcls.jp/short/exact/Any/T.M.E.html](http://allie.dbcls.jp/short/exact/Any/T.M.E.html)|
 |RBC-ALAD|[http://allie.dbcls.jp/short/exact/Any/RBC-ALAD.html](http://allie.dbcls.jp/short/exact/Any/RBC-ALAD.html)|
 |RSM|[http://allie.dbcls.jp/short/exact/Any/RSM.html](http://allie.dbcls.jp/short/exact/Any/RSM.html)|
 |TSAA|[http://allie.dbcls.jp/short/exact/Any/TSAA.html](http://allie.dbcls.jp/short/exact/Any/TSAA.html)|
@@ -4515,9 +4704,7 @@
 |Gdn.HCl|[http://allie.dbcls.jp/short/exact/Any/Gdn.HCl.html](http://allie.dbcls.jp/short/exact/Any/Gdn.HCl.html)|
 |NHNP-NBE|[http://allie.dbcls.jp/short/exact/Any/NHNP-NBE.html](http://allie.dbcls.jp/short/exact/Any/NHNP-NBE.html)|
 |ns-70|[http://allie.dbcls.jp/short/exact/Any/ns-70.html](http://allie.dbcls.jp/short/exact/Any/ns-70.html)|
-|m-Con A|[http://allie.dbcls.jp/short/exact/Any/m-Con A.html](http://allie.dbcls.jp/short/exact/Any/m-Con A.html)|
 |TIVCC|[http://allie.dbcls.jp/short/exact/Any/TIVCC.html](http://allie.dbcls.jp/short/exact/Any/TIVCC.html)|
-|A-D|[http://allie.dbcls.jp/short/exact/Any/A-D.html](http://allie.dbcls.jp/short/exact/Any/A-D.html)|
 |SMAS|[http://allie.dbcls.jp/short/exact/Any/SMAS.html](http://allie.dbcls.jp/short/exact/Any/SMAS.html)|
 |UFC|[http://allie.dbcls.jp/short/exact/Any/UFC.html](http://allie.dbcls.jp/short/exact/Any/UFC.html)|
 |99mTc-RBCs|[http://allie.dbcls.jp/short/exact/Any/99mTc-RBCs.html](http://allie.dbcls.jp/short/exact/Any/99mTc-RBCs.html)|
@@ -4569,12 +4756,10 @@
 |NCLF|[http://allie.dbcls.jp/short/exact/Any/NCLF.html](http://allie.dbcls.jp/short/exact/Any/NCLF.html)|
 |Kal|[http://allie.dbcls.jp/short/exact/Any/Kal.html](http://allie.dbcls.jp/short/exact/Any/Kal.html)|
 |Aggl|[http://allie.dbcls.jp/short/exact/Any/Aggl.html](http://allie.dbcls.jp/short/exact/Any/Aggl.html)|
-|P-B|[http://allie.dbcls.jp/short/exact/Any/P-B.html](http://allie.dbcls.jp/short/exact/Any/P-B.html)|
 |HABA|[http://allie.dbcls.jp/short/exact/Any/HABA.html](http://allie.dbcls.jp/short/exact/Any/HABA.html)|
 |ECDM|[http://allie.dbcls.jp/short/exact/Any/ECDM.html](http://allie.dbcls.jp/short/exact/Any/ECDM.html)|
 |Anti-HBsAg|[http://allie.dbcls.jp/short/exact/Any/Anti-HBsAg.html](http://allie.dbcls.jp/short/exact/Any/Anti-HBsAg.html)|
 |ESI|[http://allie.dbcls.jp/short/exact/Any/ESI.html](http://allie.dbcls.jp/short/exact/Any/ESI.html)|
-|EPG|[http://allie.dbcls.jp/short/exact/Any/EPG.html](http://allie.dbcls.jp/short/exact/Any/EPG.html)|
 |Fract. Cur|[http://allie.dbcls.jp/short/exact/Any/Fract. Cur.html](http://allie.dbcls.jp/short/exact/Any/Fract. Cur.html)|
 |DPE|[http://allie.dbcls.jp/short/exact/Any/DPE.html](http://allie.dbcls.jp/short/exact/Any/DPE.html)|
 |C.C.T.V|[http://allie.dbcls.jp/short/exact/Any/C.C.T.V.html](http://allie.dbcls.jp/short/exact/Any/C.C.T.V.html)|
@@ -4679,6 +4864,7 @@
 |Phyria'gen|[http://allie.dbcls.jp/short/exact/Any/Phyria'gen.html](http://allie.dbcls.jp/short/exact/Any/Phyria'gen.html)|
 |11-DOOS|[http://allie.dbcls.jp/short/exact/Any/11-DOOS.html](http://allie.dbcls.jp/short/exact/Any/11-DOOS.html)|
 |HPH|[http://allie.dbcls.jp/short/exact/Any/HPH.html](http://allie.dbcls.jp/short/exact/Any/HPH.html)|
+|HEAC|[http://allie.dbcls.jp/short/exact/Any/HEAC.html](http://allie.dbcls.jp/short/exact/Any/HEAC.html)|
 |NeF|[http://allie.dbcls.jp/short/exact/Any/NeF.html](http://allie.dbcls.jp/short/exact/Any/NeF.html)|
 |SDP|[http://allie.dbcls.jp/short/exact/Any/SDP.html](http://allie.dbcls.jp/short/exact/Any/SDP.html)|
 |R-plasmid|[http://allie.dbcls.jp/short/exact/Any/R-plasmid.html](http://allie.dbcls.jp/short/exact/Any/R-plasmid.html)|
@@ -4738,6 +4924,7 @@
 |DNP-Tbc|[http://allie.dbcls.jp/short/exact/Any/DNP-Tbc.html](http://allie.dbcls.jp/short/exact/Any/DNP-Tbc.html)|
 |NIP-KLH|[http://allie.dbcls.jp/short/exact/Any/NIP-KLH.html](http://allie.dbcls.jp/short/exact/Any/NIP-KLH.html)|
 |ECCA|[http://allie.dbcls.jp/short/exact/Any/ECCA.html](http://allie.dbcls.jp/short/exact/Any/ECCA.html)|
+|Abt|[http://allie.dbcls.jp/short/exact/Any/Abt.html](http://allie.dbcls.jp/short/exact/Any/Abt.html)|
 |ATLS|[http://allie.dbcls.jp/short/exact/Any/ATLS.html](http://allie.dbcls.jp/short/exact/Any/ATLS.html)|
 |ITL|[http://allie.dbcls.jp/short/exact/Any/ITL.html](http://allie.dbcls.jp/short/exact/Any/ITL.html)|
 |RTL|[http://allie.dbcls.jp/short/exact/Any/RTL.html](http://allie.dbcls.jp/short/exact/Any/RTL.html)|
@@ -4831,7 +5018,6 @@
 |EGA|[http://allie.dbcls.jp/short/exact/Any/EGA.html](http://allie.dbcls.jp/short/exact/Any/EGA.html)|
 |HEAR|[http://allie.dbcls.jp/short/exact/Any/HEAR.html](http://allie.dbcls.jp/short/exact/Any/HEAR.html)|
 |LEAR|[http://allie.dbcls.jp/short/exact/Any/LEAR.html](http://allie.dbcls.jp/short/exact/Any/LEAR.html)|
-|T.M.E|[http://allie.dbcls.jp/short/exact/Any/T.M.E.html](http://allie.dbcls.jp/short/exact/Any/T.M.E.html)|
 |P-Rib-P-P|[http://allie.dbcls.jp/short/exact/Any/P-Rib-P-P.html](http://allie.dbcls.jp/short/exact/Any/P-Rib-P-P.html)|
 |k-chain|[http://allie.dbcls.jp/short/exact/Any/k-chain.html](http://allie.dbcls.jp/short/exact/Any/k-chain.html)|
 |NA-AAF|[http://allie.dbcls.jp/short/exact/Any/NA-AAF.html](http://allie.dbcls.jp/short/exact/Any/NA-AAF.html)|
@@ -4917,6 +5103,7 @@
 |OCA's|[http://allie.dbcls.jp/short/exact/Any/OCA's.html](http://allie.dbcls.jp/short/exact/Any/OCA's.html)|
 |HbF|[http://allie.dbcls.jp/short/exact/Any/HbF.html](http://allie.dbcls.jp/short/exact/Any/HbF.html)|
 |FMCG|[http://allie.dbcls.jp/short/exact/Any/FMCG.html](http://allie.dbcls.jp/short/exact/Any/FMCG.html)|
+|DHEW|[http://allie.dbcls.jp/short/exact/Any/DHEW.html](http://allie.dbcls.jp/short/exact/Any/DHEW.html)|
 |IRM|[http://allie.dbcls.jp/short/exact/Any/IRM.html](http://allie.dbcls.jp/short/exact/Any/IRM.html)|
 |MTH|[http://allie.dbcls.jp/short/exact/Any/MTH.html](http://allie.dbcls.jp/short/exact/Any/MTH.html)|
 |BSAI|[http://allie.dbcls.jp/short/exact/Any/BSAI.html](http://allie.dbcls.jp/short/exact/Any/BSAI.html)|
@@ -4934,6 +5121,8 @@
 |BCBDC|[http://allie.dbcls.jp/short/exact/Any/BCBDC.html](http://allie.dbcls.jp/short/exact/Any/BCBDC.html)|
 |CVC|[http://allie.dbcls.jp/short/exact/Any/CVC.html](http://allie.dbcls.jp/short/exact/Any/CVC.html)|
 |tc|[http://allie.dbcls.jp/short/exact/Any/tc.html](http://allie.dbcls.jp/short/exact/Any/tc.html)|
+|TMZ|[http://allie.dbcls.jp/short/exact/Any/TMZ.html](http://allie.dbcls.jp/short/exact/Any/TMZ.html)|
+|TEA potentials|[http://allie.dbcls.jp/short/exact/Any/TEA potentials.html](http://allie.dbcls.jp/short/exact/Any/TEA potentials.html)|
 |EPOMI|[http://allie.dbcls.jp/short/exact/Any/EPOMI.html](http://allie.dbcls.jp/short/exact/Any/EPOMI.html)|
 |alpha-TCCH|[http://allie.dbcls.jp/short/exact/Any/alpha-TCCH.html](http://allie.dbcls.jp/short/exact/Any/alpha-TCCH.html)|
 |beta-TCCH|[http://allie.dbcls.jp/short/exact/Any/beta-TCCH.html](http://allie.dbcls.jp/short/exact/Any/beta-TCCH.html)|
@@ -5089,6 +5278,7 @@
 |IAO|[http://allie.dbcls.jp/short/exact/Any/IAO.html](http://allie.dbcls.jp/short/exact/Any/IAO.html)|
 |EDPP|[http://allie.dbcls.jp/short/exact/Any/EDPP.html](http://allie.dbcls.jp/short/exact/Any/EDPP.html)|
 |non-tame|[http://allie.dbcls.jp/short/exact/Any/non-tame.html](http://allie.dbcls.jp/short/exact/Any/non-tame.html)|
+|beta-G|[http://allie.dbcls.jp/short/exact/Any/beta-G.html](http://allie.dbcls.jp/short/exact/Any/beta-G.html)|
 |CSFc|[http://allie.dbcls.jp/short/exact/Any/CSFc.html](http://allie.dbcls.jp/short/exact/Any/CSFc.html)|
 |GDI|[http://allie.dbcls.jp/short/exact/Any/GDI.html](http://allie.dbcls.jp/short/exact/Any/GDI.html)|
 |17 KSR|[http://allie.dbcls.jp/short/exact/Any/17 KSR.html](http://allie.dbcls.jp/short/exact/Any/17 KSR.html)|
@@ -5163,7 +5353,6 @@
 |i.c.a|[http://allie.dbcls.jp/short/exact/Any/i.c.a.html](http://allie.dbcls.jp/short/exact/Any/i.c.a.html)|
 |HLIF|[http://allie.dbcls.jp/short/exact/Any/HLIF.html](http://allie.dbcls.jp/short/exact/Any/HLIF.html)|
 |MMV|[http://allie.dbcls.jp/short/exact/Any/MMV.html](http://allie.dbcls.jp/short/exact/Any/MMV.html)|
-|HSV-I|[http://allie.dbcls.jp/short/exact/Any/HSV-I.html](http://allie.dbcls.jp/short/exact/Any/HSV-I.html)|
 |INV|[http://allie.dbcls.jp/short/exact/Any/INV.html](http://allie.dbcls.jp/short/exact/Any/INV.html)|
 |SCRs|[http://allie.dbcls.jp/short/exact/Any/SCRs.html](http://allie.dbcls.jp/short/exact/Any/SCRs.html)|
 |IPAT|[http://allie.dbcls.jp/short/exact/Any/IPAT.html](http://allie.dbcls.jp/short/exact/Any/IPAT.html)|
@@ -5280,6 +5469,7 @@
 |AWT|[http://allie.dbcls.jp/short/exact/Any/AWT.html](http://allie.dbcls.jp/short/exact/Any/AWT.html)|
 |aggHGG|[http://allie.dbcls.jp/short/exact/Any/aggHGG.html](http://allie.dbcls.jp/short/exact/Any/aggHGG.html)|
 |Part II|[http://allie.dbcls.jp/short/exact/Any/Part II.html](http://allie.dbcls.jp/short/exact/Any/Part II.html)|
+|HBIG|[http://allie.dbcls.jp/short/exact/Any/HBIG.html](http://allie.dbcls.jp/short/exact/Any/HBIG.html)|
 |TPC|[http://allie.dbcls.jp/short/exact/Any/TPC.html](http://allie.dbcls.jp/short/exact/Any/TPC.html)|
 |DBV|[http://allie.dbcls.jp/short/exact/Any/DBV.html](http://allie.dbcls.jp/short/exact/Any/DBV.html)|
 |d.l|[http://allie.dbcls.jp/short/exact/Any/d.l.html](http://allie.dbcls.jp/short/exact/Any/d.l.html)|
@@ -5332,6 +5522,7 @@
 |UtBF|[http://allie.dbcls.jp/short/exact/Any/UtBF.html](http://allie.dbcls.jp/short/exact/Any/UtBF.html)|
 |UmBF|[http://allie.dbcls.jp/short/exact/Any/UmBF.html](http://allie.dbcls.jp/short/exact/Any/UmBF.html)|
 |MMAP|[http://allie.dbcls.jp/short/exact/Any/MMAP.html](http://allie.dbcls.jp/short/exact/Any/MMAP.html)|
+|MFS|[http://allie.dbcls.jp/short/exact/Any/MFS.html](http://allie.dbcls.jp/short/exact/Any/MFS.html)|
 |anti-HRP|[http://allie.dbcls.jp/short/exact/Any/anti-HRP.html](http://allie.dbcls.jp/short/exact/Any/anti-HRP.html)|
 |PPPS|[http://allie.dbcls.jp/short/exact/Any/PPPS.html](http://allie.dbcls.jp/short/exact/Any/PPPS.html)|
 |MFSA|[http://allie.dbcls.jp/short/exact/Any/MFSA.html](http://allie.dbcls.jp/short/exact/Any/MFSA.html)|
@@ -5358,6 +5549,7 @@
 |SURT|[http://allie.dbcls.jp/short/exact/Any/SURT.html](http://allie.dbcls.jp/short/exact/Any/SURT.html)|
 |S. a. e|[http://allie.dbcls.jp/short/exact/Any/S. a. e.html](http://allie.dbcls.jp/short/exact/Any/S. a. e.html)|
 |PAldo|[http://allie.dbcls.jp/short/exact/Any/PAldo.html](http://allie.dbcls.jp/short/exact/Any/PAldo.html)|
+|14C-DMT|[http://allie.dbcls.jp/short/exact/Any/14C-DMT.html](http://allie.dbcls.jp/short/exact/Any/14C-DMT.html)|
 |HSRNA|[http://allie.dbcls.jp/short/exact/Any/HSRNA.html](http://allie.dbcls.jp/short/exact/Any/HSRNA.html)|
 |L.D.P|[http://allie.dbcls.jp/short/exact/Any/L.D.P.html](http://allie.dbcls.jp/short/exact/Any/L.D.P.html)|
 |EDXA|[http://allie.dbcls.jp/short/exact/Any/EDXA.html](http://allie.dbcls.jp/short/exact/Any/EDXA.html)|
@@ -5424,6 +5616,7 @@
 |IRM-enolase|[http://allie.dbcls.jp/short/exact/Any/IRM-enolase.html](http://allie.dbcls.jp/short/exact/Any/IRM-enolase.html)|
 |H-TGL|[http://allie.dbcls.jp/short/exact/Any/H-TGL.html](http://allie.dbcls.jp/short/exact/Any/H-TGL.html)|
 |D.S|[http://allie.dbcls.jp/short/exact/Any/D.S.html](http://allie.dbcls.jp/short/exact/Any/D.S.html)|
+|BJ|[http://allie.dbcls.jp/short/exact/Any/BJ.html](http://allie.dbcls.jp/short/exact/Any/BJ.html)|
 |CMCC|[http://allie.dbcls.jp/short/exact/Any/CMCC.html](http://allie.dbcls.jp/short/exact/Any/CMCC.html)|
 |TBL|[http://allie.dbcls.jp/short/exact/Any/TBL.html](http://allie.dbcls.jp/short/exact/Any/TBL.html)|
 |V D|[http://allie.dbcls.jp/short/exact/Any/V D.html](http://allie.dbcls.jp/short/exact/Any/V D.html)|
@@ -5581,7 +5774,6 @@
 |dA.dT|[http://allie.dbcls.jp/short/exact/Any/dA.dT.html](http://allie.dbcls.jp/short/exact/Any/dA.dT.html)|
 |MNS|[http://allie.dbcls.jp/short/exact/Any/MNS.html](http://allie.dbcls.jp/short/exact/Any/MNS.html)|
 |OSU|[http://allie.dbcls.jp/short/exact/Any/OSU.html](http://allie.dbcls.jp/short/exact/Any/OSU.html)|
-|M.H|[http://allie.dbcls.jp/short/exact/Any/M.H.html](http://allie.dbcls.jp/short/exact/Any/M.H.html)|
 |Auto-II-A|[http://allie.dbcls.jp/short/exact/Any/Auto-II-A.html](http://allie.dbcls.jp/short/exact/Any/Auto-II-A.html)|
 |tsA|[http://allie.dbcls.jp/short/exact/Any/tsA.html](http://allie.dbcls.jp/short/exact/Any/tsA.html)|
 |cheA|[http://allie.dbcls.jp/short/exact/Any/cheA.html](http://allie.dbcls.jp/short/exact/Any/cheA.html)|
@@ -5623,7 +5815,6 @@
 |GP glia|[http://allie.dbcls.jp/short/exact/Any/GP glia.html](http://allie.dbcls.jp/short/exact/Any/GP glia.html)|
 |S/P|[http://allie.dbcls.jp/short/exact/Any/S/P.html](http://allie.dbcls.jp/short/exact/Any/S/P.html)|
 |5HI|[http://allie.dbcls.jp/short/exact/Any/5HI.html](http://allie.dbcls.jp/short/exact/Any/5HI.html)|
-|BAEe|[http://allie.dbcls.jp/short/exact/Any/BAEe.html](http://allie.dbcls.jp/short/exact/Any/BAEe.html)|
 |E/P|[http://allie.dbcls.jp/short/exact/Any/E/P.html](http://allie.dbcls.jp/short/exact/Any/E/P.html)|
 |poly P|[http://allie.dbcls.jp/short/exact/Any/poly P.html](http://allie.dbcls.jp/short/exact/Any/poly P.html)|
 |H-LDH|[http://allie.dbcls.jp/short/exact/Any/H-LDH.html](http://allie.dbcls.jp/short/exact/Any/H-LDH.html)|
@@ -5745,7 +5936,6 @@
 |IPVD|[http://allie.dbcls.jp/short/exact/Any/IPVD.html](http://allie.dbcls.jp/short/exact/Any/IPVD.html)|
 |P.A.G|[http://allie.dbcls.jp/short/exact/Any/P.A.G.html](http://allie.dbcls.jp/short/exact/Any/P.A.G.html)|
 |rT3|[http://allie.dbcls.jp/short/exact/Any/rT3.html](http://allie.dbcls.jp/short/exact/Any/rT3.html)|
-|i.a|[http://allie.dbcls.jp/short/exact/Any/i.a.html](http://allie.dbcls.jp/short/exact/Any/i.a.html)|
 |dNTP|[http://allie.dbcls.jp/short/exact/Any/dNTP.html](http://allie.dbcls.jp/short/exact/Any/dNTP.html)|
 |EC-GC|[http://allie.dbcls.jp/short/exact/Any/EC-GC.html](http://allie.dbcls.jp/short/exact/Any/EC-GC.html)|
 |S.m|[http://allie.dbcls.jp/short/exact/Any/S.m.html](http://allie.dbcls.jp/short/exact/Any/S.m.html)|
@@ -5796,6 +5986,7 @@
 |AmI|[http://allie.dbcls.jp/short/exact/Any/AmI.html](http://allie.dbcls.jp/short/exact/Any/AmI.html)|
 |AmII|[http://allie.dbcls.jp/short/exact/Any/AmII.html](http://allie.dbcls.jp/short/exact/Any/AmII.html)|
 |cn|[http://allie.dbcls.jp/short/exact/Any/cn.html](http://allie.dbcls.jp/short/exact/Any/cn.html)|
+|TVP|[http://allie.dbcls.jp/short/exact/Any/TVP.html](http://allie.dbcls.jp/short/exact/Any/TVP.html)|
 |AHc|[http://allie.dbcls.jp/short/exact/Any/AHc.html](http://allie.dbcls.jp/short/exact/Any/AHc.html)|
 |Pap|[http://allie.dbcls.jp/short/exact/Any/Pap.html](http://allie.dbcls.jp/short/exact/Any/Pap.html)|
 |AMEF|[http://allie.dbcls.jp/short/exact/Any/AMEF.html](http://allie.dbcls.jp/short/exact/Any/AMEF.html)|
@@ -5848,7 +6039,6 @@
 |Tub-Ag|[http://allie.dbcls.jp/short/exact/Any/Tub-Ag.html](http://allie.dbcls.jp/short/exact/Any/Tub-Ag.html)|
 |LMWS|[http://allie.dbcls.jp/short/exact/Any/LMWS.html](http://allie.dbcls.jp/short/exact/Any/LMWS.html)|
 |FA CS|[http://allie.dbcls.jp/short/exact/Any/FA CS.html](http://allie.dbcls.jp/short/exact/Any/FA CS.html)|
-|BrUdR|[http://allie.dbcls.jp/short/exact/Any/BrUdR.html](http://allie.dbcls.jp/short/exact/Any/BrUdR.html)|
 |agg-IgG|[http://allie.dbcls.jp/short/exact/Any/agg-IgG.html](http://allie.dbcls.jp/short/exact/Any/agg-IgG.html)|
 |MSCH|[http://allie.dbcls.jp/short/exact/Any/MSCH.html](http://allie.dbcls.jp/short/exact/Any/MSCH.html)|
 |RBC-51Cr|[http://allie.dbcls.jp/short/exact/Any/RBC-51Cr.html](http://allie.dbcls.jp/short/exact/Any/RBC-51Cr.html)|
@@ -5886,6 +6076,7 @@
 |3H-HE|[http://allie.dbcls.jp/short/exact/Any/3H-HE.html](http://allie.dbcls.jp/short/exact/Any/3H-HE.html)|
 |tauh|[http://allie.dbcls.jp/short/exact/Any/tauh.html](http://allie.dbcls.jp/short/exact/Any/tauh.html)|
 |5-H-T|[http://allie.dbcls.jp/short/exact/Any/5-H-T.html](http://allie.dbcls.jp/short/exact/Any/5-H-T.html)|
+|NMP|[http://allie.dbcls.jp/short/exact/Any/NMP.html](http://allie.dbcls.jp/short/exact/Any/NMP.html)|
 |L-SAH|[http://allie.dbcls.jp/short/exact/Any/L-SAH.html](http://allie.dbcls.jp/short/exact/Any/L-SAH.html)|
 |INMT|[http://allie.dbcls.jp/short/exact/Any/INMT.html](http://allie.dbcls.jp/short/exact/Any/INMT.html)|
 |MHLT|[http://allie.dbcls.jp/short/exact/Any/MHLT.html](http://allie.dbcls.jp/short/exact/Any/MHLT.html)|
@@ -5948,12 +6139,12 @@
 |P.W.D|[http://allie.dbcls.jp/short/exact/Any/P.W.D.html](http://allie.dbcls.jp/short/exact/Any/P.W.D.html)|
 |ITU|[http://allie.dbcls.jp/short/exact/Any/ITU.html](http://allie.dbcls.jp/short/exact/Any/ITU.html)|
 |MAO-I|[http://allie.dbcls.jp/short/exact/Any/MAO-I.html](http://allie.dbcls.jp/short/exact/Any/MAO-I.html)|
-|Ach-E|[http://allie.dbcls.jp/short/exact/Any/Ach-E.html](http://allie.dbcls.jp/short/exact/Any/Ach-E.html)|
 |Cf|[http://allie.dbcls.jp/short/exact/Any/Cf.html](http://allie.dbcls.jp/short/exact/Any/Cf.html)|
 |CARS|[http://allie.dbcls.jp/short/exact/Any/CARS.html](http://allie.dbcls.jp/short/exact/Any/CARS.html)|
 |AcChR|[http://allie.dbcls.jp/short/exact/Any/AcChR.html](http://allie.dbcls.jp/short/exact/Any/AcChR.html)|
 |PPi|[http://allie.dbcls.jp/short/exact/Any/PPi.html](http://allie.dbcls.jp/short/exact/Any/PPi.html)|
 |Hb A1c|[http://allie.dbcls.jp/short/exact/Any/Hb A1c.html](http://allie.dbcls.jp/short/exact/Any/Hb A1c.html)|
+|Dnp-Lys|[http://allie.dbcls.jp/short/exact/Any/Dnp-Lys.html](http://allie.dbcls.jp/short/exact/Any/Dnp-Lys.html)|
 |HAWIE|[http://allie.dbcls.jp/short/exact/Any/HAWIE.html](http://allie.dbcls.jp/short/exact/Any/HAWIE.html)|
 |TBO|[http://allie.dbcls.jp/short/exact/Any/TBO.html](http://allie.dbcls.jp/short/exact/Any/TBO.html)|
 |RTAS|[http://allie.dbcls.jp/short/exact/Any/RTAS.html](http://allie.dbcls.jp/short/exact/Any/RTAS.html)|
@@ -6020,6 +6211,7 @@
 |PRSC|[http://allie.dbcls.jp/short/exact/Any/PRSC.html](http://allie.dbcls.jp/short/exact/Any/PRSC.html)|
 |TIAT|[http://allie.dbcls.jp/short/exact/Any/TIAT.html](http://allie.dbcls.jp/short/exact/Any/TIAT.html)|
 |GLIAT|[http://allie.dbcls.jp/short/exact/Any/GLIAT.html](http://allie.dbcls.jp/short/exact/Any/GLIAT.html)|
+|RPCs|[http://allie.dbcls.jp/short/exact/Any/RPCs.html](http://allie.dbcls.jp/short/exact/Any/RPCs.html)|
 |Ws|[http://allie.dbcls.jp/short/exact/Any/Ws.html](http://allie.dbcls.jp/short/exact/Any/Ws.html)|
 |Ds|[http://allie.dbcls.jp/short/exact/Any/Ds.html](http://allie.dbcls.jp/short/exact/Any/Ds.html)|
 |KHG|[http://allie.dbcls.jp/short/exact/Any/KHG.html](http://allie.dbcls.jp/short/exact/Any/KHG.html)|
@@ -6051,6 +6243,8 @@
 |RGCSA|[http://allie.dbcls.jp/short/exact/Any/RGCSA.html](http://allie.dbcls.jp/short/exact/Any/RGCSA.html)|
 |FBCP|[http://allie.dbcls.jp/short/exact/Any/FBCP.html](http://allie.dbcls.jp/short/exact/Any/FBCP.html)|
 |SSCA|[http://allie.dbcls.jp/short/exact/Any/SSCA.html](http://allie.dbcls.jp/short/exact/Any/SSCA.html)|
+|5-H1AA|[http://allie.dbcls.jp/short/exact/Any/5-H1AA.html](http://allie.dbcls.jp/short/exact/Any/5-H1AA.html)|
+|iva|[http://allie.dbcls.jp/short/exact/Any/iva.html](http://allie.dbcls.jp/short/exact/Any/iva.html)|
 |NFCC|[http://allie.dbcls.jp/short/exact/Any/NFCC.html](http://allie.dbcls.jp/short/exact/Any/NFCC.html)|
 |Turi|[http://allie.dbcls.jp/short/exact/Any/Turi.html](http://allie.dbcls.jp/short/exact/Any/Turi.html)|
 |GCN|[http://allie.dbcls.jp/short/exact/Any/GCN.html](http://allie.dbcls.jp/short/exact/Any/GCN.html)|
@@ -6342,7 +6536,7 @@
 |HLV|[http://allie.dbcls.jp/short/exact/Any/HLV.html](http://allie.dbcls.jp/short/exact/Any/HLV.html)|
 |LDHT|[http://allie.dbcls.jp/short/exact/Any/LDHT.html](http://allie.dbcls.jp/short/exact/Any/LDHT.html)|
 |p. sph|[http://allie.dbcls.jp/short/exact/Any/p. sph.html](http://allie.dbcls.jp/short/exact/Any/p. sph.html)|
-|VC-disease|[http://allie.dbcls.jp/short/exact/Any/VC-disease.html](http://allie.dbcls.jp/short/exact/Any/VC-disease.html)|
+|NHP's|[http://allie.dbcls.jp/short/exact/Any/NHP's.html](http://allie.dbcls.jp/short/exact/Any/NHP's.html)|
 |L. e. d|[http://allie.dbcls.jp/short/exact/Any/L. e. d.html](http://allie.dbcls.jp/short/exact/Any/L. e. d.html)|
 |MEMF|[http://allie.dbcls.jp/short/exact/Any/MEMF.html](http://allie.dbcls.jp/short/exact/Any/MEMF.html)|
 |mGn|[http://allie.dbcls.jp/short/exact/Any/mGn.html](http://allie.dbcls.jp/short/exact/Any/mGn.html)|
@@ -6377,7 +6571,6 @@
 |H-A|[http://allie.dbcls.jp/short/exact/Any/H-A.html](http://allie.dbcls.jp/short/exact/Any/H-A.html)|
 |HWM|[http://allie.dbcls.jp/short/exact/Any/HWM.html](http://allie.dbcls.jp/short/exact/Any/HWM.html)|
 |aDIC|[http://allie.dbcls.jp/short/exact/Any/aDIC.html](http://allie.dbcls.jp/short/exact/Any/aDIC.html)|
-|PTL|[http://allie.dbcls.jp/short/exact/Any/PTL.html](http://allie.dbcls.jp/short/exact/Any/PTL.html)|
 |TCV|[http://allie.dbcls.jp/short/exact/Any/TCV.html](http://allie.dbcls.jp/short/exact/Any/TCV.html)|
 |6-Mp|[http://allie.dbcls.jp/short/exact/Any/6-Mp.html](http://allie.dbcls.jp/short/exact/Any/6-Mp.html)|
 |Coomb's|[http://allie.dbcls.jp/short/exact/Any/Coomb's.html](http://allie.dbcls.jp/short/exact/Any/Coomb's.html)|
@@ -6521,7 +6714,6 @@
 |ap's|[http://allie.dbcls.jp/short/exact/Any/ap's.html](http://allie.dbcls.jp/short/exact/Any/ap's.html)|
 |SRSI|[http://allie.dbcls.jp/short/exact/Any/SRSI.html](http://allie.dbcls.jp/short/exact/Any/SRSI.html)|
 |BESM|[http://allie.dbcls.jp/short/exact/Any/BESM.html](http://allie.dbcls.jp/short/exact/Any/BESM.html)|
-|SCH|[http://allie.dbcls.jp/short/exact/Any/SCH.html](http://allie.dbcls.jp/short/exact/Any/SCH.html)|
 |PPal|[http://allie.dbcls.jp/short/exact/Any/PPal.html](http://allie.dbcls.jp/short/exact/Any/PPal.html)|
 |sc Met|[http://allie.dbcls.jp/short/exact/Any/sc Met.html](http://allie.dbcls.jp/short/exact/Any/sc Met.html)|
 |LBV|[http://allie.dbcls.jp/short/exact/Any/LBV.html](http://allie.dbcls.jp/short/exact/Any/LBV.html)|
@@ -6610,13 +6802,6 @@
 |SDS-PAE|[http://allie.dbcls.jp/short/exact/Any/SDS-PAE.html](http://allie.dbcls.jp/short/exact/Any/SDS-PAE.html)|
 |CAIE|[http://allie.dbcls.jp/short/exact/Any/CAIE.html](http://allie.dbcls.jp/short/exact/Any/CAIE.html)|
 |TTPs|[http://allie.dbcls.jp/short/exact/Any/TTPs.html](http://allie.dbcls.jp/short/exact/Any/TTPs.html)|
-|IPHA|[http://allie.dbcls.jp/short/exact/Any/IPHA.html](http://allie.dbcls.jp/short/exact/Any/IPHA.html)|
-|N-ase|[http://allie.dbcls.jp/short/exact/Any/N-ase.html](http://allie.dbcls.jp/short/exact/Any/N-ase.html)|
-|HIb|[http://allie.dbcls.jp/short/exact/Any/HIb.html](http://allie.dbcls.jp/short/exact/Any/HIb.html)|
-|PHads|[http://allie.dbcls.jp/short/exact/Any/PHads.html](http://allie.dbcls.jp/short/exact/Any/PHads.html)|
-|Tx|[http://allie.dbcls.jp/short/exact/Any/Tx.html](http://allie.dbcls.jp/short/exact/Any/Tx.html)|
-|Tw|[http://allie.dbcls.jp/short/exact/Any/Tw.html](http://allie.dbcls.jp/short/exact/Any/Tw.html)|
-|Tx-SDS|[http://allie.dbcls.jp/short/exact/Any/Tx-SDS.html](http://allie.dbcls.jp/short/exact/Any/Tx-SDS.html)|
 |MDV-Kekava|[http://allie.dbcls.jp/short/exact/Any/MDV-Kekava.html](http://allie.dbcls.jp/short/exact/Any/MDV-Kekava.html)|
 |HVT-M24-72|[http://allie.dbcls.jp/short/exact/Any/HVT-M24-72.html](http://allie.dbcls.jp/short/exact/Any/HVT-M24-72.html)|
 |G-6-P-DH|[http://allie.dbcls.jp/short/exact/Any/G-6-P-DH.html](http://allie.dbcls.jp/short/exact/Any/G-6-P-DH.html)|
@@ -6636,7 +6821,6 @@
 |Gb cells|[http://allie.dbcls.jp/short/exact/Any/Gb cells.html](http://allie.dbcls.jp/short/exact/Any/Gb cells.html)|
 |Fb cells|[http://allie.dbcls.jp/short/exact/Any/Fb cells.html](http://allie.dbcls.jp/short/exact/Any/Fb cells.html)|
 |GST|[http://allie.dbcls.jp/short/exact/Any/GST.html](http://allie.dbcls.jp/short/exact/Any/GST.html)|
-|HEAC|[http://allie.dbcls.jp/short/exact/Any/HEAC.html](http://allie.dbcls.jp/short/exact/Any/HEAC.html)|
 |wc|[http://allie.dbcls.jp/short/exact/Any/wc.html](http://allie.dbcls.jp/short/exact/Any/wc.html)|
 |CP/CMH|[http://allie.dbcls.jp/short/exact/Any/CP/CMH.html](http://allie.dbcls.jp/short/exact/Any/CP/CMH.html)|
 |CMHI|[http://allie.dbcls.jp/short/exact/Any/CMHI.html](http://allie.dbcls.jp/short/exact/Any/CMHI.html)|
@@ -6821,7 +7005,6 @@
 |L-T3|[http://allie.dbcls.jp/short/exact/Any/L-T3.html](http://allie.dbcls.jp/short/exact/Any/L-T3.html)|
 |TMAI|[http://allie.dbcls.jp/short/exact/Any/TMAI.html](http://allie.dbcls.jp/short/exact/Any/TMAI.html)|
 |a-MT|[http://allie.dbcls.jp/short/exact/Any/a-MT.html](http://allie.dbcls.jp/short/exact/Any/a-MT.html)|
-|TFP|[http://allie.dbcls.jp/short/exact/Any/TFP.html](http://allie.dbcls.jp/short/exact/Any/TFP.html)|
 |Au Ag|[http://allie.dbcls.jp/short/exact/Any/Au Ag.html](http://allie.dbcls.jp/short/exact/Any/Au Ag.html)|
 |Purtscher's|[http://allie.dbcls.jp/short/exact/Any/Purtscher's.html](http://allie.dbcls.jp/short/exact/Any/Purtscher's.html)|
 |DMHB|[http://allie.dbcls.jp/short/exact/Any/DMHB.html](http://allie.dbcls.jp/short/exact/Any/DMHB.html)|
@@ -6832,6 +7015,7 @@
 |L.S.I.S|[http://allie.dbcls.jp/short/exact/Any/L.S.I.S.html](http://allie.dbcls.jp/short/exact/Any/L.S.I.S.html)|
 |FHP|[http://allie.dbcls.jp/short/exact/Any/FHP.html](http://allie.dbcls.jp/short/exact/Any/FHP.html)|
 |PAOI-BAO|[http://allie.dbcls.jp/short/exact/Any/PAOI-BAO.html](http://allie.dbcls.jp/short/exact/Any/PAOI-BAO.html)|
+|3H-1-NA|[http://allie.dbcls.jp/short/exact/Any/3H-1-NA.html](http://allie.dbcls.jp/short/exact/Any/3H-1-NA.html)|
 |CFRs|[http://allie.dbcls.jp/short/exact/Any/CFRs.html](http://allie.dbcls.jp/short/exact/Any/CFRs.html)|
 |MSX|[http://allie.dbcls.jp/short/exact/Any/MSX.html](http://allie.dbcls.jp/short/exact/Any/MSX.html)|
 |L-LDH|[http://allie.dbcls.jp/short/exact/Any/L-LDH.html](http://allie.dbcls.jp/short/exact/Any/L-LDH.html)|
@@ -6843,10 +7027,6 @@
 |NAD-SoDHS|[http://allie.dbcls.jp/short/exact/Any/NAD-SoDHS.html](http://allie.dbcls.jp/short/exact/Any/NAD-SoDHS.html)|
 |NADP-SoDH|[http://allie.dbcls.jp/short/exact/Any/NADP-SoDH.html](http://allie.dbcls.jp/short/exact/Any/NADP-SoDH.html)|
 |Dao|[http://allie.dbcls.jp/short/exact/Any/Dao.html](http://allie.dbcls.jp/short/exact/Any/Dao.html)|
-|CBO|[http://allie.dbcls.jp/short/exact/Any/CBO.html](http://allie.dbcls.jp/short/exact/Any/CBO.html)|
-|C.A.P|[http://allie.dbcls.jp/short/exact/Any/C.A.P.html](http://allie.dbcls.jp/short/exact/Any/C.A.P.html)|
-|P.I.F.G|[http://allie.dbcls.jp/short/exact/Any/P.I.F.G.html](http://allie.dbcls.jp/short/exact/Any/P.I.F.G.html)|
-|HPTLC|[http://allie.dbcls.jp/short/exact/Any/HPTLC.html](http://allie.dbcls.jp/short/exact/Any/HPTLC.html)|
 |m-L-SL|[http://allie.dbcls.jp/short/exact/Any/m-L-SL.html](http://allie.dbcls.jp/short/exact/Any/m-L-SL.html)|
 |R-T|[http://allie.dbcls.jp/short/exact/Any/R-T.html](http://allie.dbcls.jp/short/exact/Any/R-T.html)|
 |NPS|[http://allie.dbcls.jp/short/exact/Any/NPS.html](http://allie.dbcls.jp/short/exact/Any/NPS.html)|
@@ -6869,7 +7049,6 @@
 |HEC|[http://allie.dbcls.jp/short/exact/Any/HEC.html](http://allie.dbcls.jp/short/exact/Any/HEC.html)|
 |SADE|[http://allie.dbcls.jp/short/exact/Any/SADE.html](http://allie.dbcls.jp/short/exact/Any/SADE.html)|
 |PTBP resins|[http://allie.dbcls.jp/short/exact/Any/PTBP resins.html](http://allie.dbcls.jp/short/exact/Any/PTBP resins.html)|
-|PPOB|[http://allie.dbcls.jp/short/exact/Any/PPOB.html](http://allie.dbcls.jp/short/exact/Any/PPOB.html)|
 |QR|[http://allie.dbcls.jp/short/exact/Any/QR.html](http://allie.dbcls.jp/short/exact/Any/QR.html)|
 |GSI|[http://allie.dbcls.jp/short/exact/Any/GSI.html](http://allie.dbcls.jp/short/exact/Any/GSI.html)|
 |6-AM|[http://allie.dbcls.jp/short/exact/Any/6-AM.html](http://allie.dbcls.jp/short/exact/Any/6-AM.html)|
@@ -6893,7 +7072,6 @@
 |THJ|[http://allie.dbcls.jp/short/exact/Any/THJ.html](http://allie.dbcls.jp/short/exact/Any/THJ.html)|
 |NHRS|[http://allie.dbcls.jp/short/exact/Any/NHRS.html](http://allie.dbcls.jp/short/exact/Any/NHRS.html)|
 |ETPA|[http://allie.dbcls.jp/short/exact/Any/ETPA.html](http://allie.dbcls.jp/short/exact/Any/ETPA.html)|
-|CHF-Congo|[http://allie.dbcls.jp/short/exact/Any/CHF-Congo.html](http://allie.dbcls.jp/short/exact/Any/CHF-Congo.html)|
 |DRA|[http://allie.dbcls.jp/short/exact/Any/DRA.html](http://allie.dbcls.jp/short/exact/Any/DRA.html)|
 |DIAR|[http://allie.dbcls.jp/short/exact/Any/DIAR.html](http://allie.dbcls.jp/short/exact/Any/DIAR.html)|
 |RCLA AR|[http://allie.dbcls.jp/short/exact/Any/RCLA AR.html](http://allie.dbcls.jp/short/exact/Any/RCLA AR.html)|
@@ -7034,7 +7212,6 @@
 |p-DNB|[http://allie.dbcls.jp/short/exact/Any/p-DNB.html](http://allie.dbcls.jp/short/exact/Any/p-DNB.html)|
 |AMOBQ|[http://allie.dbcls.jp/short/exact/Any/AMOBQ.html](http://allie.dbcls.jp/short/exact/Any/AMOBQ.html)|
 |beta-GUS|[http://allie.dbcls.jp/short/exact/Any/beta-GUS.html](http://allie.dbcls.jp/short/exact/Any/beta-GUS.html)|
-|I.E.D|[http://allie.dbcls.jp/short/exact/Any/I.E.D.html](http://allie.dbcls.jp/short/exact/Any/I.E.D.html)|
 |NGFR-P|[http://allie.dbcls.jp/short/exact/Any/NGFR-P.html](http://allie.dbcls.jp/short/exact/Any/NGFR-P.html)|
 |LADR|[http://allie.dbcls.jp/short/exact/Any/LADR.html](http://allie.dbcls.jp/short/exact/Any/LADR.html)|
 |salt-DOC|[http://allie.dbcls.jp/short/exact/Any/salt-DOC.html](http://allie.dbcls.jp/short/exact/Any/salt-DOC.html)|
@@ -7104,7 +7281,6 @@
 |HS 17|[http://allie.dbcls.jp/short/exact/Any/HS 17.html](http://allie.dbcls.jp/short/exact/Any/HS 17.html)|
 |fdUrd|[http://allie.dbcls.jp/short/exact/Any/fdUrd.html](http://allie.dbcls.jp/short/exact/Any/fdUrd.html)|
 |NAD's|[http://allie.dbcls.jp/short/exact/Any/NAD's.html](http://allie.dbcls.jp/short/exact/Any/NAD's.html)|
-|S.F.V|[http://allie.dbcls.jp/short/exact/Any/S.F.V.html](http://allie.dbcls.jp/short/exact/Any/S.F.V.html)|
 |PEH|[http://allie.dbcls.jp/short/exact/Any/PEH.html](http://allie.dbcls.jp/short/exact/Any/PEH.html)|
 |METP|[http://allie.dbcls.jp/short/exact/Any/METP.html](http://allie.dbcls.jp/short/exact/Any/METP.html)|
 |GCE|[http://allie.dbcls.jp/short/exact/Any/GCE.html](http://allie.dbcls.jp/short/exact/Any/GCE.html)|
@@ -7119,21 +7295,6 @@
 |PPCS|[http://allie.dbcls.jp/short/exact/Any/PPCS.html](http://allie.dbcls.jp/short/exact/Any/PPCS.html)|
 |T.H.S|[http://allie.dbcls.jp/short/exact/Any/T.H.S.html](http://allie.dbcls.jp/short/exact/Any/T.H.S.html)|
 |c AMP|[http://allie.dbcls.jp/short/exact/Any/c AMP.html](http://allie.dbcls.jp/short/exact/Any/c AMP.html)|
-|G.D|[http://allie.dbcls.jp/short/exact/Any/G.D.html](http://allie.dbcls.jp/short/exact/Any/G.D.html)|
-|F.H.R|[http://allie.dbcls.jp/short/exact/Any/F.H.R.html](http://allie.dbcls.jp/short/exact/Any/F.H.R.html)|
-|DEAE-Dextran|[http://allie.dbcls.jp/short/exact/Any/DEAE-Dextran.html](http://allie.dbcls.jp/short/exact/Any/DEAE-Dextran.html)|
-|ROI|[http://allie.dbcls.jp/short/exact/Any/ROI.html](http://allie.dbcls.jp/short/exact/Any/ROI.html)|
-|TTM|[http://allie.dbcls.jp/short/exact/Any/TTM.html](http://allie.dbcls.jp/short/exact/Any/TTM.html)|
-|THy|[http://allie.dbcls.jp/short/exact/Any/THy.html](http://allie.dbcls.jp/short/exact/Any/THy.html)|
-|CCX|[http://allie.dbcls.jp/short/exact/Any/CCX.html](http://allie.dbcls.jp/short/exact/Any/CCX.html)|
-|CNDO|[http://allie.dbcls.jp/short/exact/Any/CNDO.html](http://allie.dbcls.jp/short/exact/Any/CNDO.html)|
-|V.E.P|[http://allie.dbcls.jp/short/exact/Any/V.E.P.html](http://allie.dbcls.jp/short/exact/Any/V.E.P.html)|
-|TFZ|[http://allie.dbcls.jp/short/exact/Any/TFZ.html](http://allie.dbcls.jp/short/exact/Any/TFZ.html)|
-|NCCI|[http://allie.dbcls.jp/short/exact/Any/NCCI.html](http://allie.dbcls.jp/short/exact/Any/NCCI.html)|
-|PSTI|[http://allie.dbcls.jp/short/exact/Any/PSTI.html](http://allie.dbcls.jp/short/exact/Any/PSTI.html)|
-|SIF cells|[http://allie.dbcls.jp/short/exact/Any/SIF cells.html](http://allie.dbcls.jp/short/exact/Any/SIF cells.html)|
-|I.T.A|[http://allie.dbcls.jp/short/exact/Any/I.T.A.html](http://allie.dbcls.jp/short/exact/Any/I.T.A.html)|
-|BIR|[http://allie.dbcls.jp/short/exact/Any/BIR.html](http://allie.dbcls.jp/short/exact/Any/BIR.html)|
 |ISSC|[http://allie.dbcls.jp/short/exact/Any/ISSC.html](http://allie.dbcls.jp/short/exact/Any/ISSC.html)|
 |dm-R|[http://allie.dbcls.jp/short/exact/Any/dm-R.html](http://allie.dbcls.jp/short/exact/Any/dm-R.html)|
 |d-R|[http://allie.dbcls.jp/short/exact/Any/d-R.html](http://allie.dbcls.jp/short/exact/Any/d-R.html)|
@@ -7149,7 +7310,6 @@
 |SRR|[http://allie.dbcls.jp/short/exact/Any/SRR.html](http://allie.dbcls.jp/short/exact/Any/SRR.html)|
 |TcPYP|[http://allie.dbcls.jp/short/exact/Any/TcPYP.html](http://allie.dbcls.jp/short/exact/Any/TcPYP.html)|
 |11C-P|[http://allie.dbcls.jp/short/exact/Any/11C-P.html](http://allie.dbcls.jp/short/exact/Any/11C-P.html)|
-|RCT|[http://allie.dbcls.jp/short/exact/Any/RCT.html](http://allie.dbcls.jp/short/exact/Any/RCT.html)|
 |DVTP|[http://allie.dbcls.jp/short/exact/Any/DVTP.html](http://allie.dbcls.jp/short/exact/Any/DVTP.html)|
 |TDR|[http://allie.dbcls.jp/short/exact/Any/TDR.html](http://allie.dbcls.jp/short/exact/Any/TDR.html)|
 |1,2,3,4-DBA|[http://allie.dbcls.jp/short/exact/Any/1,2,3,4-DBA.html](http://allie.dbcls.jp/short/exact/Any/1,2,3,4-DBA.html)|
@@ -7192,7 +7352,6 @@
 |RIBA|[http://allie.dbcls.jp/short/exact/Any/RIBA.html](http://allie.dbcls.jp/short/exact/Any/RIBA.html)|
 |S/C|[http://allie.dbcls.jp/short/exact/Any/S/C.html](http://allie.dbcls.jp/short/exact/Any/S/C.html)|
 |PDA/RDS|[http://allie.dbcls.jp/short/exact/Any/PDA/RDS.html](http://allie.dbcls.jp/short/exact/Any/PDA/RDS.html)|
-|NMP|[http://allie.dbcls.jp/short/exact/Any/NMP.html](http://allie.dbcls.jp/short/exact/Any/NMP.html)|
 |MOTT|[http://allie.dbcls.jp/short/exact/Any/MOTT.html](http://allie.dbcls.jp/short/exact/Any/MOTT.html)|
 |EMTs|[http://allie.dbcls.jp/short/exact/Any/EMTs.html](http://allie.dbcls.jp/short/exact/Any/EMTs.html)|
 |MEW|[http://allie.dbcls.jp/short/exact/Any/MEW.html](http://allie.dbcls.jp/short/exact/Any/MEW.html)|
@@ -7265,7 +7424,6 @@
 |C.T.A|[http://allie.dbcls.jp/short/exact/Any/C.T.A.html](http://allie.dbcls.jp/short/exact/Any/C.T.A.html)|
 |MMES|[http://allie.dbcls.jp/short/exact/Any/MMES.html](http://allie.dbcls.jp/short/exact/Any/MMES.html)|
 |cvp|[http://allie.dbcls.jp/short/exact/Any/cvp.html](http://allie.dbcls.jp/short/exact/Any/cvp.html)|
-|Tta|[http://allie.dbcls.jp/short/exact/Any/Tta.html](http://allie.dbcls.jp/short/exact/Any/Tta.html)|
 |MAOS|[http://allie.dbcls.jp/short/exact/Any/MAOS.html](http://allie.dbcls.jp/short/exact/Any/MAOS.html)|
 |RUBP|[http://allie.dbcls.jp/short/exact/Any/RUBP.html](http://allie.dbcls.jp/short/exact/Any/RUBP.html)|
 |PCF|[http://allie.dbcls.jp/short/exact/Any/PCF.html](http://allie.dbcls.jp/short/exact/Any/PCF.html)|
@@ -7291,7 +7449,6 @@
 |PPPase|[http://allie.dbcls.jp/short/exact/Any/PPPase.html](http://allie.dbcls.jp/short/exact/Any/PPPase.html)|
 |TRL|[http://allie.dbcls.jp/short/exact/Any/TRL.html](http://allie.dbcls.jp/short/exact/Any/TRL.html)|
 |pma|[http://allie.dbcls.jp/short/exact/Any/pma.html](http://allie.dbcls.jp/short/exact/Any/pma.html)|
-|MFS|[http://allie.dbcls.jp/short/exact/Any/MFS.html](http://allie.dbcls.jp/short/exact/Any/MFS.html)|
 |MII|[http://allie.dbcls.jp/short/exact/Any/MII.html](http://allie.dbcls.jp/short/exact/Any/MII.html)|
 |MIII|[http://allie.dbcls.jp/short/exact/Any/MIII.html](http://allie.dbcls.jp/short/exact/Any/MIII.html)|
 |polyA|[http://allie.dbcls.jp/short/exact/Any/polyA.html](http://allie.dbcls.jp/short/exact/Any/polyA.html)|
@@ -7367,6 +7524,112 @@
 |WtL|[http://allie.dbcls.jp/short/exact/Any/WtL.html](http://allie.dbcls.jp/short/exact/Any/WtL.html)|
 |eAg|[http://allie.dbcls.jp/short/exact/Any/eAg.html](http://allie.dbcls.jp/short/exact/Any/eAg.html)|
 |adh|[http://allie.dbcls.jp/short/exact/Any/adh.html](http://allie.dbcls.jp/short/exact/Any/adh.html)|
+|G.D|[http://allie.dbcls.jp/short/exact/Any/G.D.html](http://allie.dbcls.jp/short/exact/Any/G.D.html)|
+|F.H.R|[http://allie.dbcls.jp/short/exact/Any/F.H.R.html](http://allie.dbcls.jp/short/exact/Any/F.H.R.html)|
+|DEAE-Dextran|[http://allie.dbcls.jp/short/exact/Any/DEAE-Dextran.html](http://allie.dbcls.jp/short/exact/Any/DEAE-Dextran.html)|
+|TTM|[http://allie.dbcls.jp/short/exact/Any/TTM.html](http://allie.dbcls.jp/short/exact/Any/TTM.html)|
+|THy|[http://allie.dbcls.jp/short/exact/Any/THy.html](http://allie.dbcls.jp/short/exact/Any/THy.html)|
+|CCX|[http://allie.dbcls.jp/short/exact/Any/CCX.html](http://allie.dbcls.jp/short/exact/Any/CCX.html)|
+|CNDO|[http://allie.dbcls.jp/short/exact/Any/CNDO.html](http://allie.dbcls.jp/short/exact/Any/CNDO.html)|
+|V.E.P|[http://allie.dbcls.jp/short/exact/Any/V.E.P.html](http://allie.dbcls.jp/short/exact/Any/V.E.P.html)|
+|TFZ|[http://allie.dbcls.jp/short/exact/Any/TFZ.html](http://allie.dbcls.jp/short/exact/Any/TFZ.html)|
+|NCCI|[http://allie.dbcls.jp/short/exact/Any/NCCI.html](http://allie.dbcls.jp/short/exact/Any/NCCI.html)|
+|PSTI|[http://allie.dbcls.jp/short/exact/Any/PSTI.html](http://allie.dbcls.jp/short/exact/Any/PSTI.html)|
+|SIF cells|[http://allie.dbcls.jp/short/exact/Any/SIF cells.html](http://allie.dbcls.jp/short/exact/Any/SIF cells.html)|
+|I.T.A|[http://allie.dbcls.jp/short/exact/Any/I.T.A.html](http://allie.dbcls.jp/short/exact/Any/I.T.A.html)|
+|BIR|[http://allie.dbcls.jp/short/exact/Any/BIR.html](http://allie.dbcls.jp/short/exact/Any/BIR.html)|
+|PCL|[http://allie.dbcls.jp/short/exact/Any/PCL.html](http://allie.dbcls.jp/short/exact/Any/PCL.html)|
+|FCDC|[http://allie.dbcls.jp/short/exact/Any/FCDC.html](http://allie.dbcls.jp/short/exact/Any/FCDC.html)|
+|14C-G.C|[http://allie.dbcls.jp/short/exact/Any/14C-G.C.html](http://allie.dbcls.jp/short/exact/Any/14C-G.C.html)|
+|C.O.P.D|[http://allie.dbcls.jp/short/exact/Any/C.O.P.D.html](http://allie.dbcls.jp/short/exact/Any/C.O.P.D.html)|
+|V.C.F|[http://allie.dbcls.jp/short/exact/Any/V.C.F.html](http://allie.dbcls.jp/short/exact/Any/V.C.F.html)|
+|ArE|[http://allie.dbcls.jp/short/exact/Any/ArE.html](http://allie.dbcls.jp/short/exact/Any/ArE.html)|
+|C.C.O|[http://allie.dbcls.jp/short/exact/Any/C.C.O.html](http://allie.dbcls.jp/short/exact/Any/C.C.O.html)|
+|Gr-I|[http://allie.dbcls.jp/short/exact/Any/Gr-I.html](http://allie.dbcls.jp/short/exact/Any/Gr-I.html)|
+|SFH|[http://allie.dbcls.jp/short/exact/Any/SFH.html](http://allie.dbcls.jp/short/exact/Any/SFH.html)|
+|T/F|[http://allie.dbcls.jp/short/exact/Any/T/F.html](http://allie.dbcls.jp/short/exact/Any/T/F.html)|
+|PPh|[http://allie.dbcls.jp/short/exact/Any/PPh.html](http://allie.dbcls.jp/short/exact/Any/PPh.html)|
+|FMH|[http://allie.dbcls.jp/short/exact/Any/FMH.html](http://allie.dbcls.jp/short/exact/Any/FMH.html)|
+|ISO-MN|[http://allie.dbcls.jp/short/exact/Any/ISO-MN.html](http://allie.dbcls.jp/short/exact/Any/ISO-MN.html)|
+|INCL|[http://allie.dbcls.jp/short/exact/Any/INCL.html](http://allie.dbcls.jp/short/exact/Any/INCL.html)|
+|UTB|[http://allie.dbcls.jp/short/exact/Any/UTB.html](http://allie.dbcls.jp/short/exact/Any/UTB.html)|
+|X.O|[http://allie.dbcls.jp/short/exact/Any/X.O.html](http://allie.dbcls.jp/short/exact/Any/X.O.html)|
+|Bi|[http://allie.dbcls.jp/short/exact/Any/Bi.html](http://allie.dbcls.jp/short/exact/Any/Bi.html)|
+|pre-SM|[http://allie.dbcls.jp/short/exact/Any/pre-SM.html](http://allie.dbcls.jp/short/exact/Any/pre-SM.html)|
+|CPC-AD|[http://allie.dbcls.jp/short/exact/Any/CPC-AD.html](http://allie.dbcls.jp/short/exact/Any/CPC-AD.html)|
+|CPC-PTA|[http://allie.dbcls.jp/short/exact/Any/CPC-PTA.html](http://allie.dbcls.jp/short/exact/Any/CPC-PTA.html)|
+|CETAB|[http://allie.dbcls.jp/short/exact/Any/CETAB.html](http://allie.dbcls.jp/short/exact/Any/CETAB.html)|
+|I.D.T|[http://allie.dbcls.jp/short/exact/Any/I.D.T.html](http://allie.dbcls.jp/short/exact/Any/I.D.T.html)|
+|D.J|[http://allie.dbcls.jp/short/exact/Any/D.J.html](http://allie.dbcls.jp/short/exact/Any/D.J.html)|
+|ESRD|[http://allie.dbcls.jp/short/exact/Any/ESRD.html](http://allie.dbcls.jp/short/exact/Any/ESRD.html)|
+|SOF|[http://allie.dbcls.jp/short/exact/Any/SOF.html](http://allie.dbcls.jp/short/exact/Any/SOF.html)|
+|VIM|[http://allie.dbcls.jp/short/exact/Any/VIM.html](http://allie.dbcls.jp/short/exact/Any/VIM.html)|
+|EMG-RTs|[http://allie.dbcls.jp/short/exact/Any/EMG-RTs.html](http://allie.dbcls.jp/short/exact/Any/EMG-RTs.html)|
+|CGE|[http://allie.dbcls.jp/short/exact/Any/CGE.html](http://allie.dbcls.jp/short/exact/Any/CGE.html)|
+|CDLE|[http://allie.dbcls.jp/short/exact/Any/CDLE.html](http://allie.dbcls.jp/short/exact/Any/CDLE.html)|
+|DARP|[http://allie.dbcls.jp/short/exact/Any/DARP.html](http://allie.dbcls.jp/short/exact/Any/DARP.html)|
+|UGIH|[http://allie.dbcls.jp/short/exact/Any/UGIH.html](http://allie.dbcls.jp/short/exact/Any/UGIH.html)|
+|LAMG|[http://allie.dbcls.jp/short/exact/Any/LAMG.html](http://allie.dbcls.jp/short/exact/Any/LAMG.html)|
+|ALGM|[http://allie.dbcls.jp/short/exact/Any/ALGM.html](http://allie.dbcls.jp/short/exact/Any/ALGM.html)|
+|SBTT|[http://allie.dbcls.jp/short/exact/Any/SBTT.html](http://allie.dbcls.jp/short/exact/Any/SBTT.html)|
+|HSDH|[http://allie.dbcls.jp/short/exact/Any/HSDH.html](http://allie.dbcls.jp/short/exact/Any/HSDH.html)|
+|D-GalNAc|[http://allie.dbcls.jp/short/exact/Any/D-GalNAc.html](http://allie.dbcls.jp/short/exact/Any/D-GalNAc.html)|
+|XPS|[http://allie.dbcls.jp/short/exact/Any/XPS.html](http://allie.dbcls.jp/short/exact/Any/XPS.html)|
+|Pr K|[http://allie.dbcls.jp/short/exact/Any/Pr K.html](http://allie.dbcls.jp/short/exact/Any/Pr K.html)|
+|HTD|[http://allie.dbcls.jp/short/exact/Any/HTD.html](http://allie.dbcls.jp/short/exact/Any/HTD.html)|
+|n-DNA|[http://allie.dbcls.jp/short/exact/Any/n-DNA.html](http://allie.dbcls.jp/short/exact/Any/n-DNA.html)|
+|DNA-mc|[http://allie.dbcls.jp/short/exact/Any/DNA-mc.html](http://allie.dbcls.jp/short/exact/Any/DNA-mc.html)|
+|KF-method|[http://allie.dbcls.jp/short/exact/Any/KF-method.html](http://allie.dbcls.jp/short/exact/Any/KF-method.html)|
+|O-beta-HA|[http://allie.dbcls.jp/short/exact/Any/O-beta-HA.html](http://allie.dbcls.jp/short/exact/Any/O-beta-HA.html)|
+|r. ms. d|[http://allie.dbcls.jp/short/exact/Any/r. ms. d.html](http://allie.dbcls.jp/short/exact/Any/r. ms. d.html)|
+|SISD|[http://allie.dbcls.jp/short/exact/Any/SISD.html](http://allie.dbcls.jp/short/exact/Any/SISD.html)|
+|PICT|[http://allie.dbcls.jp/short/exact/Any/PICT.html](http://allie.dbcls.jp/short/exact/Any/PICT.html)|
+|TLDL|[http://allie.dbcls.jp/short/exact/Any/TLDL.html](http://allie.dbcls.jp/short/exact/Any/TLDL.html)|
+|h.c|[http://allie.dbcls.jp/short/exact/Any/h.c.html](http://allie.dbcls.jp/short/exact/Any/h.c.html)|
+|BPCF|[http://allie.dbcls.jp/short/exact/Any/BPCF.html](http://allie.dbcls.jp/short/exact/Any/BPCF.html)|
+|NFBFA|[http://allie.dbcls.jp/short/exact/Any/NFBFA.html](http://allie.dbcls.jp/short/exact/Any/NFBFA.html)|
+|SDSV|[http://allie.dbcls.jp/short/exact/Any/SDSV.html](http://allie.dbcls.jp/short/exact/Any/SDSV.html)|
+|ASQ|[http://allie.dbcls.jp/short/exact/Any/ASQ.html](http://allie.dbcls.jp/short/exact/Any/ASQ.html)|
+|Ax|[http://allie.dbcls.jp/short/exact/Any/Ax.html](http://allie.dbcls.jp/short/exact/Any/Ax.html)|
+|Hs|[http://allie.dbcls.jp/short/exact/Any/Hs.html](http://allie.dbcls.jp/short/exact/Any/Hs.html)|
+|AOR|[http://allie.dbcls.jp/short/exact/Any/AOR.html](http://allie.dbcls.jp/short/exact/Any/AOR.html)|
+|CSMC|[http://allie.dbcls.jp/short/exact/Any/CSMC.html](http://allie.dbcls.jp/short/exact/Any/CSMC.html)|
+|QGPT|[http://allie.dbcls.jp/short/exact/Any/QGPT.html](http://allie.dbcls.jp/short/exact/Any/QGPT.html)|
+|IBH|[http://allie.dbcls.jp/short/exact/Any/IBH.html](http://allie.dbcls.jp/short/exact/Any/IBH.html)|
+|DCPI|[http://allie.dbcls.jp/short/exact/Any/DCPI.html](http://allie.dbcls.jp/short/exact/Any/DCPI.html)|
+|SECNI|[http://allie.dbcls.jp/short/exact/Any/SECNI.html](http://allie.dbcls.jp/short/exact/Any/SECNI.html)|
+|dist|[http://allie.dbcls.jp/short/exact/Any/dist.html](http://allie.dbcls.jp/short/exact/Any/dist.html)|
+|PAPHY|[http://allie.dbcls.jp/short/exact/Any/PAPHY.html](http://allie.dbcls.jp/short/exact/Any/PAPHY.html)|
+|3-MPA|[http://allie.dbcls.jp/short/exact/Any/3-MPA.html](http://allie.dbcls.jp/short/exact/Any/3-MPA.html)|
+|DYDA|[http://allie.dbcls.jp/short/exact/Any/DYDA.html](http://allie.dbcls.jp/short/exact/Any/DYDA.html)|
+|VBm|[http://allie.dbcls.jp/short/exact/Any/VBm.html](http://allie.dbcls.jp/short/exact/Any/VBm.html)|
+|nLLL|[http://allie.dbcls.jp/short/exact/Any/nLLL.html](http://allie.dbcls.jp/short/exact/Any/nLLL.html)|
+|SPNs|[http://allie.dbcls.jp/short/exact/Any/SPNs.html](http://allie.dbcls.jp/short/exact/Any/SPNs.html)|
+|VACAS|[http://allie.dbcls.jp/short/exact/Any/VACAS.html](http://allie.dbcls.jp/short/exact/Any/VACAS.html)|
+|FTS|[http://allie.dbcls.jp/short/exact/Any/FTS.html](http://allie.dbcls.jp/short/exact/Any/FTS.html)|
+|LLMF|[http://allie.dbcls.jp/short/exact/Any/LLMF.html](http://allie.dbcls.jp/short/exact/Any/LLMF.html)|
+|COAT|[http://allie.dbcls.jp/short/exact/Any/COAT.html](http://allie.dbcls.jp/short/exact/Any/COAT.html)|
+|NRNP|[http://allie.dbcls.jp/short/exact/Any/NRNP.html](http://allie.dbcls.jp/short/exact/Any/NRNP.html)|
+|SEMIS|[http://allie.dbcls.jp/short/exact/Any/SEMIS.html](http://allie.dbcls.jp/short/exact/Any/SEMIS.html)|
+|HEMR|[http://allie.dbcls.jp/short/exact/Any/HEMR.html](http://allie.dbcls.jp/short/exact/Any/HEMR.html)|
+|PRIM|[http://allie.dbcls.jp/short/exact/Any/PRIM.html](http://allie.dbcls.jp/short/exact/Any/PRIM.html)|
+|SBSC|[http://allie.dbcls.jp/short/exact/Any/SBSC.html](http://allie.dbcls.jp/short/exact/Any/SBSC.html)|
+|ZnSe|[http://allie.dbcls.jp/short/exact/Any/ZnSe.html](http://allie.dbcls.jp/short/exact/Any/ZnSe.html)|
+|JPL|[http://allie.dbcls.jp/short/exact/Any/JPL.html](http://allie.dbcls.jp/short/exact/Any/JPL.html)|
+|AABW|[http://allie.dbcls.jp/short/exact/Any/AABW.html](http://allie.dbcls.jp/short/exact/Any/AABW.html)|
+|TMD|[http://allie.dbcls.jp/short/exact/Any/TMD.html](http://allie.dbcls.jp/short/exact/Any/TMD.html)|
+|VL1|[http://allie.dbcls.jp/short/exact/Any/VL1.html](http://allie.dbcls.jp/short/exact/Any/VL1.html)|
+|VL2|[http://allie.dbcls.jp/short/exact/Any/VL2.html](http://allie.dbcls.jp/short/exact/Any/VL2.html)|
+|NIDA|[http://allie.dbcls.jp/short/exact/Any/NIDA.html](http://allie.dbcls.jp/short/exact/Any/NIDA.html)|
+|KCA|[http://allie.dbcls.jp/short/exact/Any/KCA.html](http://allie.dbcls.jp/short/exact/Any/KCA.html)|
+|HIR|[http://allie.dbcls.jp/short/exact/Any/HIR.html](http://allie.dbcls.jp/short/exact/Any/HIR.html)|
+|Pchl|[http://allie.dbcls.jp/short/exact/Any/Pchl.html](http://allie.dbcls.jp/short/exact/Any/Pchl.html)|
+|Pms|[http://allie.dbcls.jp/short/exact/Any/Pms.html](http://allie.dbcls.jp/short/exact/Any/Pms.html)|
+|Prx-4|[http://allie.dbcls.jp/short/exact/Any/Prx-4.html](http://allie.dbcls.jp/short/exact/Any/Prx-4.html)|
+|x, s|[http://allie.dbcls.jp/short/exact/Any/x, s.html](http://allie.dbcls.jp/short/exact/Any/x, s.html)|
+|betaCDC|[http://allie.dbcls.jp/short/exact/Any/betaCDC.html](http://allie.dbcls.jp/short/exact/Any/betaCDC.html)|
+|same trials|[http://allie.dbcls.jp/short/exact/Any/same trials.html](http://allie.dbcls.jp/short/exact/Any/same trials.html)|
+|Nest|[http://allie.dbcls.jp/short/exact/Any/Nest.html](http://allie.dbcls.jp/short/exact/Any/Nest.html)|
 |TIUV|[http://allie.dbcls.jp/short/exact/Any/TIUV.html](http://allie.dbcls.jp/short/exact/Any/TIUV.html)|
 |FSG|[http://allie.dbcls.jp/short/exact/Any/FSG.html](http://allie.dbcls.jp/short/exact/Any/FSG.html)|
 |V-K|[http://allie.dbcls.jp/short/exact/Any/V-K.html](http://allie.dbcls.jp/short/exact/Any/V-K.html)|
@@ -7420,7 +7683,6 @@
 |LNM|[http://allie.dbcls.jp/short/exact/Any/LNM.html](http://allie.dbcls.jp/short/exact/Any/LNM.html)|
 |PBPAB|[http://allie.dbcls.jp/short/exact/Any/PBPAB.html](http://allie.dbcls.jp/short/exact/Any/PBPAB.html)|
 |OGD|[http://allie.dbcls.jp/short/exact/Any/OGD.html](http://allie.dbcls.jp/short/exact/Any/OGD.html)|
-|SPNs|[http://allie.dbcls.jp/short/exact/Any/SPNs.html](http://allie.dbcls.jp/short/exact/Any/SPNs.html)|
 |GMI-ganglioside|[http://allie.dbcls.jp/short/exact/Any/GMI-ganglioside.html](http://allie.dbcls.jp/short/exact/Any/GMI-ganglioside.html)|
 |glc-6-P|[http://allie.dbcls.jp/short/exact/Any/glc-6-P.html](http://allie.dbcls.jp/short/exact/Any/glc-6-P.html)|
 |apo-VLDL|[http://allie.dbcls.jp/short/exact/Any/apo-VLDL.html](http://allie.dbcls.jp/short/exact/Any/apo-VLDL.html)|
@@ -7471,83 +7733,6 @@
 |Ado-5'-P|[http://allie.dbcls.jp/short/exact/Any/Ado-5'-P.html](http://allie.dbcls.jp/short/exact/Any/Ado-5'-P.html)|
 |GlcNAcbeta1 leads to Asn|[http://allie.dbcls.jp/short/exact/Any/GlcNAcbeta1 leads to Asn.html](http://allie.dbcls.jp/short/exact/Any/GlcNAcbeta1 leads to Asn.html)|
 |pidd|[http://allie.dbcls.jp/short/exact/Any/pidd.html](http://allie.dbcls.jp/short/exact/Any/pidd.html)|
-|PCL|[http://allie.dbcls.jp/short/exact/Any/PCL.html](http://allie.dbcls.jp/short/exact/Any/PCL.html)|
-|FCDC|[http://allie.dbcls.jp/short/exact/Any/FCDC.html](http://allie.dbcls.jp/short/exact/Any/FCDC.html)|
-|14C-G.C|[http://allie.dbcls.jp/short/exact/Any/14C-G.C.html](http://allie.dbcls.jp/short/exact/Any/14C-G.C.html)|
-|C.O.P.D|[http://allie.dbcls.jp/short/exact/Any/C.O.P.D.html](http://allie.dbcls.jp/short/exact/Any/C.O.P.D.html)|
-|V.C.F|[http://allie.dbcls.jp/short/exact/Any/V.C.F.html](http://allie.dbcls.jp/short/exact/Any/V.C.F.html)|
-|ArE|[http://allie.dbcls.jp/short/exact/Any/ArE.html](http://allie.dbcls.jp/short/exact/Any/ArE.html)|
-|C.C.O|[http://allie.dbcls.jp/short/exact/Any/C.C.O.html](http://allie.dbcls.jp/short/exact/Any/C.C.O.html)|
-|Gr-I|[http://allie.dbcls.jp/short/exact/Any/Gr-I.html](http://allie.dbcls.jp/short/exact/Any/Gr-I.html)|
-|SFH|[http://allie.dbcls.jp/short/exact/Any/SFH.html](http://allie.dbcls.jp/short/exact/Any/SFH.html)|
-|T/F|[http://allie.dbcls.jp/short/exact/Any/T/F.html](http://allie.dbcls.jp/short/exact/Any/T/F.html)|
-|PPh|[http://allie.dbcls.jp/short/exact/Any/PPh.html](http://allie.dbcls.jp/short/exact/Any/PPh.html)|
-|ISO-MN|[http://allie.dbcls.jp/short/exact/Any/ISO-MN.html](http://allie.dbcls.jp/short/exact/Any/ISO-MN.html)|
-|INCL|[http://allie.dbcls.jp/short/exact/Any/INCL.html](http://allie.dbcls.jp/short/exact/Any/INCL.html)|
-|UTB|[http://allie.dbcls.jp/short/exact/Any/UTB.html](http://allie.dbcls.jp/short/exact/Any/UTB.html)|
-|X.O|[http://allie.dbcls.jp/short/exact/Any/X.O.html](http://allie.dbcls.jp/short/exact/Any/X.O.html)|
-|Bi|[http://allie.dbcls.jp/short/exact/Any/Bi.html](http://allie.dbcls.jp/short/exact/Any/Bi.html)|
-|pre-SM|[http://allie.dbcls.jp/short/exact/Any/pre-SM.html](http://allie.dbcls.jp/short/exact/Any/pre-SM.html)|
-|CPC-AD|[http://allie.dbcls.jp/short/exact/Any/CPC-AD.html](http://allie.dbcls.jp/short/exact/Any/CPC-AD.html)|
-|CPC-PTA|[http://allie.dbcls.jp/short/exact/Any/CPC-PTA.html](http://allie.dbcls.jp/short/exact/Any/CPC-PTA.html)|
-|CETAB|[http://allie.dbcls.jp/short/exact/Any/CETAB.html](http://allie.dbcls.jp/short/exact/Any/CETAB.html)|
-|I.D.T|[http://allie.dbcls.jp/short/exact/Any/I.D.T.html](http://allie.dbcls.jp/short/exact/Any/I.D.T.html)|
-|UCH|[http://allie.dbcls.jp/short/exact/Any/UCH.html](http://allie.dbcls.jp/short/exact/Any/UCH.html)|
-|AAER|[http://allie.dbcls.jp/short/exact/Any/AAER.html](http://allie.dbcls.jp/short/exact/Any/AAER.html)|
-|D.J|[http://allie.dbcls.jp/short/exact/Any/D.J.html](http://allie.dbcls.jp/short/exact/Any/D.J.html)|
-|ESRD|[http://allie.dbcls.jp/short/exact/Any/ESRD.html](http://allie.dbcls.jp/short/exact/Any/ESRD.html)|
-|SOF|[http://allie.dbcls.jp/short/exact/Any/SOF.html](http://allie.dbcls.jp/short/exact/Any/SOF.html)|
-|VIM|[http://allie.dbcls.jp/short/exact/Any/VIM.html](http://allie.dbcls.jp/short/exact/Any/VIM.html)|
-|EMG-RTs|[http://allie.dbcls.jp/short/exact/Any/EMG-RTs.html](http://allie.dbcls.jp/short/exact/Any/EMG-RTs.html)|
-|CGE|[http://allie.dbcls.jp/short/exact/Any/CGE.html](http://allie.dbcls.jp/short/exact/Any/CGE.html)|
-|CDLE|[http://allie.dbcls.jp/short/exact/Any/CDLE.html](http://allie.dbcls.jp/short/exact/Any/CDLE.html)|
-|DARP|[http://allie.dbcls.jp/short/exact/Any/DARP.html](http://allie.dbcls.jp/short/exact/Any/DARP.html)|
-|UGIH|[http://allie.dbcls.jp/short/exact/Any/UGIH.html](http://allie.dbcls.jp/short/exact/Any/UGIH.html)|
-|LAMG|[http://allie.dbcls.jp/short/exact/Any/LAMG.html](http://allie.dbcls.jp/short/exact/Any/LAMG.html)|
-|ALGM|[http://allie.dbcls.jp/short/exact/Any/ALGM.html](http://allie.dbcls.jp/short/exact/Any/ALGM.html)|
-|SBTT|[http://allie.dbcls.jp/short/exact/Any/SBTT.html](http://allie.dbcls.jp/short/exact/Any/SBTT.html)|
-|HSDH|[http://allie.dbcls.jp/short/exact/Any/HSDH.html](http://allie.dbcls.jp/short/exact/Any/HSDH.html)|
-|D-GalNAc|[http://allie.dbcls.jp/short/exact/Any/D-GalNAc.html](http://allie.dbcls.jp/short/exact/Any/D-GalNAc.html)|
-|XPS|[http://allie.dbcls.jp/short/exact/Any/XPS.html](http://allie.dbcls.jp/short/exact/Any/XPS.html)|
-|Pr K|[http://allie.dbcls.jp/short/exact/Any/Pr K.html](http://allie.dbcls.jp/short/exact/Any/Pr K.html)|
-|HTD|[http://allie.dbcls.jp/short/exact/Any/HTD.html](http://allie.dbcls.jp/short/exact/Any/HTD.html)|
-|n-DNA|[http://allie.dbcls.jp/short/exact/Any/n-DNA.html](http://allie.dbcls.jp/short/exact/Any/n-DNA.html)|
-|DNA-mc|[http://allie.dbcls.jp/short/exact/Any/DNA-mc.html](http://allie.dbcls.jp/short/exact/Any/DNA-mc.html)|
-|KF-method|[http://allie.dbcls.jp/short/exact/Any/KF-method.html](http://allie.dbcls.jp/short/exact/Any/KF-method.html)|
-|O-beta-HA|[http://allie.dbcls.jp/short/exact/Any/O-beta-HA.html](http://allie.dbcls.jp/short/exact/Any/O-beta-HA.html)|
-|r. ms. d|[http://allie.dbcls.jp/short/exact/Any/r. ms. d.html](http://allie.dbcls.jp/short/exact/Any/r. ms. d.html)|
-|SISD|[http://allie.dbcls.jp/short/exact/Any/SISD.html](http://allie.dbcls.jp/short/exact/Any/SISD.html)|
-|PICT|[http://allie.dbcls.jp/short/exact/Any/PICT.html](http://allie.dbcls.jp/short/exact/Any/PICT.html)|
-|TLDL|[http://allie.dbcls.jp/short/exact/Any/TLDL.html](http://allie.dbcls.jp/short/exact/Any/TLDL.html)|
-|h.c|[http://allie.dbcls.jp/short/exact/Any/h.c.html](http://allie.dbcls.jp/short/exact/Any/h.c.html)|
-|BPCF|[http://allie.dbcls.jp/short/exact/Any/BPCF.html](http://allie.dbcls.jp/short/exact/Any/BPCF.html)|
-|NFBFA|[http://allie.dbcls.jp/short/exact/Any/NFBFA.html](http://allie.dbcls.jp/short/exact/Any/NFBFA.html)|
-|SDSV|[http://allie.dbcls.jp/short/exact/Any/SDSV.html](http://allie.dbcls.jp/short/exact/Any/SDSV.html)|
-|ASQ|[http://allie.dbcls.jp/short/exact/Any/ASQ.html](http://allie.dbcls.jp/short/exact/Any/ASQ.html)|
-|Ax|[http://allie.dbcls.jp/short/exact/Any/Ax.html](http://allie.dbcls.jp/short/exact/Any/Ax.html)|
-|Hs|[http://allie.dbcls.jp/short/exact/Any/Hs.html](http://allie.dbcls.jp/short/exact/Any/Hs.html)|
-|AOR|[http://allie.dbcls.jp/short/exact/Any/AOR.html](http://allie.dbcls.jp/short/exact/Any/AOR.html)|
-|QGPT|[http://allie.dbcls.jp/short/exact/Any/QGPT.html](http://allie.dbcls.jp/short/exact/Any/QGPT.html)|
-|IBH|[http://allie.dbcls.jp/short/exact/Any/IBH.html](http://allie.dbcls.jp/short/exact/Any/IBH.html)|
-|SECNI|[http://allie.dbcls.jp/short/exact/Any/SECNI.html](http://allie.dbcls.jp/short/exact/Any/SECNI.html)|
-|dist|[http://allie.dbcls.jp/short/exact/Any/dist.html](http://allie.dbcls.jp/short/exact/Any/dist.html)|
-|PAPHY|[http://allie.dbcls.jp/short/exact/Any/PAPHY.html](http://allie.dbcls.jp/short/exact/Any/PAPHY.html)|
-|fg|[http://allie.dbcls.jp/short/exact/Any/fg.html](http://allie.dbcls.jp/short/exact/Any/fg.html)|
-|VBm|[http://allie.dbcls.jp/short/exact/Any/VBm.html](http://allie.dbcls.jp/short/exact/Any/VBm.html)|
-|nLLL|[http://allie.dbcls.jp/short/exact/Any/nLLL.html](http://allie.dbcls.jp/short/exact/Any/nLLL.html)|
-|JPL|[http://allie.dbcls.jp/short/exact/Any/JPL.html](http://allie.dbcls.jp/short/exact/Any/JPL.html)|
-|AABW|[http://allie.dbcls.jp/short/exact/Any/AABW.html](http://allie.dbcls.jp/short/exact/Any/AABW.html)|
-|TMD|[http://allie.dbcls.jp/short/exact/Any/TMD.html](http://allie.dbcls.jp/short/exact/Any/TMD.html)|
-|VL1|[http://allie.dbcls.jp/short/exact/Any/VL1.html](http://allie.dbcls.jp/short/exact/Any/VL1.html)|
-|VL2|[http://allie.dbcls.jp/short/exact/Any/VL2.html](http://allie.dbcls.jp/short/exact/Any/VL2.html)|
-|NIDA|[http://allie.dbcls.jp/short/exact/Any/NIDA.html](http://allie.dbcls.jp/short/exact/Any/NIDA.html)|
-|KCA|[http://allie.dbcls.jp/short/exact/Any/KCA.html](http://allie.dbcls.jp/short/exact/Any/KCA.html)|
-|HIR|[http://allie.dbcls.jp/short/exact/Any/HIR.html](http://allie.dbcls.jp/short/exact/Any/HIR.html)|
-|Pchl|[http://allie.dbcls.jp/short/exact/Any/Pchl.html](http://allie.dbcls.jp/short/exact/Any/Pchl.html)|
-|Pms|[http://allie.dbcls.jp/short/exact/Any/Pms.html](http://allie.dbcls.jp/short/exact/Any/Pms.html)|
-|Prx-4|[http://allie.dbcls.jp/short/exact/Any/Prx-4.html](http://allie.dbcls.jp/short/exact/Any/Prx-4.html)|
-|x, s|[http://allie.dbcls.jp/short/exact/Any/x, s.html](http://allie.dbcls.jp/short/exact/Any/x, s.html)|
-|betaCDC|[http://allie.dbcls.jp/short/exact/Any/betaCDC.html](http://allie.dbcls.jp/short/exact/Any/betaCDC.html)|
 |3-MY|[http://allie.dbcls.jp/short/exact/Any/3-MY.html](http://allie.dbcls.jp/short/exact/Any/3-MY.html)|
 |3MT|[http://allie.dbcls.jp/short/exact/Any/3MT.html](http://allie.dbcls.jp/short/exact/Any/3MT.html)|
 |20 alpha-SDH|[http://allie.dbcls.jp/short/exact/Any/20 alpha-SDH.html](http://allie.dbcls.jp/short/exact/Any/20 alpha-SDH.html)|
@@ -7577,10 +7762,6 @@
 |PA-DR|[http://allie.dbcls.jp/short/exact/Any/PA-DR.html](http://allie.dbcls.jp/short/exact/Any/PA-DR.html)|
 |PA-DRs|[http://allie.dbcls.jp/short/exact/Any/PA-DRs.html](http://allie.dbcls.jp/short/exact/Any/PA-DRs.html)|
 |H.f|[http://allie.dbcls.jp/short/exact/Any/H.f.html](http://allie.dbcls.jp/short/exact/Any/H.f.html)|
-|PLVSP|[http://allie.dbcls.jp/short/exact/Any/PLVSP.html](http://allie.dbcls.jp/short/exact/Any/PLVSP.html)|
-|CNeg|[http://allie.dbcls.jp/short/exact/Any/CNeg.html](http://allie.dbcls.jp/short/exact/Any/CNeg.html)|
-|E-T|[http://allie.dbcls.jp/short/exact/Any/E-T.html](http://allie.dbcls.jp/short/exact/Any/E-T.html)|
-|deltaP|[http://allie.dbcls.jp/short/exact/Any/deltaP.html](http://allie.dbcls.jp/short/exact/Any/deltaP.html)|
 |NDIC|[http://allie.dbcls.jp/short/exact/Any/NDIC.html](http://allie.dbcls.jp/short/exact/Any/NDIC.html)|
 |Nov|[http://allie.dbcls.jp/short/exact/Any/Nov.html](http://allie.dbcls.jp/short/exact/Any/Nov.html)|
 |Bst1503|[http://allie.dbcls.jp/short/exact/Any/Bst1503.html](http://allie.dbcls.jp/short/exact/Any/Bst1503.html)|
@@ -7635,7 +7816,6 @@
 |F-M|[http://allie.dbcls.jp/short/exact/Any/F-M.html](http://allie.dbcls.jp/short/exact/Any/F-M.html)|
 |GTX I|[http://allie.dbcls.jp/short/exact/Any/GTX I.html](http://allie.dbcls.jp/short/exact/Any/GTX I.html)|
 |Me-alpha-DG|[http://allie.dbcls.jp/short/exact/Any/Me-alpha-DG.html](http://allie.dbcls.jp/short/exact/Any/Me-alpha-DG.html)|
-|ATM|[http://allie.dbcls.jp/short/exact/Any/ATM.html](http://allie.dbcls.jp/short/exact/Any/ATM.html)|
 |AMLC|[http://allie.dbcls.jp/short/exact/Any/AMLC.html](http://allie.dbcls.jp/short/exact/Any/AMLC.html)|
 |3-AT|[http://allie.dbcls.jp/short/exact/Any/3-AT.html](http://allie.dbcls.jp/short/exact/Any/3-AT.html)|
 |OEO|[http://allie.dbcls.jp/short/exact/Any/OEO.html](http://allie.dbcls.jp/short/exact/Any/OEO.html)|
@@ -7719,7 +7899,6 @@
 |UCC|[http://allie.dbcls.jp/short/exact/Any/UCC.html](http://allie.dbcls.jp/short/exact/Any/UCC.html)|
 |IUFD|[http://allie.dbcls.jp/short/exact/Any/IUFD.html](http://allie.dbcls.jp/short/exact/Any/IUFD.html)|
 |A-MS|[http://allie.dbcls.jp/short/exact/Any/A-MS.html](http://allie.dbcls.jp/short/exact/Any/A-MS.html)|
-|PROM|[http://allie.dbcls.jp/short/exact/Any/PROM.html](http://allie.dbcls.jp/short/exact/Any/PROM.html)|
 |HDAP|[http://allie.dbcls.jp/short/exact/Any/HDAP.html](http://allie.dbcls.jp/short/exact/Any/HDAP.html)|
 |CTm|[http://allie.dbcls.jp/short/exact/Any/CTm.html](http://allie.dbcls.jp/short/exact/Any/CTm.html)|
 |BSNC|[http://allie.dbcls.jp/short/exact/Any/BSNC.html](http://allie.dbcls.jp/short/exact/Any/BSNC.html)|
@@ -7907,7 +8086,6 @@
 |a-fv|[http://allie.dbcls.jp/short/exact/Any/a-fv.html](http://allie.dbcls.jp/short/exact/Any/a-fv.html)|
 |HTMs|[http://allie.dbcls.jp/short/exact/Any/HTMs.html](http://allie.dbcls.jp/short/exact/Any/HTMs.html)|
 |POF|[http://allie.dbcls.jp/short/exact/Any/POF.html](http://allie.dbcls.jp/short/exact/Any/POF.html)|
-|3-MPA|[http://allie.dbcls.jp/short/exact/Any/3-MPA.html](http://allie.dbcls.jp/short/exact/Any/3-MPA.html)|
 |S and F|[http://allie.dbcls.jp/short/exact/Any/S and F.html](http://allie.dbcls.jp/short/exact/Any/S and F.html)|
 |McC3|[http://allie.dbcls.jp/short/exact/Any/McC3.html](http://allie.dbcls.jp/short/exact/Any/McC3.html)|
 |DGE|[http://allie.dbcls.jp/short/exact/Any/DGE.html](http://allie.dbcls.jp/short/exact/Any/DGE.html)|
@@ -7923,6 +8101,7 @@
 |P.B.C|[http://allie.dbcls.jp/short/exact/Any/P.B.C.html](http://allie.dbcls.jp/short/exact/Any/P.B.C.html)|
 |SHL|[http://allie.dbcls.jp/short/exact/Any/SHL.html](http://allie.dbcls.jp/short/exact/Any/SHL.html)|
 |S-loop|[http://allie.dbcls.jp/short/exact/Any/S-loop.html](http://allie.dbcls.jp/short/exact/Any/S-loop.html)|
+|I.E.D|[http://allie.dbcls.jp/short/exact/Any/I.E.D.html](http://allie.dbcls.jp/short/exact/Any/I.E.D.html)|
 |P-BGT|[http://allie.dbcls.jp/short/exact/Any/P-BGT.html](http://allie.dbcls.jp/short/exact/Any/P-BGT.html)|
 |NKH|[http://allie.dbcls.jp/short/exact/Any/NKH.html](http://allie.dbcls.jp/short/exact/Any/NKH.html)|
 |ACFUCY|[http://allie.dbcls.jp/short/exact/Any/ACFUCY.html](http://allie.dbcls.jp/short/exact/Any/ACFUCY.html)|
@@ -8007,6 +8186,8 @@
 |HED|[http://allie.dbcls.jp/short/exact/Any/HED.html](http://allie.dbcls.jp/short/exact/Any/HED.html)|
 |MCM|[http://allie.dbcls.jp/short/exact/Any/MCM.html](http://allie.dbcls.jp/short/exact/Any/MCM.html)|
 |GHD|[http://allie.dbcls.jp/short/exact/Any/GHD.html](http://allie.dbcls.jp/short/exact/Any/GHD.html)|
+|LHCl|[http://allie.dbcls.jp/short/exact/Any/LHCl.html](http://allie.dbcls.jp/short/exact/Any/LHCl.html)|
+|LT50|[http://allie.dbcls.jp/short/exact/Any/LT50.html](http://allie.dbcls.jp/short/exact/Any/LT50.html)|
 |DPO|[http://allie.dbcls.jp/short/exact/Any/DPO.html](http://allie.dbcls.jp/short/exact/Any/DPO.html)|
 |WGE|[http://allie.dbcls.jp/short/exact/Any/WGE.html](http://allie.dbcls.jp/short/exact/Any/WGE.html)|
 |HHV-1|[http://allie.dbcls.jp/short/exact/Any/HHV-1.html](http://allie.dbcls.jp/short/exact/Any/HHV-1.html)|
@@ -8020,7 +8201,6 @@
 |2,5-SS-dicysteinyldopa|[http://allie.dbcls.jp/short/exact/Any/2,5-SS-dicysteinyldopa.html](http://allie.dbcls.jp/short/exact/Any/2,5-SS-dicysteinyldopa.html)|
 |methylthio cyclic AMP|[http://allie.dbcls.jp/short/exact/Any/methylthio cyclic AMP.html](http://allie.dbcls.jp/short/exact/Any/methylthio cyclic AMP.html)|
 |EC 5.1.3.5|[http://allie.dbcls.jp/short/exact/Any/EC 5.1.3.5.html](http://allie.dbcls.jp/short/exact/Any/EC 5.1.3.5.html)|
-|DEJ|[http://allie.dbcls.jp/short/exact/Any/DEJ.html](http://allie.dbcls.jp/short/exact/Any/DEJ.html)|
 |6-MU|[http://allie.dbcls.jp/short/exact/Any/6-MU.html](http://allie.dbcls.jp/short/exact/Any/6-MU.html)|
 |ANML|[http://allie.dbcls.jp/short/exact/Any/ANML.html](http://allie.dbcls.jp/short/exact/Any/ANML.html)|
 |ABLL|[http://allie.dbcls.jp/short/exact/Any/ABLL.html](http://allie.dbcls.jp/short/exact/Any/ABLL.html)|
@@ -8133,6 +8313,7 @@
 |MLMV|[http://allie.dbcls.jp/short/exact/Any/MLMV.html](http://allie.dbcls.jp/short/exact/Any/MLMV.html)|
 |Ag-AS|[http://allie.dbcls.jp/short/exact/Any/Ag-AS.html](http://allie.dbcls.jp/short/exact/Any/Ag-AS.html)|
 |Xt|[http://allie.dbcls.jp/short/exact/Any/Xt.html](http://allie.dbcls.jp/short/exact/Any/Xt.html)|
+|CDN|[http://allie.dbcls.jp/short/exact/Any/CDN.html](http://allie.dbcls.jp/short/exact/Any/CDN.html)|
 |BRU-PEL|[http://allie.dbcls.jp/short/exact/Any/BRU-PEL.html](http://allie.dbcls.jp/short/exact/Any/BRU-PEL.html)|
 |SIG|[http://allie.dbcls.jp/short/exact/Any/SIG.html](http://allie.dbcls.jp/short/exact/Any/SIG.html)|
 |SFU|[http://allie.dbcls.jp/short/exact/Any/SFU.html](http://allie.dbcls.jp/short/exact/Any/SFU.html)|
@@ -8147,7 +8328,6 @@
 |THPMA|[http://allie.dbcls.jp/short/exact/Any/THPMA.html](http://allie.dbcls.jp/short/exact/Any/THPMA.html)|
 |lacOc|[http://allie.dbcls.jp/short/exact/Any/lacOc.html](http://allie.dbcls.jp/short/exact/Any/lacOc.html)|
 |lacO|[http://allie.dbcls.jp/short/exact/Any/lacO.html](http://allie.dbcls.jp/short/exact/Any/lacO.html)|
-|aspl|[http://allie.dbcls.jp/short/exact/Any/aspl.html](http://allie.dbcls.jp/short/exact/Any/aspl.html)|
 |3KDS|[http://allie.dbcls.jp/short/exact/Any/3KDS.html](http://allie.dbcls.jp/short/exact/Any/3KDS.html)|
 |atsR|[http://allie.dbcls.jp/short/exact/Any/atsR.html](http://allie.dbcls.jp/short/exact/Any/atsR.html)|
 |tyn|[http://allie.dbcls.jp/short/exact/Any/tyn.html](http://allie.dbcls.jp/short/exact/Any/tyn.html)|
@@ -8173,6 +8353,7 @@
 |LPS-PO|[http://allie.dbcls.jp/short/exact/Any/LPS-PO.html](http://allie.dbcls.jp/short/exact/Any/LPS-PO.html)|
 |TMSI|[http://allie.dbcls.jp/short/exact/Any/TMSI.html](http://allie.dbcls.jp/short/exact/Any/TMSI.html)|
 |RWR|[http://allie.dbcls.jp/short/exact/Any/RWR.html](http://allie.dbcls.jp/short/exact/Any/RWR.html)|
+|HPTLC|[http://allie.dbcls.jp/short/exact/Any/HPTLC.html](http://allie.dbcls.jp/short/exact/Any/HPTLC.html)|
 |THT|[http://allie.dbcls.jp/short/exact/Any/THT.html](http://allie.dbcls.jp/short/exact/Any/THT.html)|
 |TSIM|[http://allie.dbcls.jp/short/exact/Any/TSIM.html](http://allie.dbcls.jp/short/exact/Any/TSIM.html)|
 |CH2O|[http://allie.dbcls.jp/short/exact/Any/CH2O.html](http://allie.dbcls.jp/short/exact/Any/CH2O.html)|
@@ -8344,7 +8525,6 @@
 |FRPRA|[http://allie.dbcls.jp/short/exact/Any/FRPRA.html](http://allie.dbcls.jp/short/exact/Any/FRPRA.html)|
 |ERPAVN|[http://allie.dbcls.jp/short/exact/Any/ERPAVN.html](http://allie.dbcls.jp/short/exact/Any/ERPAVN.html)|
 |TMC|[http://allie.dbcls.jp/short/exact/Any/TMC.html](http://allie.dbcls.jp/short/exact/Any/TMC.html)|
-|FUG|[http://allie.dbcls.jp/short/exact/Any/FUG.html](http://allie.dbcls.jp/short/exact/Any/FUG.html)|
 |MD and BD|[http://allie.dbcls.jp/short/exact/Any/MD and BD.html](http://allie.dbcls.jp/short/exact/Any/MD and BD.html)|
 |2-ab|[http://allie.dbcls.jp/short/exact/Any/2-ab.html](http://allie.dbcls.jp/short/exact/Any/2-ab.html)|
 |DPase|[http://allie.dbcls.jp/short/exact/Any/DPase.html](http://allie.dbcls.jp/short/exact/Any/DPase.html)|
@@ -8371,6 +8551,7 @@
 |FHH|[http://allie.dbcls.jp/short/exact/Any/FHH.html](http://allie.dbcls.jp/short/exact/Any/FHH.html)|
 |UVO|[http://allie.dbcls.jp/short/exact/Any/UVO.html](http://allie.dbcls.jp/short/exact/Any/UVO.html)|
 |NTD'S|[http://allie.dbcls.jp/short/exact/Any/NTD'S.html](http://allie.dbcls.jp/short/exact/Any/NTD'S.html)|
+|SCSIT|[http://allie.dbcls.jp/short/exact/Any/SCSIT.html](http://allie.dbcls.jp/short/exact/Any/SCSIT.html)|
 |ORTHO|[http://allie.dbcls.jp/short/exact/Any/ORTHO.html](http://allie.dbcls.jp/short/exact/Any/ORTHO.html)|
 |US/LS|[http://allie.dbcls.jp/short/exact/Any/US/LS.html](http://allie.dbcls.jp/short/exact/Any/US/LS.html)|
 |A-C Group|[http://allie.dbcls.jp/short/exact/Any/A-C Group.html](http://allie.dbcls.jp/short/exact/Any/A-C Group.html)|
@@ -8405,6 +8586,7 @@
 |FHC, type II|[http://allie.dbcls.jp/short/exact/Any/FHC, type II.html](http://allie.dbcls.jp/short/exact/Any/FHC, type II.html)|
 |c.f.a|[http://allie.dbcls.jp/short/exact/Any/c.f.a.html](http://allie.dbcls.jp/short/exact/Any/c.f.a.html)|
 |M/S|[http://allie.dbcls.jp/short/exact/Any/M/S.html](http://allie.dbcls.jp/short/exact/Any/M/S.html)|
+|ULDH|[http://allie.dbcls.jp/short/exact/Any/ULDH.html](http://allie.dbcls.jp/short/exact/Any/ULDH.html)|
 |Tris-HCl|[http://allie.dbcls.jp/short/exact/Any/Tris-HCl.html](http://allie.dbcls.jp/short/exact/Any/Tris-HCl.html)|
 |Ttr|[http://allie.dbcls.jp/short/exact/Any/Ttr.html](http://allie.dbcls.jp/short/exact/Any/Ttr.html)|
 |NHH|[http://allie.dbcls.jp/short/exact/Any/NHH.html](http://allie.dbcls.jp/short/exact/Any/NHH.html)|
@@ -8451,8 +8633,6 @@
 |DCBM|[http://allie.dbcls.jp/short/exact/Any/DCBM.html](http://allie.dbcls.jp/short/exact/Any/DCBM.html)|
 |FCR and ACR|[http://allie.dbcls.jp/short/exact/Any/FCR and ACR.html](http://allie.dbcls.jp/short/exact/Any/FCR and ACR.html)|
 |IRPTC|[http://allie.dbcls.jp/short/exact/Any/IRPTC.html](http://allie.dbcls.jp/short/exact/Any/IRPTC.html)|
-|TCA-A|[http://allie.dbcls.jp/short/exact/Any/TCA-A.html](http://allie.dbcls.jp/short/exact/Any/TCA-A.html)|
-|GEG|[http://allie.dbcls.jp/short/exact/Any/GEG.html](http://allie.dbcls.jp/short/exact/Any/GEG.html)|
 |FALS|[http://allie.dbcls.jp/short/exact/Any/FALS.html](http://allie.dbcls.jp/short/exact/Any/FALS.html)|
 |SWs|[http://allie.dbcls.jp/short/exact/Any/SWs.html](http://allie.dbcls.jp/short/exact/Any/SWs.html)|
 |NSW|[http://allie.dbcls.jp/short/exact/Any/NSW.html](http://allie.dbcls.jp/short/exact/Any/NSW.html)|
@@ -8506,10 +8686,6 @@
 |SMPG|[http://allie.dbcls.jp/short/exact/Any/SMPG.html](http://allie.dbcls.jp/short/exact/Any/SMPG.html)|
 |MKOM|[http://allie.dbcls.jp/short/exact/Any/MKOM.html](http://allie.dbcls.jp/short/exact/Any/MKOM.html)|
 |Aa|[http://allie.dbcls.jp/short/exact/Any/Aa.html](http://allie.dbcls.jp/short/exact/Any/Aa.html)|
-|WCR net|[http://allie.dbcls.jp/short/exact/Any/WCR net.html](http://allie.dbcls.jp/short/exact/Any/WCR net.html)|
-|TVC|[http://allie.dbcls.jp/short/exact/Any/TVC.html](http://allie.dbcls.jp/short/exact/Any/TVC.html)|
-|fswg|[http://allie.dbcls.jp/short/exact/Any/fswg.html](http://allie.dbcls.jp/short/exact/Any/fswg.html)|
-|PNF/BW|[http://allie.dbcls.jp/short/exact/Any/PNF/BW.html](http://allie.dbcls.jp/short/exact/Any/PNF/BW.html)|
 |ufa|[http://allie.dbcls.jp/short/exact/Any/ufa.html](http://allie.dbcls.jp/short/exact/Any/ufa.html)|
 |M-bands|[http://allie.dbcls.jp/short/exact/Any/M-bands.html](http://allie.dbcls.jp/short/exact/Any/M-bands.html)|
 |mac-1|[http://allie.dbcls.jp/short/exact/Any/mac-1.html](http://allie.dbcls.jp/short/exact/Any/mac-1.html)|
@@ -8660,7 +8836,6 @@
 |PTh|[http://allie.dbcls.jp/short/exact/Any/PTh.html](http://allie.dbcls.jp/short/exact/Any/PTh.html)|
 |BMRT's|[http://allie.dbcls.jp/short/exact/Any/BMRT's.html](http://allie.dbcls.jp/short/exact/Any/BMRT's.html)|
 |LCVW|[http://allie.dbcls.jp/short/exact/Any/LCVW.html](http://allie.dbcls.jp/short/exact/Any/LCVW.html)|
-|fast|[http://allie.dbcls.jp/short/exact/Any/fast.html](http://allie.dbcls.jp/short/exact/Any/fast.html)|
 |HEXB|[http://allie.dbcls.jp/short/exact/Any/HEXB.html](http://allie.dbcls.jp/short/exact/Any/HEXB.html)|
 |ACP2|[http://allie.dbcls.jp/short/exact/Any/ACP2.html](http://allie.dbcls.jp/short/exact/Any/ACP2.html)|
 |ES-A4|[http://allie.dbcls.jp/short/exact/Any/ES-A4.html](http://allie.dbcls.jp/short/exact/Any/ES-A4.html)|
@@ -8796,9 +8971,9 @@
 |oct-LAT|[http://allie.dbcls.jp/short/exact/Any/oct-LAT.html](http://allie.dbcls.jp/short/exact/Any/oct-LAT.html)|
 |non-B-cells|[http://allie.dbcls.jp/short/exact/Any/non-B-cells.html](http://allie.dbcls.jp/short/exact/Any/non-B-cells.html)|
 |DHF/DSS|[http://allie.dbcls.jp/short/exact/Any/DHF/DSS.html](http://allie.dbcls.jp/short/exact/Any/DHF/DSS.html)|
+|gp92|[http://allie.dbcls.jp/short/exact/Any/gp92.html](http://allie.dbcls.jp/short/exact/Any/gp92.html)|
 |REVs|[http://allie.dbcls.jp/short/exact/Any/REVs.html](http://allie.dbcls.jp/short/exact/Any/REVs.html)|
 |REV-T|[http://allie.dbcls.jp/short/exact/Any/REV-T.html](http://allie.dbcls.jp/short/exact/Any/REV-T.html)|
-|ss--mutants|[http://allie.dbcls.jp/short/exact/Any/ss--mutants.html](http://allie.dbcls.jp/short/exact/Any/ss--mutants.html)|
 |Ha-SV|[http://allie.dbcls.jp/short/exact/Any/Ha-SV.html](http://allie.dbcls.jp/short/exact/Any/Ha-SV.html)|
 |EMS-IC|[http://allie.dbcls.jp/short/exact/Any/EMS-IC.html](http://allie.dbcls.jp/short/exact/Any/EMS-IC.html)|
 |Pi type|[http://allie.dbcls.jp/short/exact/Any/Pi type.html](http://allie.dbcls.jp/short/exact/Any/Pi type.html)|
@@ -8817,7 +8992,6 @@
 |Rye I|[http://allie.dbcls.jp/short/exact/Any/Rye I.html](http://allie.dbcls.jp/short/exact/Any/Rye I.html)|
 |ahp|[http://allie.dbcls.jp/short/exact/Any/ahp.html](http://allie.dbcls.jp/short/exact/Any/ahp.html)|
 |ECHH|[http://allie.dbcls.jp/short/exact/Any/ECHH.html](http://allie.dbcls.jp/short/exact/Any/ECHH.html)|
-|IF3|[http://allie.dbcls.jp/short/exact/Any/IF3.html](http://allie.dbcls.jp/short/exact/Any/IF3.html)|
 |sp. act|[http://allie.dbcls.jp/short/exact/Any/sp. act.html](http://allie.dbcls.jp/short/exact/Any/sp. act.html)|
 |OC-rbf|[http://allie.dbcls.jp/short/exact/Any/OC-rbf.html](http://allie.dbcls.jp/short/exact/Any/OC-rbf.html)|
 |VECA|[http://allie.dbcls.jp/short/exact/Any/VECA.html](http://allie.dbcls.jp/short/exact/Any/VECA.html)|
@@ -9024,9 +9198,6 @@
 |IMU|[http://allie.dbcls.jp/short/exact/Any/IMU.html](http://allie.dbcls.jp/short/exact/Any/IMU.html)|
 |PA-TCH-SP|[http://allie.dbcls.jp/short/exact/Any/PA-TCH-SP.html](http://allie.dbcls.jp/short/exact/Any/PA-TCH-SP.html)|
 |P.A.R|[http://allie.dbcls.jp/short/exact/Any/P.A.R.html](http://allie.dbcls.jp/short/exact/Any/P.A.R.html)|
-|VFC|[http://allie.dbcls.jp/short/exact/Any/VFC.html](http://allie.dbcls.jp/short/exact/Any/VFC.html)|
-|Qt|[http://allie.dbcls.jp/short/exact/Any/Qt.html](http://allie.dbcls.jp/short/exact/Any/Qt.html)|
-|OHEC|[http://allie.dbcls.jp/short/exact/Any/OHEC.html](http://allie.dbcls.jp/short/exact/Any/OHEC.html)|
 |triacyl-LCL|[http://allie.dbcls.jp/short/exact/Any/triacyl-LCL.html](http://allie.dbcls.jp/short/exact/Any/triacyl-LCL.html)|
 |rat infection|[http://allie.dbcls.jp/short/exact/Any/rat infection.html](http://allie.dbcls.jp/short/exact/Any/rat infection.html)|
 |GBP|[http://allie.dbcls.jp/short/exact/Any/GBP.html](http://allie.dbcls.jp/short/exact/Any/GBP.html)|
@@ -9148,10 +9319,8 @@
 |gastric plasmacytoma|[http://allie.dbcls.jp/short/exact/Any/gastric plasmacytoma.html](http://allie.dbcls.jp/short/exact/Any/gastric plasmacytoma.html)|
 |Cand|[http://allie.dbcls.jp/short/exact/Any/Cand.html](http://allie.dbcls.jp/short/exact/Any/Cand.html)|
 |n.u.h|[http://allie.dbcls.jp/short/exact/Any/n.u.h.html](http://allie.dbcls.jp/short/exact/Any/n.u.h.html)|
-|HBIG|[http://allie.dbcls.jp/short/exact/Any/HBIG.html](http://allie.dbcls.jp/short/exact/Any/HBIG.html)|
 |EGTS|[http://allie.dbcls.jp/short/exact/Any/EGTS.html](http://allie.dbcls.jp/short/exact/Any/EGTS.html)|
 |endemic area|[http://allie.dbcls.jp/short/exact/Any/endemic area.html](http://allie.dbcls.jp/short/exact/Any/endemic area.html)|
-|PGF2 alpha|[http://allie.dbcls.jp/short/exact/Any/PGF2 alpha.html](http://allie.dbcls.jp/short/exact/Any/PGF2 alpha.html)|
 |3-MEH|[http://allie.dbcls.jp/short/exact/Any/3-MEH.html](http://allie.dbcls.jp/short/exact/Any/3-MEH.html)|
 |CMHC|[http://allie.dbcls.jp/short/exact/Any/CMHC.html](http://allie.dbcls.jp/short/exact/Any/CMHC.html)|
 |tpt|[http://allie.dbcls.jp/short/exact/Any/tpt.html](http://allie.dbcls.jp/short/exact/Any/tpt.html)|
@@ -9232,6 +9401,7 @@
 |ACMTB|[http://allie.dbcls.jp/short/exact/Any/ACMTB.html](http://allie.dbcls.jp/short/exact/Any/ACMTB.html)|
 |VID|[http://allie.dbcls.jp/short/exact/Any/VID.html](http://allie.dbcls.jp/short/exact/Any/VID.html)|
 |X-LA|[http://allie.dbcls.jp/short/exact/Any/X-LA.html](http://allie.dbcls.jp/short/exact/Any/X-LA.html)|
+|CMV-EA|[http://allie.dbcls.jp/short/exact/Any/CMV-EA.html](http://allie.dbcls.jp/short/exact/Any/CMV-EA.html)|
 |M-BPM|[http://allie.dbcls.jp/short/exact/Any/M-BPM.html](http://allie.dbcls.jp/short/exact/Any/M-BPM.html)|
 |CPK-BB|[http://allie.dbcls.jp/short/exact/Any/CPK-BB.html](http://allie.dbcls.jp/short/exact/Any/CPK-BB.html)|
 |MEDINFO|[http://allie.dbcls.jp/short/exact/Any/MEDINFO.html](http://allie.dbcls.jp/short/exact/Any/MEDINFO.html)|
@@ -9274,21 +9444,11 @@
 |RTmin|[http://allie.dbcls.jp/short/exact/Any/RTmin.html](http://allie.dbcls.jp/short/exact/Any/RTmin.html)|
 |HAM-D|[http://allie.dbcls.jp/short/exact/Any/HAM-D.html](http://allie.dbcls.jp/short/exact/Any/HAM-D.html)|
 |VECP's|[http://allie.dbcls.jp/short/exact/Any/VECP's.html](http://allie.dbcls.jp/short/exact/Any/VECP's.html)|
+|fa|[http://allie.dbcls.jp/short/exact/Any/fa.html](http://allie.dbcls.jp/short/exact/Any/fa.html)|
 |PO-RCA-DAB|[http://allie.dbcls.jp/short/exact/Any/PO-RCA-DAB.html](http://allie.dbcls.jp/short/exact/Any/PO-RCA-DAB.html)|
 |Con A-PO-DAB|[http://allie.dbcls.jp/short/exact/Any/Con A-PO-DAB.html](http://allie.dbcls.jp/short/exact/Any/Con A-PO-DAB.html)|
 |WIPI|[http://allie.dbcls.jp/short/exact/Any/WIPI.html](http://allie.dbcls.jp/short/exact/Any/WIPI.html)|
 |SSI-ICM|[http://allie.dbcls.jp/short/exact/Any/SSI-ICM.html](http://allie.dbcls.jp/short/exact/Any/SSI-ICM.html)|
-|WTR|[http://allie.dbcls.jp/short/exact/Any/WTR.html](http://allie.dbcls.jp/short/exact/Any/WTR.html)|
-|LVB-air|[http://allie.dbcls.jp/short/exact/Any/LVB-air.html](http://allie.dbcls.jp/short/exact/Any/LVB-air.html)|
-|Dial|[http://allie.dbcls.jp/short/exact/Any/Dial.html](http://allie.dbcls.jp/short/exact/Any/Dial.html)|
-|Pdi|[http://allie.dbcls.jp/short/exact/Any/Pdi.html](http://allie.dbcls.jp/short/exact/Any/Pdi.html)|
-|VDC|[http://allie.dbcls.jp/short/exact/Any/VDC.html](http://allie.dbcls.jp/short/exact/Any/VDC.html)|
-|2,5,-DNP|[http://allie.dbcls.jp/short/exact/Any/2,5,-DNP.html](http://allie.dbcls.jp/short/exact/Any/2,5,-DNP.html)|
-|2,6-DNP|[http://allie.dbcls.jp/short/exact/Any/2,6-DNP.html](http://allie.dbcls.jp/short/exact/Any/2,6-DNP.html)|
-|E-N|[http://allie.dbcls.jp/short/exact/Any/E-N.html](http://allie.dbcls.jp/short/exact/Any/E-N.html)|
-|TBW-N|[http://allie.dbcls.jp/short/exact/Any/TBW-N.html](http://allie.dbcls.jp/short/exact/Any/TBW-N.html)|
-|ULPZ|[http://allie.dbcls.jp/short/exact/Any/ULPZ.html](http://allie.dbcls.jp/short/exact/Any/ULPZ.html)|
-|mw|[http://allie.dbcls.jp/short/exact/Any/mw.html](http://allie.dbcls.jp/short/exact/Any/mw.html)|
 |2-Cl|[http://allie.dbcls.jp/short/exact/Any/2-Cl.html](http://allie.dbcls.jp/short/exact/Any/2-Cl.html)|
 |EBDCs|[http://allie.dbcls.jp/short/exact/Any/EBDCs.html](http://allie.dbcls.jp/short/exact/Any/EBDCs.html)|
 |CTC-HCl|[http://allie.dbcls.jp/short/exact/Any/CTC-HCl.html](http://allie.dbcls.jp/short/exact/Any/CTC-HCl.html)|
@@ -9499,6 +9659,7 @@
 |SHC|[http://allie.dbcls.jp/short/exact/Any/SHC.html](http://allie.dbcls.jp/short/exact/Any/SHC.html)|
 |Tc-pyrophosphate|[http://allie.dbcls.jp/short/exact/Any/Tc-pyrophosphate.html](http://allie.dbcls.jp/short/exact/Any/Tc-pyrophosphate.html)|
 |FAGLA|[http://allie.dbcls.jp/short/exact/Any/FAGLA.html](http://allie.dbcls.jp/short/exact/Any/FAGLA.html)|
+|NBD-PE|[http://allie.dbcls.jp/short/exact/Any/NBD-PE.html](http://allie.dbcls.jp/short/exact/Any/NBD-PE.html)|
 |LEFE|[http://allie.dbcls.jp/short/exact/Any/LEFE.html](http://allie.dbcls.jp/short/exact/Any/LEFE.html)|
 |CPTA|[http://allie.dbcls.jp/short/exact/Any/CPTA.html](http://allie.dbcls.jp/short/exact/Any/CPTA.html)|
 |PITR|[http://allie.dbcls.jp/short/exact/Any/PITR.html](http://allie.dbcls.jp/short/exact/Any/PITR.html)|
@@ -9581,7 +9742,6 @@
 |nCPM|[http://allie.dbcls.jp/short/exact/Any/nCPM.html](http://allie.dbcls.jp/short/exact/Any/nCPM.html)|
 |CF/V|[http://allie.dbcls.jp/short/exact/Any/CF/V.html](http://allie.dbcls.jp/short/exact/Any/CF/V.html)|
 |amantadine hydrochloride|[http://allie.dbcls.jp/short/exact/Any/amantadine hydrochloride.html](http://allie.dbcls.jp/short/exact/Any/amantadine hydrochloride.html)|
-|EMG's|[http://allie.dbcls.jp/short/exact/Any/EMG's.html](http://allie.dbcls.jp/short/exact/Any/EMG's.html)|
 |DTDI|[http://allie.dbcls.jp/short/exact/Any/DTDI.html](http://allie.dbcls.jp/short/exact/Any/DTDI.html)|
 |Mts|[http://allie.dbcls.jp/short/exact/Any/Mts.html](http://allie.dbcls.jp/short/exact/Any/Mts.html)|
 |PCs|[http://allie.dbcls.jp/short/exact/Any/PCs.html](http://allie.dbcls.jp/short/exact/Any/PCs.html)|
@@ -9707,12 +9867,10 @@
 |NHNP|[http://allie.dbcls.jp/short/exact/Any/NHNP.html](http://allie.dbcls.jp/short/exact/Any/NHNP.html)|
 |OV-D|[http://allie.dbcls.jp/short/exact/Any/OV-D.html](http://allie.dbcls.jp/short/exact/Any/OV-D.html)|
 |MiF|[http://allie.dbcls.jp/short/exact/Any/MiF.html](http://allie.dbcls.jp/short/exact/Any/MiF.html)|
-|NHP's|[http://allie.dbcls.jp/short/exact/Any/NHP's.html](http://allie.dbcls.jp/short/exact/Any/NHP's.html)|
 |2,4-D or 2,4,5-T|[http://allie.dbcls.jp/short/exact/Any/2,4-D or 2,4,5-T.html](http://allie.dbcls.jp/short/exact/Any/2,4-D or 2,4,5-T.html)|
 |LEDs|[http://allie.dbcls.jp/short/exact/Any/LEDs.html](http://allie.dbcls.jp/short/exact/Any/LEDs.html)|
 |FBC|[http://allie.dbcls.jp/short/exact/Any/FBC.html](http://allie.dbcls.jp/short/exact/Any/FBC.html)|
 |RNPP|[http://allie.dbcls.jp/short/exact/Any/RNPP.html](http://allie.dbcls.jp/short/exact/Any/RNPP.html)|
-|APDC|[http://allie.dbcls.jp/short/exact/Any/APDC.html](http://allie.dbcls.jp/short/exact/Any/APDC.html)|
 |PDV|[http://allie.dbcls.jp/short/exact/Any/PDV.html](http://allie.dbcls.jp/short/exact/Any/PDV.html)|
 |beta2-m|[http://allie.dbcls.jp/short/exact/Any/beta2-m.html](http://allie.dbcls.jp/short/exact/Any/beta2-m.html)|
 |ENty|[http://allie.dbcls.jp/short/exact/Any/ENty.html](http://allie.dbcls.jp/short/exact/Any/ENty.html)|
@@ -9834,8 +9992,6 @@
 |WSH|[http://allie.dbcls.jp/short/exact/Any/WSH.html](http://allie.dbcls.jp/short/exact/Any/WSH.html)|
 |Hb-A|[http://allie.dbcls.jp/short/exact/Any/Hb-A.html](http://allie.dbcls.jp/short/exact/Any/Hb-A.html)|
 |Hb-D|[http://allie.dbcls.jp/short/exact/Any/Hb-D.html](http://allie.dbcls.jp/short/exact/Any/Hb-D.html)|
-|WBGT|[http://allie.dbcls.jp/short/exact/Any/WBGT.html](http://allie.dbcls.jp/short/exact/Any/WBGT.html)|
-|N2O-O2|[http://allie.dbcls.jp/short/exact/Any/N2O-O2.html](http://allie.dbcls.jp/short/exact/Any/N2O-O2.html)|
 |tynA|[http://allie.dbcls.jp/short/exact/Any/tynA.html](http://allie.dbcls.jp/short/exact/Any/tynA.html)|
 |atsA|[http://allie.dbcls.jp/short/exact/Any/atsA.html](http://allie.dbcls.jp/short/exact/Any/atsA.html)|
 |fusr|[http://allie.dbcls.jp/short/exact/Any/fusr.html](http://allie.dbcls.jp/short/exact/Any/fusr.html)|
@@ -9844,159 +10000,3 @@
 |CPase S|[http://allie.dbcls.jp/short/exact/Any/CPase S.html](http://allie.dbcls.jp/short/exact/Any/CPase S.html)|
 |DLPC|[http://allie.dbcls.jp/short/exact/Any/DLPC.html](http://allie.dbcls.jp/short/exact/Any/DLPC.html)|
 |DACM|[http://allie.dbcls.jp/short/exact/Any/DACM.html](http://allie.dbcls.jp/short/exact/Any/DACM.html)|
-|CHO-S|[http://allie.dbcls.jp/short/exact/Any/CHO-S.html](http://allie.dbcls.jp/short/exact/Any/CHO-S.html)|
-|SPg-a|[http://allie.dbcls.jp/short/exact/Any/SPg-a.html](http://allie.dbcls.jp/short/exact/Any/SPg-a.html)|
-|cis-PnA|[http://allie.dbcls.jp/short/exact/Any/cis-PnA.html](http://allie.dbcls.jp/short/exact/Any/cis-PnA.html)|
-|phi|[http://allie.dbcls.jp/short/exact/Any/phi.html](http://allie.dbcls.jp/short/exact/Any/phi.html)|
-|HRP-alpha-Btx|[http://allie.dbcls.jp/short/exact/Any/HRP-alpha-Btx.html](http://allie.dbcls.jp/short/exact/Any/HRP-alpha-Btx.html)|
-|HMWP|[http://allie.dbcls.jp/short/exact/Any/HMWP.html](http://allie.dbcls.jp/short/exact/Any/HMWP.html)|
-|PMD-TLC|[http://allie.dbcls.jp/short/exact/Any/PMD-TLC.html](http://allie.dbcls.jp/short/exact/Any/PMD-TLC.html)|
-|25OHD|[http://allie.dbcls.jp/short/exact/Any/25OHD.html](http://allie.dbcls.jp/short/exact/Any/25OHD.html)|
-|RSB-A|[http://allie.dbcls.jp/short/exact/Any/RSB-A.html](http://allie.dbcls.jp/short/exact/Any/RSB-A.html)|
-|GNTA|[http://allie.dbcls.jp/short/exact/Any/GNTA.html](http://allie.dbcls.jp/short/exact/Any/GNTA.html)|
-|BB-10S|[http://allie.dbcls.jp/short/exact/Any/BB-10S.html](http://allie.dbcls.jp/short/exact/Any/BB-10S.html)|
-|SPB-10S|[http://allie.dbcls.jp/short/exact/Any/SPB-10S.html](http://allie.dbcls.jp/short/exact/Any/SPB-10S.html)|
-|nDNA-BA|[http://allie.dbcls.jp/short/exact/Any/nDNA-BA.html](http://allie.dbcls.jp/short/exact/Any/nDNA-BA.html)|
-|IH-S|[http://allie.dbcls.jp/short/exact/Any/IH-S.html](http://allie.dbcls.jp/short/exact/Any/IH-S.html)|
-|betaGS|[http://allie.dbcls.jp/short/exact/Any/betaGS.html](http://allie.dbcls.jp/short/exact/Any/betaGS.html)|
-|p-Lp|[http://allie.dbcls.jp/short/exact/Any/p-Lp.html](http://allie.dbcls.jp/short/exact/Any/p-Lp.html)|
-|PPRG|[http://allie.dbcls.jp/short/exact/Any/PPRG.html](http://allie.dbcls.jp/short/exact/Any/PPRG.html)|
-|LDH-LP|[http://allie.dbcls.jp/short/exact/Any/LDH-LP.html](http://allie.dbcls.jp/short/exact/Any/LDH-LP.html)|
-|LDH-MP|[http://allie.dbcls.jp/short/exact/Any/LDH-MP.html](http://allie.dbcls.jp/short/exact/Any/LDH-MP.html)|
-|OUI|[http://allie.dbcls.jp/short/exact/Any/OUI.html](http://allie.dbcls.jp/short/exact/Any/OUI.html)|
-|Dts|[http://allie.dbcls.jp/short/exact/Any/Dts.html](http://allie.dbcls.jp/short/exact/Any/Dts.html)|
-|MDs|[http://allie.dbcls.jp/short/exact/Any/MDs.html](http://allie.dbcls.jp/short/exact/Any/MDs.html)|
-|DOs|[http://allie.dbcls.jp/short/exact/Any/DOs.html](http://allie.dbcls.jp/short/exact/Any/DOs.html)|
-|PUF|[http://allie.dbcls.jp/short/exact/Any/PUF.html](http://allie.dbcls.jp/short/exact/Any/PUF.html)|
-|TCA-S-C|[http://allie.dbcls.jp/short/exact/Any/TCA-S-C.html](http://allie.dbcls.jp/short/exact/Any/TCA-S-C.html)|
-|EBV-EA|[http://allie.dbcls.jp/short/exact/Any/EBV-EA.html](http://allie.dbcls.jp/short/exact/Any/EBV-EA.html)|
-|Fl-PE|[http://allie.dbcls.jp/short/exact/Any/Fl-PE.html](http://allie.dbcls.jp/short/exact/Any/Fl-PE.html)|
-|beta6GALBMP|[http://allie.dbcls.jp/short/exact/Any/beta6GALBMP.html](http://allie.dbcls.jp/short/exact/Any/beta6GALBMP.html)|
-|cAgamma|[http://allie.dbcls.jp/short/exact/Any/cAgamma.html](http://allie.dbcls.jp/short/exact/Any/cAgamma.html)|
-|AHAb|[http://allie.dbcls.jp/short/exact/Any/AHAb.html](http://allie.dbcls.jp/short/exact/Any/AHAb.html)|
-|MLC-MF|[http://allie.dbcls.jp/short/exact/Any/MLC-MF.html](http://allie.dbcls.jp/short/exact/Any/MLC-MF.html)|
-|125I-AHIgM|[http://allie.dbcls.jp/short/exact/Any/125I-AHIgM.html](http://allie.dbcls.jp/short/exact/Any/125I-AHIgM.html)|
-|PACIA|[http://allie.dbcls.jp/short/exact/Any/PACIA.html](http://allie.dbcls.jp/short/exact/Any/PACIA.html)|
-|IARR|[http://allie.dbcls.jp/short/exact/Any/IARR.html](http://allie.dbcls.jp/short/exact/Any/IARR.html)|
-|LV-RA|[http://allie.dbcls.jp/short/exact/Any/LV-RA.html](http://allie.dbcls.jp/short/exact/Any/LV-RA.html)|
-|NAPCRG|[http://allie.dbcls.jp/short/exact/Any/NAPCRG.html](http://allie.dbcls.jp/short/exact/Any/NAPCRG.html)|
-|CLIX|[http://allie.dbcls.jp/short/exact/Any/CLIX.html](http://allie.dbcls.jp/short/exact/Any/CLIX.html)|
-|long|[http://allie.dbcls.jp/short/exact/Any/long.html](http://allie.dbcls.jp/short/exact/Any/long.html)|
-|FV 3|[http://allie.dbcls.jp/short/exact/Any/FV 3.html](http://allie.dbcls.jp/short/exact/Any/FV 3.html)|
-|Staph|[http://allie.dbcls.jp/short/exact/Any/Staph.html](http://allie.dbcls.jp/short/exact/Any/Staph.html)|
-|MDB|[http://allie.dbcls.jp/short/exact/Any/MDB.html](http://allie.dbcls.jp/short/exact/Any/MDB.html)|
-|AISE|[http://allie.dbcls.jp/short/exact/Any/AISE.html](http://allie.dbcls.jp/short/exact/Any/AISE.html)|
-|AFMET|[http://allie.dbcls.jp/short/exact/Any/AFMET.html](http://allie.dbcls.jp/short/exact/Any/AFMET.html)|
-|gamma-HB|[http://allie.dbcls.jp/short/exact/Any/gamma-HB.html](http://allie.dbcls.jp/short/exact/Any/gamma-HB.html)|
-|ZPC|[http://allie.dbcls.jp/short/exact/Any/ZPC.html](http://allie.dbcls.jp/short/exact/Any/ZPC.html)|
-|TCBF|[http://allie.dbcls.jp/short/exact/Any/TCBF.html](http://allie.dbcls.jp/short/exact/Any/TCBF.html)|
-|RAV-F|[http://allie.dbcls.jp/short/exact/Any/RAV-F.html](http://allie.dbcls.jp/short/exact/Any/RAV-F.html)|
-|Gz-MSV|[http://allie.dbcls.jp/short/exact/Any/Gz-MSV.html](http://allie.dbcls.jp/short/exact/Any/Gz-MSV.html)|
-|Ad3|[http://allie.dbcls.jp/short/exact/Any/Ad3.html](http://allie.dbcls.jp/short/exact/Any/Ad3.html)|
-|CISCA|[http://allie.dbcls.jp/short/exact/Any/CISCA.html](http://allie.dbcls.jp/short/exact/Any/CISCA.html)|
-|wrho|[http://allie.dbcls.jp/short/exact/Any/wrho.html](http://allie.dbcls.jp/short/exact/Any/wrho.html)|
-|GI cells|[http://allie.dbcls.jp/short/exact/Any/GI cells.html](http://allie.dbcls.jp/short/exact/Any/GI cells.html)|
-|Ena|[http://allie.dbcls.jp/short/exact/Any/Ena.html](http://allie.dbcls.jp/short/exact/Any/Ena.html)|
-|Rna|[http://allie.dbcls.jp/short/exact/Any/Rna.html](http://allie.dbcls.jp/short/exact/Any/Rna.html)|
-|PSSs|[http://allie.dbcls.jp/short/exact/Any/PSSs.html](http://allie.dbcls.jp/short/exact/Any/PSSs.html)|
-|ITCG|[http://allie.dbcls.jp/short/exact/Any/ITCG.html](http://allie.dbcls.jp/short/exact/Any/ITCG.html)|
-|MSICNP|[http://allie.dbcls.jp/short/exact/Any/MSICNP.html](http://allie.dbcls.jp/short/exact/Any/MSICNP.html)|
-|C.M.V|[http://allie.dbcls.jp/short/exact/Any/C.M.V.html](http://allie.dbcls.jp/short/exact/Any/C.M.V.html)|
-|R.A.S.T|[http://allie.dbcls.jp/short/exact/Any/R.A.S.T.html](http://allie.dbcls.jp/short/exact/Any/R.A.S.T.html)|
-|S.A.S.P|[http://allie.dbcls.jp/short/exact/Any/S.A.S.P.html](http://allie.dbcls.jp/short/exact/Any/S.A.S.P.html)|
-|5-A.S.A|[http://allie.dbcls.jp/short/exact/Any/5-A.S.A.html](http://allie.dbcls.jp/short/exact/Any/5-A.S.A.html)|
-|SPSS|[http://allie.dbcls.jp/short/exact/Any/SPSS.html](http://allie.dbcls.jp/short/exact/Any/SPSS.html)|
-|F acids|[http://allie.dbcls.jp/short/exact/Any/F acids.html](http://allie.dbcls.jp/short/exact/Any/F acids.html)|
-|Heparin-Dihydergot|[http://allie.dbcls.jp/short/exact/Any/Heparin-Dihydergot.html](http://allie.dbcls.jp/short/exact/Any/Heparin-Dihydergot.html)|
-|UDA|[http://allie.dbcls.jp/short/exact/Any/UDA.html](http://allie.dbcls.jp/short/exact/Any/UDA.html)|
-|udas|[http://allie.dbcls.jp/short/exact/Any/udas.html](http://allie.dbcls.jp/short/exact/Any/udas.html)|
-|udar|[http://allie.dbcls.jp/short/exact/Any/udar.html](http://allie.dbcls.jp/short/exact/Any/udar.html)|
-|YES|[http://allie.dbcls.jp/short/exact/Any/YES.html](http://allie.dbcls.jp/short/exact/Any/YES.html)|
-|JGCC|[http://allie.dbcls.jp/short/exact/Any/JGCC.html](http://allie.dbcls.jp/short/exact/Any/JGCC.html)|
-|JA|[http://allie.dbcls.jp/short/exact/Any/JA.html](http://allie.dbcls.jp/short/exact/Any/JA.html)|
-|G-6-PHD|[http://allie.dbcls.jp/short/exact/Any/G-6-PHD.html](http://allie.dbcls.jp/short/exact/Any/G-6-PHD.html)|
-|GFAP|[http://allie.dbcls.jp/short/exact/Any/GFAP.html](http://allie.dbcls.jp/short/exact/Any/GFAP.html)|
-|LLT|[http://allie.dbcls.jp/short/exact/Any/LLT.html](http://allie.dbcls.jp/short/exact/Any/LLT.html)|
-|Swiss albino|[http://allie.dbcls.jp/short/exact/Any/Swiss albino.html](http://allie.dbcls.jp/short/exact/Any/Swiss albino.html)|
-|IIR|[http://allie.dbcls.jp/short/exact/Any/IIR.html](http://allie.dbcls.jp/short/exact/Any/IIR.html)|
-|L.m|[http://allie.dbcls.jp/short/exact/Any/L.m.html](http://allie.dbcls.jp/short/exact/Any/L.m.html)|
-|A.G.L|[http://allie.dbcls.jp/short/exact/Any/A.G.L.html](http://allie.dbcls.jp/short/exact/Any/A.G.L.html)|
-|VIIR|[http://allie.dbcls.jp/short/exact/Any/VIIR.html](http://allie.dbcls.jp/short/exact/Any/VIIR.html)|
-|VSO|[http://allie.dbcls.jp/short/exact/Any/VSO.html](http://allie.dbcls.jp/short/exact/Any/VSO.html)|
-|alpha-action|[http://allie.dbcls.jp/short/exact/Any/alpha-action.html](http://allie.dbcls.jp/short/exact/Any/alpha-action.html)|
-|MITE|[http://allie.dbcls.jp/short/exact/Any/MITE.html](http://allie.dbcls.jp/short/exact/Any/MITE.html)|
-|NLG|[http://allie.dbcls.jp/short/exact/Any/NLG.html](http://allie.dbcls.jp/short/exact/Any/NLG.html)|
-|RBGF|[http://allie.dbcls.jp/short/exact/Any/RBGF.html](http://allie.dbcls.jp/short/exact/Any/RBGF.html)|
-|APHWs|[http://allie.dbcls.jp/short/exact/Any/APHWs.html](http://allie.dbcls.jp/short/exact/Any/APHWs.html)|
-|MC-insulin|[http://allie.dbcls.jp/short/exact/Any/MC-insulin.html](http://allie.dbcls.jp/short/exact/Any/MC-insulin.html)|
-|131I-DMO|[http://allie.dbcls.jp/short/exact/Any/131I-DMO.html](http://allie.dbcls.jp/short/exact/Any/131I-DMO.html)|
-|mOHA|[http://allie.dbcls.jp/short/exact/Any/mOHA.html](http://allie.dbcls.jp/short/exact/Any/mOHA.html)|
-|M.C.R|[http://allie.dbcls.jp/short/exact/Any/M.C.R.html](http://allie.dbcls.jp/short/exact/Any/M.C.R.html)|
-|A.I.F.R.O|[http://allie.dbcls.jp/short/exact/Any/A.I.F.R.O.html](http://allie.dbcls.jp/short/exact/Any/A.I.F.R.O.html)|
-|BApNA|[http://allie.dbcls.jp/short/exact/Any/BApNA.html](http://allie.dbcls.jp/short/exact/Any/BApNA.html)|
-|BPVApNA|[http://allie.dbcls.jp/short/exact/Any/BPVApNA.html](http://allie.dbcls.jp/short/exact/Any/BPVApNA.html)|
-|FZI|[http://allie.dbcls.jp/short/exact/Any/FZI.html](http://allie.dbcls.jp/short/exact/Any/FZI.html)|
-|201Tl-MPI|[http://allie.dbcls.jp/short/exact/Any/201Tl-MPI.html](http://allie.dbcls.jp/short/exact/Any/201Tl-MPI.html)|
-|LFOV|[http://allie.dbcls.jp/short/exact/Any/LFOV.html](http://allie.dbcls.jp/short/exact/Any/LFOV.html)|
-|VOC|[http://allie.dbcls.jp/short/exact/Any/VOC.html](http://allie.dbcls.jp/short/exact/Any/VOC.html)|
-|VIC|[http://allie.dbcls.jp/short/exact/Any/VIC.html](http://allie.dbcls.jp/short/exact/Any/VIC.html)|
-|ORC|[http://allie.dbcls.jp/short/exact/Any/ORC.html](http://allie.dbcls.jp/short/exact/Any/ORC.html)|
-|P/A|[http://allie.dbcls.jp/short/exact/Any/P/A.html](http://allie.dbcls.jp/short/exact/Any/P/A.html)|
-|VWFA|[http://allie.dbcls.jp/short/exact/Any/VWFA.html](http://allie.dbcls.jp/short/exact/Any/VWFA.html)|
-|a.c.p|[http://allie.dbcls.jp/short/exact/Any/a.c.p.html](http://allie.dbcls.jp/short/exact/Any/a.c.p.html)|
-|HFM.D|[http://allie.dbcls.jp/short/exact/Any/HFM.D.html](http://allie.dbcls.jp/short/exact/Any/HFM.D.html)|
-|PGR neurones|[http://allie.dbcls.jp/short/exact/Any/PGR neurones.html](http://allie.dbcls.jp/short/exact/Any/PGR neurones.html)|
-|RDV|[http://allie.dbcls.jp/short/exact/Any/RDV.html](http://allie.dbcls.jp/short/exact/Any/RDV.html)|
-|Sal|[http://allie.dbcls.jp/short/exact/Any/Sal.html](http://allie.dbcls.jp/short/exact/Any/Sal.html)|
-|D. V. T|[http://allie.dbcls.jp/short/exact/Any/D. V. T.html](http://allie.dbcls.jp/short/exact/Any/D. V. T.html)|
-|WC X WP|[http://allie.dbcls.jp/short/exact/Any/WC X WP.html](http://allie.dbcls.jp/short/exact/Any/WC X WP.html)|
-|ATCP|[http://allie.dbcls.jp/short/exact/Any/ATCP.html](http://allie.dbcls.jp/short/exact/Any/ATCP.html)|
-|PTPCV|[http://allie.dbcls.jp/short/exact/Any/PTPCV.html](http://allie.dbcls.jp/short/exact/Any/PTPCV.html)|
-|H.D., N.S|[http://allie.dbcls.jp/short/exact/Any/H.D., N.S.html](http://allie.dbcls.jp/short/exact/Any/H.D., N.S.html)|
-|HESM|[http://allie.dbcls.jp/short/exact/Any/HESM.html](http://allie.dbcls.jp/short/exact/Any/HESM.html)|
-|PALT|[http://allie.dbcls.jp/short/exact/Any/PALT.html](http://allie.dbcls.jp/short/exact/Any/PALT.html)|
-|NBX|[http://allie.dbcls.jp/short/exact/Any/NBX.html](http://allie.dbcls.jp/short/exact/Any/NBX.html)|
-|p.N|[http://allie.dbcls.jp/short/exact/Any/p.N.html](http://allie.dbcls.jp/short/exact/Any/p.N.html)|
-|CO, CI|[http://allie.dbcls.jp/short/exact/Any/CO, CI.html](http://allie.dbcls.jp/short/exact/Any/CO, CI.html)|
-|Toxo-GIF|[http://allie.dbcls.jp/short/exact/Any/Toxo-GIF.html](http://allie.dbcls.jp/short/exact/Any/Toxo-GIF.html)|
-|CNH|[http://allie.dbcls.jp/short/exact/Any/CNH.html](http://allie.dbcls.jp/short/exact/Any/CNH.html)|
-|QAC|[http://allie.dbcls.jp/short/exact/Any/QAC.html](http://allie.dbcls.jp/short/exact/Any/QAC.html)|
-|R.A. cell|[http://allie.dbcls.jp/short/exact/Any/R.A. cell.html](http://allie.dbcls.jp/short/exact/Any/R.A. cell.html)|
-|EOe|[http://allie.dbcls.jp/short/exact/Any/EOe.html](http://allie.dbcls.jp/short/exact/Any/EOe.html)|
-|OeV|[http://allie.dbcls.jp/short/exact/Any/OeV.html](http://allie.dbcls.jp/short/exact/Any/OeV.html)|
-|C/M|[http://allie.dbcls.jp/short/exact/Any/C/M.html](http://allie.dbcls.jp/short/exact/Any/C/M.html)|
-|PgF2alpha|[http://allie.dbcls.jp/short/exact/Any/PgF2alpha.html](http://allie.dbcls.jp/short/exact/Any/PgF2alpha.html)|
-|ORL|[http://allie.dbcls.jp/short/exact/Any/ORL.html](http://allie.dbcls.jp/short/exact/Any/ORL.html)|
-|I-III|[http://allie.dbcls.jp/short/exact/Any/I-III.html](http://allie.dbcls.jp/short/exact/Any/I-III.html)|
-|RVD index|[http://allie.dbcls.jp/short/exact/Any/RVD index.html](http://allie.dbcls.jp/short/exact/Any/RVD index.html)|
-|H.M.P|[http://allie.dbcls.jp/short/exact/Any/H.M.P.html](http://allie.dbcls.jp/short/exact/Any/H.M.P.html)|
-|ccu|[http://allie.dbcls.jp/short/exact/Any/ccu.html](http://allie.dbcls.jp/short/exact/Any/ccu.html)|
-|L-TP|[http://allie.dbcls.jp/short/exact/Any/L-TP.html](http://allie.dbcls.jp/short/exact/Any/L-TP.html)|
-|RLCC|[http://allie.dbcls.jp/short/exact/Any/RLCC.html](http://allie.dbcls.jp/short/exact/Any/RLCC.html)|
-|c.AEP|[http://allie.dbcls.jp/short/exact/Any/c.AEP.html](http://allie.dbcls.jp/short/exact/Any/c.AEP.html)|
-|s.AEP|[http://allie.dbcls.jp/short/exact/Any/s.AEP.html](http://allie.dbcls.jp/short/exact/Any/s.AEP.html)|
-|LyIF|[http://allie.dbcls.jp/short/exact/Any/LyIF.html](http://allie.dbcls.jp/short/exact/Any/LyIF.html)|
-|YCNP|[http://allie.dbcls.jp/short/exact/Any/YCNP.html](http://allie.dbcls.jp/short/exact/Any/YCNP.html)|
-|SA/BW|[http://allie.dbcls.jp/short/exact/Any/SA/BW.html](http://allie.dbcls.jp/short/exact/Any/SA/BW.html)|
-|SHB|[http://allie.dbcls.jp/short/exact/Any/SHB.html](http://allie.dbcls.jp/short/exact/Any/SHB.html)|
-|SHMN|[http://allie.dbcls.jp/short/exact/Any/SHMN.html](http://allie.dbcls.jp/short/exact/Any/SHMN.html)|
-|H. influenzae|[http://allie.dbcls.jp/short/exact/Any/H. influenzae.html](http://allie.dbcls.jp/short/exact/Any/H. influenzae.html)|
-|AV8|[http://allie.dbcls.jp/short/exact/Any/AV8.html](http://allie.dbcls.jp/short/exact/Any/AV8.html)|
-|EPPs|[http://allie.dbcls.jp/short/exact/Any/EPPs.html](http://allie.dbcls.jp/short/exact/Any/EPPs.html)|
-|BVR|[http://allie.dbcls.jp/short/exact/Any/BVR.html](http://allie.dbcls.jp/short/exact/Any/BVR.html)|
-|acPase|[http://allie.dbcls.jp/short/exact/Any/acPase.html](http://allie.dbcls.jp/short/exact/Any/acPase.html)|
-|GTU|[http://allie.dbcls.jp/short/exact/Any/GTU.html](http://allie.dbcls.jp/short/exact/Any/GTU.html)|
-|DAMOX|[http://allie.dbcls.jp/short/exact/Any/DAMOX.html](http://allie.dbcls.jp/short/exact/Any/DAMOX.html)|
-|DASOX|[http://allie.dbcls.jp/short/exact/Any/DASOX.html](http://allie.dbcls.jp/short/exact/Any/DASOX.html)|
-|d-TGV|[http://allie.dbcls.jp/short/exact/Any/d-TGV.html](http://allie.dbcls.jp/short/exact/Any/d-TGV.html)|
-|TAAs|[http://allie.dbcls.jp/short/exact/Any/TAAs.html](http://allie.dbcls.jp/short/exact/Any/TAAs.html)|
-|CVH|[http://allie.dbcls.jp/short/exact/Any/CVH.html](http://allie.dbcls.jp/short/exact/Any/CVH.html)|
-|dust|[http://allie.dbcls.jp/short/exact/Any/dust.html](http://allie.dbcls.jp/short/exact/Any/dust.html)|
-|FSWG|[http://allie.dbcls.jp/short/exact/Any/FSWG.html](http://allie.dbcls.jp/short/exact/Any/FSWG.html)|
-|Gus|[http://allie.dbcls.jp/short/exact/Any/Gus.html](http://allie.dbcls.jp/short/exact/Any/Gus.html)|
-|gag|[http://allie.dbcls.jp/short/exact/Any/gag.html](http://allie.dbcls.jp/short/exact/Any/gag.html)|
-|7-Mono-HR|[http://allie.dbcls.jp/short/exact/Any/7-Mono-HR.html](http://allie.dbcls.jp/short/exact/Any/7-Mono-HR.html)|
-|3H-diosmine|[http://allie.dbcls.jp/short/exact/Any/3H-diosmine.html](http://allie.dbcls.jp/short/exact/Any/3H-diosmine.html)|
-|Tilidine HC1|[http://allie.dbcls.jp/short/exact/Any/Tilidine HC1.html](http://allie.dbcls.jp/short/exact/Any/Tilidine HC1.html)|
-|VTG|[http://allie.dbcls.jp/short/exact/Any/VTG.html](http://allie.dbcls.jp/short/exact/Any/VTG.html)|
-|temp-jump|[http://allie.dbcls.jp/short/exact/Any/temp-jump.html](http://allie.dbcls.jp/short/exact/Any/temp-jump.html)|
